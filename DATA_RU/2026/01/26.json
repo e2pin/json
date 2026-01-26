@@ -1,6 +1,6 @@
 {
   "date": "2026-01-26",
-  "generatedAt": "2026-01-26T19:55:06.412Z",
+  "generatedAt": "2026-01-26T20:05:08.270Z",
   "totalEvents": 8,
   "events": [
     {
@@ -83,7 +83,7 @@
       "title": "Эвертон - Лидс Юнайтед",
       "path": "everton-vs-leeds-united-26-01-26",
       "dateTime": "2026-01-26T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
@@ -98,7 +98,7 @@
       "title": "Жирона - Хетафе",
       "path": "girona-vs-getafe-26-01-26",
       "dateTime": "2026-01-26T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
