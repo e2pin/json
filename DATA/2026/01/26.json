@@ -1,6 +1,6 @@
 {
   "date": "2026-01-26",
-  "generatedAt": "2026-01-26T16:55:04.704Z",
+  "generatedAt": "2026-01-26T17:05:05.056Z",
   "totalEvents": 8,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Eyüpspor vs Beşiktaş",
       "path": "eypspor-vs-beikta-26-01-26",
       "dateTime": "2026-01-26T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
