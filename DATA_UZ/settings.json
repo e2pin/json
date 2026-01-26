@@ -1,0 +1,15 @@
+{
+  "mainSettings": [
+    {
+		"actualHomeURL": "https://ff.spon.uz/",
+		"actualAppURL": "https://app.tutsport.net/",
+		"actualRefURL": "https://ff.spon.uz/",
+		"playerURL": "https://pl.wcp.su/c/",
+		"playerURL2": "https://p.afu.su/?id=",
+		"dataURL": "https://e2pin.github.io/json/DATA_UZ/",
+		"imgTeamsURL": "https://e2pin.github.io/json/DATA/i/teams/",
+		"imgCatURL": "https://e2pin.github.io/json/DATA/i/cat/"
+    }
+  ],
+  "msg": "All OK!"
+}

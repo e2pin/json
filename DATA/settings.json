@@ -1,0 +1,21 @@
+{
+  "mainSettings": [
+    {
+		"actualHomeURL": "https://x.tutsport.net/",
+		"actualAppURL": "https://app.tutsport.net/",
+		"actualRefURL": "https://tutsport.net/en/",
+		"playerURL": "https://pl.wcp.su/c/",
+		"playerURL2": "https://p.afu.su/?id=",
+		"dataURL": "https://e2pin.github.io/json/DATA/",
+		"imgTeamsURL": "https://e2pin.github.io/json/DATA/i/teams/",
+		"imgCatURL": "https://e2pin.github.io/json/DATA/i/cat/"
+    }
+  ],
+  "Langs": [
+    {
+		"RU": "https://e2pin.github.io/json/DATA_RU/",
+		"UZ": "https://e2pin.github.io/json/DATA_UZ/"
+    }
+  ],
+  "msg": "All OK!"
+}
