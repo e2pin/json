@@ -1,6 +1,6 @@
 {
   "date": "2026-01-26",
-  "generatedAt": "2026-01-26T17:25:06.048Z",
+  "generatedAt": "2026-01-26T17:30:05.400Z",
   "totalEvents": 8,
   "events": [
     {
@@ -38,11 +38,11 @@
       "title": "Eyüpspor - Beşiktaş",
       "path": "eypspor-vs-beikta-26-01-26",
       "dateTime": "2026-01-26T17:00:00+00:00",
-      "score": "1 - 1",
+      "score": "0 - 1",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>6'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >O. Kokcu (0 - 1)</td></tr><tr><td align='right' width='42%' >U. Bozok (1 - 1)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>21'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>6'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >O. Kokcu (0 - 1)</td></tr><tr><td align='right' width='42%' >U. Bozok<div class='assist'>Goal Disallowed - offside</div></td><td width='5%' align='center'><span class='flag var'></span></td><td align='center' width='6%'>21'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "522",
       "dataContent": "<title>Eyüpspor - Beşiktaş: Jonli efir; Istanbul Derbisini tomosha qiling Turkiya - Super Liga 26.01.2026</title>\n<meta name=\"description\" content=\"Eyüpspor - Beşiktaş jonli efirini onlayn tomosha qiling. Turkiya - Super Liga, 26.01.2026. Bashoratlar, boshlang'ich tarkiblar va H2H statistikalarini tutsport.net da ko'ring.\">",
       "linkToEvent": "https://www.livesoccertv.com/match/besiktas-vs-eyupspor/8190m",
