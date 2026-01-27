@@ -1,6 +1,6 @@
 {
   "date": "2026-01-27",
-  "generatedAt": "2026-01-27T19:25:04.281Z",
+  "generatedAt": "2026-01-27T19:35:03.718Z",
   "totalEvents": 3,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Saint Pauli - RB Leypsig",
       "path": "st-pauli-vs-rb-leipzig-27-01-26",
       "dateTime": "2026-01-27T19:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -23,7 +23,7 @@
       "title": "Werder Bremen - Hoffenheim",
       "path": "werder-bremen-vs-hoffenheim-27-01-26",
       "dateTime": "2026-01-27T19:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
