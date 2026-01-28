@@ -1,0 +1,56 @@
+{
+  "date": "2026-01-29",
+  "generatedAt": "2026-01-28T22:28:18.913Z",
+  "totalEvents": 3,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "Europe - UEFA Europa League",
+      "title": "Porto vs Rangers",
+      "path": "porto-vs-rangers-29-01-26",
+      "dateTime": "2026-01-29T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "14032",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/porto-vs-rangers/1ea13",
+      "status": "upcoming",
+      "channel": "Qazsport"
+    },
+    {
+      "categories": "Europe - UEFA Europa League",
+      "title": "Aston Villa vs Salzburg",
+      "path": "aston-villa-vs-salzburg-29-01-26",
+      "dateTime": "2026-01-29T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "20062",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/aston-villa-vs-salzburg/1sjiq",
+      "status": "upcoming",
+      "channel": "Q League"
+    },
+    {
+      "categories": "Europe - UEFA Europa League",
+      "title": "Panathinaikos vs Roma",
+      "path": "panathinaikos-vs-roma-29-01-26",
+      "dateTime": "2026-01-29T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "20061",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/panathinaikos-vs-roma/1ouwn",
+      "status": "upcoming",
+      "channel": "Q Arena"
+    }
+  ]
+}
