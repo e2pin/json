@@ -1,9 +1,41 @@
 {
   "date": "2026-01-28",
-  "generatedAt": "2026-01-28T09:05:45.031Z",
-  "totalEvents": 4,
+  "generatedAt": "2026-01-28T10:09:12.453Z",
+  "totalEvents": 9,
   "problematicEventsCount": 0,
   "events": [
+    {
+      "categories": "Saudi Arabia - Pro League",
+      "title": "Al-Ahli vs Al Ittifaq",
+      "path": "alahli-vs-al-ittifaq-28-01-26",
+      "dateTime": "2026-01-28T17:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "saudi-arabia-pro-league.webp",
+      "events": null,
+      "playerId": "2528",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-ittifaq-vs-al-ahli/aa5a5",
+      "status": "upcoming",
+      "channel": "Sport TV4"
+    },
+    {
+      "categories": "Europe - UEFA Champions League",
+      "title": "PSG vs Newcastle United",
+      "path": "psg-vs-newcastle-united-28-01-26",
+      "dateTime": "2026-01-28T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": null,
+      "playerId": "20147",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/psg-vs-newcastle-united/1hva9",
+      "status": "upcoming",
+      "channel": "Okko Sport"
+    },
     {
       "categories": "Europe - UEFA Champions League",
       "title": "Benfica vs Real Madrid",
@@ -67,6 +99,54 @@
       "linkToEvent": "https://www.livesoccertv.com/match/arsenal-vs-kairat/gr733",
       "status": "upcoming",
       "channel": "Kazakhstan TV"
+    },
+    {
+      "categories": "Europe - UEFA Champions League",
+      "title": "Borussia Dortmund vs Internazionale",
+      "path": "borussia-dortmund-vs-internazionale-28-01-26",
+      "dateTime": "2026-01-28T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": null,
+      "playerId": "30199",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/borussia-dortmund-vs-internazionale/1kjo2",
+      "status": "upcoming",
+      "channel": "Okko Sport"
+    },
+    {
+      "categories": "Europe - UEFA Champions League",
+      "title": "Napoli vs Chelsea",
+      "path": "napoli-vs-chelsea-28-01-26",
+      "dateTime": "2026-01-28T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": null,
+      "playerId": "30201",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/chelsea-vs-napoli/1jrf1",
+      "status": "upcoming",
+      "channel": "Okko Sport"
+    },
+    {
+      "categories": "Europe - UEFA Champions League",
+      "title": "Liverpool vs Qarabağ",
+      "path": "liverpool-vs-qaraba-28-01-26",
+      "dateTime": "2026-01-28T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": null,
+      "playerId": "2195",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/liverpool-vs-qarabag/50652",
+      "status": "upcoming",
+      "channel": "Okko Sport"
     }
   ]
 }
