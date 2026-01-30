@@ -1,25 +1,9 @@
 {
   "date": "2026-01-30",
-  "generatedAt": "2026-01-30T07:57:43.025Z",
-  "totalEvents": 8,
+  "generatedAt": "2026-01-30T08:07:16.494Z",
+  "totalEvents": 7,
   "problematicEventsCount": 0,
   "events": [
-    {
-      "categories": "Indonesia - Super League",
-      "title": "Persik Kediri vs Bali United",
-      "path": "persik-kediri-vs-bali-united-30-01-26",
-      "dateTime": "2026-01-30T08:30:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": "indonesia-super-league.webp",
-      "events": null,
-      "playerId": "live",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/bali-united-vs-persik-kediri/139mdn",
-      "status": "upcoming",
-      "channel": "Indosiar"
-    },
     {
       "categories": "Indonesia - Super League",
       "title": "Persita vs Persija",
