@@ -1,6 +1,6 @@
 {
   "date": "2026-01-30",
-  "generatedAt": "2026-01-30T11:10:25.071Z",
+  "generatedAt": "2026-01-30T11:12:39.795Z",
   "totalEvents": 9,
   "problematicEventsCount": 0,
   "events": [
@@ -22,8 +22,8 @@
     },
     {
       "categories": "Europe - UEFA Champions League",
-      "title": "UEFA Champions League Draw 30.01.26",
-      "path": "uefa-champions-league-draw-300126-30-01-26",
+      "title": "UEFA Champions League Draw",
+      "path": "uefa-champions-league-draw-30-01-26",
       "dateTime": "2026-01-30T11:00:00+00:00",
       "score": null,
       "team1_img_url": null,
