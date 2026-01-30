@@ -1,8 +1,7 @@
 {
   "date": "2026-01-30",
-  "generatedAt": "2026-01-30T08:07:16.494Z",
-  "totalEvents": 7,
-  "problematicEventsCount": 0,
+  "generatedAt": "2026-01-30T08:25:05.342Z",
+  "totalEvents": 8,
   "events": [
     {
       "categories": "Indonesia - Super League",
@@ -17,8 +16,22 @@
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/persija-vs-persita/yxo6m",
-      "status": "upcoming",
-      "channel": "Indosiar"
+      "status": "live"
+    },
+    {
+      "categories": "Europe - UEFA Champions League",
+      "title": "UEFA Champions League Draw 30.01.26",
+      "path": "uefa-champions-league-draw-300126-30-01-26",
+      "dateTime": "2026-01-30T11:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "6554",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/uefa-champions-league-draw/2dcsr9168",
+      "status": "upcoming"
     },
     {
       "categories": "Turkey - Super Lig",
@@ -33,8 +46,7 @@
       "playerId": "522",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/antalyaspor-vs-trabzonspor/25nv4",
-      "status": "upcoming",
-      "channel": "Match! Football 3"
+      "status": "upcoming"
     },
     {
       "categories": "Saudi Arabia - Pro League",
@@ -49,8 +61,7 @@
       "playerId": "270",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/al-nassr-vs-al-kholood/4cy4jq",
-      "status": "upcoming",
-      "channel": "Setanta Sports 2"
+      "status": "upcoming"
     },
     {
       "categories": "Germany - Bundesliga",
@@ -65,24 +76,7 @@
       "playerId": "271",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/koln-vs-wolfsburg/19flw",
-      "status": "upcoming",
-      "channel": "Setanta Sports 1"
-    },
-    {
-      "categories": "France - Ligue 1",
-      "title": "Lens vs Le Havre",
-      "path": "lens-vs-le-havre-30-01-26",
-      "dateTime": "2026-01-30T19:45:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "2527",
-      "dataContent": "<title>Lens vs Le Havre: Live Stream; Watch Ligue 1 Clash on 30.01.2026</title> <meta name='description' content='Watch Lens vs Le Havre live stream online. Ligue 1, 30.01.2026. See predictions, starting lineups, and H2H stats on tutsport.net.'> <h1>Lens vs Le Havre: Live Stream &amp; Watch Online</h1> In what promises to be an engaging encounter in Ligue 1, Lens will welcome Le Havre to the Stade Bollaert-Delelis on January 30, 2026. Both teams are striving for crucial points as they seek to solidify their standings in the league. With Lens currently aiming for European qualification and Le Havre fighting to stay clear of the relegation zone, fans can expect an intense battle between two sides with different ambitions. <strong>Kick-off:</strong> 30.01.2026, 19:45 UTC / 22:45 MSK<br> <strong>Stadium:</strong> Stade Bollaert-Delelis<br> <strong>Competition:</strong> Ligue 1 <h2>Match Preview</h2> Lens are enjoying a solid season thus far, currently placing themselves in the top ranks of Ligue 1, where they have shown their determination to compete with the league’s elite. Under the guidance of their coach, the team has displayed an attractive attacking style, scoring a commendable number of goals while maintaining decent defensive solidity. On the other hand, Le Havre's journey this season has been somewhat turbulent. With an unpredictable form that has fluctuated between impressive performances and disappointing results, they find themselves near the bottom of the standings. Their upcoming match will be vital in defining their season; a victory could provide a crucial boost in confidence and standing as they aim to avoid relegation. <h2>Team Form and Analysis</h2> <h3>Lens</h3> Lens has been bolstered by strong performances from their key players, notably the prolific attacking pair who have showcased their ability to find the back of the net consistently. However, they are facing minor injury concerns, with a couple of players expected to miss out on this fixture. Despite this, the manager will likely lean on their robust home support to motivate the squad, aiming to capitalize on Le Havre's defensive vulnerabilities. <h3>Le Havre</h3> Le Havre's campaign has been marred by inconsistencies, and they will need to rediscover their form ahead of this critical match. Injuries have also affected their lineup, with some pivotal players struggling to return to fitness. The coach might deploy a more conservative approach, focusing on compact defending and quick counterattacks to exploit Lens's offensive pushes. <h2>Predicted Starting Lineups</h2> <ul> <li><strong>Lens:</strong> <ul> <li>Goalkeeper: Jean-Louis Leca</li> <li>Defenders: Jonathan Gradit, Facundo Medina, Kevin Danso, Deiver Machado</li> <li>Midfielders: Seko Fofana, Cheick Doucouré, David Pereira Da Costa</li> <li>Forwards: Florian Sotoca, Lois Openda, Arnaud Kalimuendo</li> </ul> </li> <li><strong>Le Havre:</strong> <ul> <li>Goalkeeper: Mathieu Gorgelin</li> <li>Defenders: Léo Pefok, Harold Moukoudi, Tino Kadewere, Aïmen Moueffek</li> <li>Midfielders: Johan Gastien, Pape Gueye, Jérémy Le Douaron</li> <li>Forwards: Nabil Alioui, Kévin Fortuné, Hamsa Camara</li> </ul> </li> </ul> <h2>Match Prediction by tutsport.net</h2> <ul> <li><strong>Main Prediction:</strong> Lens to Win. The home advantage and superior form give Lens the edge over Le Havre.</li> <li><strong>Total Goals Prediction:</strong> Over 2.5 Goals. Both teams have shown attacking intent, suggesting a high-scoring match could unfold.</li> </ul> For those keen to catch all the action, be sure to check out tutbet.net.",
-      "linkToEvent": "https://www.livesoccertv.com/match/lens-vs-le-havre/3ud4k",
-      "status": "upcoming",
-      "channel": "Sport TV3"
+      "status": "upcoming"
     },
     {
       "categories": "Italy - Serie A",
@@ -97,8 +91,22 @@
       "playerId": "124",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/genoa-vs-lazio/1x8yr",
-      "status": "upcoming",
-      "channel": "Match! Football 1"
+      "status": "upcoming"
+    },
+    {
+      "categories": "France - Ligue 1",
+      "title": "Lens vs Le Havre",
+      "path": "lens-vs-le-havre-30-01-26",
+      "dateTime": "2026-01-30T19:45:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2527",
+      "dataContent": "<title>Lens vs Le Havre: Live Stream; Watch Ligue 1 Clash on 30.01.2026</title>\n<meta name=\"description\" content=\"Watch Lens vs Le Havre live stream online. Ligue 1, 30.01.2026. See predictions, starting lineups, and H2H stats on tutsport.net.\">\n<h1>Lens vs Le Havre: Live Stream &amp; Watch Online</h1>\n\nIn what promises to be an engaging encounter in Ligue 1, Lens will welcome Le Havre to the Stade Bollaert-Delelis on January 30, 2026. Both teams are striving for crucial points as they seek to solidify their standings in the league. With Lens currently aiming for European qualification and Le Havre fighting to stay clear of the relegation zone, fans can expect an intense battle between two sides with different ambitions.\n\n<strong>Kick-off:</strong> 30.01.2026, 19:45 UTC / 22:45 MSK<br>\n<strong>Stadium:</strong> Stade Bollaert-Delelis<br>\n<strong>Competition:</strong> Ligue 1\n\n<h2>Match Preview</h2>\nLens are enjoying a solid season thus far, currently placing themselves in the top ranks of Ligue 1, where they have shown their determination to compete with the league’s elite. Under the guidance of their coach, the team has displayed an attractive attacking style, scoring a commendable number of goals while maintaining decent defensive solidity. \n\nOn the other hand, Le Havre's journey this season has been somewhat turbulent. With an unpredictable form that has fluctuated between impressive performances and disappointing results, they find themselves near the bottom of the standings. Their upcoming match will be vital in defining their season; a victory could provide a crucial boost in confidence and standing as they aim to avoid relegation.\n\n<h2>Team Form and Analysis</h2>\n\n<h3>Lens</h3>\nLens has been bolstered by strong performances from their key players, notably the prolific attacking pair who have showcased their ability to find the back of the net consistently. However, they are facing minor injury concerns, with a couple of players expected to miss out on this fixture. Despite this, the manager will likely lean on their robust home support to motivate the squad, aiming to capitalize on Le Havre's defensive vulnerabilities.\n\n<h3>Le Havre</h3>\nLe Havre's campaign has been marred by inconsistencies, and they will need to rediscover their form ahead of this critical match. Injuries have also affected their lineup, with some pivotal players struggling to return to fitness. The coach might deploy a more conservative approach, focusing on compact defending and quick counterattacks to exploit Lens's offensive pushes.\n\n<h2>Predicted Starting Lineups</h2>\n<ul>\n    <li><strong>Lens:</strong>\n        <ul>\n            <li>Goalkeeper: Jean-Louis Leca</li>\n            <li>Defenders: Jonathan Gradit, Facundo Medina, Kevin Danso, Deiver Machado</li>\n            <li>Midfielders: Seko Fofana, Cheick Doucouré, David Pereira Da Costa</li>\n            <li>Forwards: Florian Sotoca, Lois Openda, Arnaud Kalimuendo</li>\n        </ul>\n    </li>\n    <li><strong>Le Havre:</strong>\n        <ul>\n            <li>Goalkeeper: Mathieu Gorgelin</li>\n            <li>Defenders: Léo Pefok, Harold Moukoudi, Tino Kadewere, Aïmen Moueffek</li>\n            <li>Midfielders: Johan Gastien, Pape Gueye, Jérémy Le Douaron</li>\n            <li>Forwards: Nabil Alioui, Kévin Fortuné, Hamsa Camara</li>\n        </ul>\n    </li>\n</ul>\n\n<h2>Match Prediction by tutsport.net</h2>\n<ul>\n    <li><strong>Main Prediction:</strong> Lens to Win. The home advantage and superior form give Lens the edge over Le Havre.</li>\n    <li><strong>Total Goals Prediction:</strong> Over 2.5 Goals. Both teams have shown attacking intent, suggesting a high-scoring match could unfold.</li>\n</ul>\n\nFor those keen to catch all the action, be sure to check out tutbet.net.",
+      "linkToEvent": "https://www.livesoccertv.com/match/lens-vs-le-havre/3ud4k",
+      "status": "upcoming"
     },
     {
       "categories": "Spain - La Liga",
@@ -113,8 +121,7 @@
       "playerId": "211",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/espanyol-vs-deportivo-alaves/59p2p",
-      "status": "upcoming",
-      "channel": "Match! Football 2"
+      "status": "upcoming"
     }
   ]
 }
