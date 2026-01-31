@@ -1,6 +1,6 @@
 {
   "date": "2026-01-31",
-  "generatedAt": "2026-01-31T14:00:05.234Z",
+  "generatedAt": "2026-01-31T14:05:05.902Z",
   "totalEvents": 17,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Pisa vs Sassuolo",
       "path": "pisa-vs-sassuolo-31-01-26",
       "dateTime": "2026-01-31T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
