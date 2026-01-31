@@ -1,6 +1,6 @@
 {
   "date": "2026-01-31",
-  "generatedAt": "2026-01-31T17:30:14.418Z",
+  "generatedAt": "2026-01-31T17:35:10.716Z",
   "totalEvents": 17,
   "events": [
     {
@@ -147,7 +147,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >A. Vergara (1 - 0)<div class='assist'>Assist: A. Meret</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>11'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >A. Vergara (1 - 0)<div class='assist'>Assist: A. Meret</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>11'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >M. Olivera / G. Di Lorenzo</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>30'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "124",
       "dataContent": "<title>Наполи - Фиорентина: Прямой Эфир; Смотрите Дерби в Италии - Серия А 31.01.2026</title>\n\n<meta name=\"description\" content=\"Смотрите Наполи - Фиорентина прямой эфир онлайн. Италия - Серия А, 31.01.2026. Смотрите прогнозы, стартовые составы и статистику H2H на tutbet.net.\">",
       "linkToEvent": "https://www.livesoccertv.com/match/fiorentina-vs-napoli/1x8ys",
@@ -158,7 +158,7 @@
       "title": "Леванте - Атлетико Мадрид",
       "path": "levante-vs-atltico-madrid-31-01-26",
       "dateTime": "2026-01-31T17:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
@@ -173,7 +173,7 @@
       "title": "Гамбург - Байерн Мюнхен",
       "path": "hamburger-sv-vs-bayern-mnchen-31-01-26",
       "dateTime": "2026-01-31T17:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -188,7 +188,7 @@
       "title": "Челси - Вест Хэм Юнайтед",
       "path": "chelsea-vs-west-ham-united-31-01-26",
       "dateTime": "2026-01-31T17:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
