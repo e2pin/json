@@ -1,7 +1,7 @@
 {
   "date": "2026-02-02",
-  "generatedAt": "2026-02-01T22:35:28.482Z",
-  "totalEvents": 4,
+  "generatedAt": "2026-02-02T08:15:12.430Z",
+  "totalEvents": 8,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -37,6 +37,22 @@
       "channel": "Indosiar"
     },
     {
+      "categories": "Saudi Arabia - Pro League",
+      "title": "Al Riyadh vs Al Nassr",
+      "path": "al-riyadh-vs-al-nassr-02-02-26",
+      "dateTime": "2026-02-02T15:15:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "saudi-arabia-pro-league.webp",
+      "events": null,
+      "playerId": "271",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-nassr-vs-al-riyadh/zgtdf",
+      "status": "upcoming",
+      "channel": "Setanta Sports 1"
+    },
+    {
       "categories": "Turkey - Super Lig",
       "title": "Kocaelispor vs Fenerbahçe",
       "path": "kocaelispor-vs-fenerbahe-02-02-26",
@@ -53,6 +69,38 @@
       "channel": "Match! Football 3"
     },
     {
+      "categories": "Saudi Arabia - Pro League",
+      "title": "Al Hilal vs Al-Ahli",
+      "path": "al-hilal-vs-alahli-02-02-26",
+      "dateTime": "2026-02-02T17:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "saudi-arabia-pro-league.webp",
+      "events": null,
+      "playerId": "271",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-hilal-vs-al-ahli/aa9te",
+      "status": "upcoming",
+      "channel": "Setanta Sports 1"
+    },
+    {
+      "categories": "Italy - Serie A",
+      "title": "Udinese vs Roma",
+      "path": "udinese-vs-roma-02-02-26",
+      "dateTime": "2026-02-02T19:45:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "italy-serie-a.webp",
+      "events": null,
+      "playerId": "270",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/roma-vs-udinese/1x70c",
+      "status": "upcoming",
+      "channel": "Setanta Sports 2"
+    },
+    {
       "categories": "Spain - La Liga",
       "title": "Mallorca vs Sevilla",
       "path": "mallorca-vs-sevilla-02-02-26",
@@ -67,6 +115,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/mallorca-vs-sevilla/1bfvn",
       "status": "upcoming",
       "channel": "Belarus 5"
+    },
+    {
+      "categories": "England - Premier League",
+      "title": "Sunderland vs Burnley",
+      "path": "sunderland-vs-burnley-02-02-26",
+      "dateTime": "2026-02-02T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "england-premier-league.webp",
+      "events": null,
+      "playerId": "271",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/burnley-vs-sunderland/17uwt",
+      "status": "upcoming",
+      "channel": "Setanta Sports 1"
     }
   ]
 }
