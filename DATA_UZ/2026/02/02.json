@@ -1,6 +1,6 @@
 {
   "date": "2026-02-02",
-  "generatedAt": "2026-02-02T19:00:05.947Z",
+  "generatedAt": "2026-02-02T19:05:06.452Z",
   "totalEvents": 8,
   "events": [
     {
@@ -72,7 +72,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "saudi-arabia-pro-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >H. Al Yami / M. Al Harbi</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>46'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >H. Tambakti</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>54'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>56'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >V. Atangana</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >H. Al Yami / M. Al Harbi</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>46'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >H. Tambakti</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>54'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>56'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >V. Atangana</td></tr><tr><td align='right' width='42%' >H. Al Yami</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>71'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "271",
       "dataContent": "<title>Al Hilal - Al-Ahli: Jonli efir; Saudi El Clasico",
       "linkToEvent": "https://www.livesoccertv.com/match/al-hilal-vs-al-ahli/aa9te",
