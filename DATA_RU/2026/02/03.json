@@ -1,6 +1,6 @@
 {
   "date": "2026-02-03",
-  "generatedAt": "2026-02-03T22:40:08.758Z",
+  "generatedAt": "2026-02-03T22:45:07.125Z",
   "totalEvents": 8,
   "events": [
     {
@@ -91,7 +91,7 @@
       "playerId": "271",
       "dataContent": "<div></div>",
       "linkToEvent": "https://www.livesoccertv.com/match/arsenal-vs-chelsea/1794r",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Испания - Кубок Испании",
