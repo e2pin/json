@@ -1,6 +1,6 @@
 {
   "date": "2026-02-03",
-  "generatedAt": "2026-02-03T19:40:04.372Z",
+  "generatedAt": "2026-02-03T19:50:06.218Z",
   "totalEvents": 8,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Bologna - Milan",
       "path": "bologna-vs-milan-03-02-26",
       "dateTime": "2026-02-03T19:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
