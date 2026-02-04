@@ -1,25 +1,9 @@
 {
   "date": "2026-02-04",
-  "generatedAt": "2026-02-04T08:19:56.633Z",
-  "totalEvents": 7,
+  "generatedAt": "2026-02-04T11:45:52.949Z",
+  "totalEvents": 8,
   "problematicEventsCount": 0,
   "events": [
-    {
-      "categories": "Turkey - Turkish Cup",
-      "title": "Gençlerbirliği vs Eyüpspor",
-      "path": "genlerbirlii-vs-eypspor-04-02-26",
-      "dateTime": "2026-02-04T15:00:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "7269",
-      "dataContent": "<title>Gençlerbirliği vs Eyüpspor: Live Stream; Watch Turkish Cup Clash on 04.02.2026</title> <meta name='description' content='Watch Gençlerbirliği vs Eyüpspor live stream online. Turkish Cup, 04.02.2026. See predictions, starting lineups, and H2H stats.'> <h1>Gençlerbirliği vs Eyüpspor: Live Stream &amp; Watch Online</h1> As the Turkish Cup heats up, two ambitious sides, Gençlerbirliği and Eyüpspor, prepare to lock horns in what promises to be a captivating encounter. This knockout fixture carries immense weight, offering a direct path to further glory in one of Turkey's most prestigious competitions. Both teams will be eager to assert their dominance and advance, setting the stage for a fiercely contested battle where tactics, individual brilliance, and sheer determination will be key. <strong>Kick-off:</strong> 04.02.2026, 15:00 UTC / 18:00 MSK<br> <strong>Stadium:</strong> Eryaman Stadium<br> <strong>Competition:</strong> Turkey - Turkish Cup <h2>Match Preview</h2> Gençlerbirliği, currently navigating a challenging league campaign, will view the Turkish Cup as a significant opportunity to ignite their season and provide their fans with some much-needed joy. Their recent form has been inconsistent, marked by flashes of attacking potential intertwined with defensive vulnerabilities. Manager Emre Tekin will be focusing on shoring up the backline while looking to exploit Eyüpspor’s perceived weaknesses. A home advantage could play a crucial role, with the fervent support of their fans often galvanizing the team. Eyüpspor, on the other hand, arrives with a reputation for dynamic play and a robust squad depth. Their league form has generally been more stable, showcasing a balanced approach between attack and defense. Under the guidance of their experienced coach Arda Turan, they will be aiming to impose their fluid passing game and capitalize on any errors from the home side. The psychological edge of their recent league performances might give them a slight confidence boost heading into this crucial cup tie. <h2>Team Form and Analysis</h2> <h3>Gençlerbirliği</h3> Gençlerbirliği's defense has shown signs of fragility in recent outings, often struggling against quick transitions. However, their attacking unit, spearheaded by the prolific striker Bogdan Stancu, has the capability to unlock stubborn defenses. The return of key midfielder Mert Cetin from injury provides a significant boost to their engine room, offering both defensive cover and creative impetus. Expect a pragmatic approach, aiming to absorb pressure and hit on the counter, particularly exploiting the wide areas. <h3>Eyüpspor</h3> Eyüpspor prides itself on a well-drilled defense and a midfield that controls the tempo of the game. Their wingers provide width and pace, often creating chances for their clinical forward, Umut Nayir. While generally solid, they can sometimes be susceptible to direct long balls over the top. Coach Arda Turan is likely to stick with his preferred 4-3-3 formation, emphasizing possession and quick interchanges to break down Gençlerbirliği's resistance. Injury concerns are minimal, with a full-strength squad expected to be available for selection. <h2>Predicted Starting Lineups</h2> <strong>Gençlerbirliği (4-2-3-1):</strong> <ul> <li>Nordfeldt; Johansson, Mert Çetin, Aksu, Pehlivan; Karakaş, Furkan; Ayar, Durmaz, Polat; Stancu</li> </ul> <strong>Eyüpspor (4-3-3):</strong> <ul> <li>Davison; Kaya, Caner, Akça, Gültekin; Regattin, Zorbay, Uçar; Del Valle, Nayir, Sapan</li> </ul> <h2>Match Prediction</h2> <ul> <li><strong>Main Prediction:</strong> Eyüpspor to Win. Eyüpspor's superior squad depth, more consistent form, and tactical discipline are likely to give them the edge in this cup encounter.</li> <li><strong>Total Goals Prediction:</strong> Over 2.5 Goals. Both teams possess credible attacking threats, and with the high stakes of a cup match, a more open game with multiple goals is anticipated.</li> </ul>",
-      "linkToEvent": "https://www.livesoccertv.com/match/genclerbirligi-vs-eyupspor/8294d",
-      "status": "upcoming",
-      "channel": "Sportklub 1 Croatia"
-    },
     {
       "categories": "Italy - Coppa Italia",
       "title": "Bologna vs Lazio",
@@ -35,6 +19,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/bologna-vs-lazio/1wz64",
       "status": "upcoming",
       "channel": "Qazsport"
+    },
+    {
+      "categories": "Turkey - Turkish Cup",
+      "title": "Galatasaray vs İstanbulspor",
+      "path": "galatasaray-vs-istanbulspor-04-02-26",
+      "dateTime": "2026-02-04T17:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "19069",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/galatasaray-vs-istanbulspor/85dv9",
+      "status": "upcoming",
+      "channel": "Unknown"
     },
     {
       "categories": "Germany - DFB Pokal",
@@ -85,20 +85,20 @@
       "channel": "Match! Football 1"
     },
     {
-      "categories": "Italy - Coppa Italia",
-      "title": "Internazionale vs Torino",
-      "path": "internazionale-vs-torino-04-02-26",
+      "categories": "France - Coupe de France",
+      "title": "Troyes vs Lens",
+      "path": "troyes-vs-lens-04-02-26",
       "dateTime": "2026-02-04T20:00:00+00:00",
       "score": null,
       "team1_img_url": null,
       "team2_img_url": null,
-      "cat_img_url": "italy-coppa-italia.webp",
+      "cat_img_url": null,
       "events": null,
-      "playerId": "535",
-      "dataContent": "<title>Internazionale vs Torino: Live Stream; Watch Coppa Italia Match on 04.02.2026</title> <meta name='description' content='Watch Internazionale vs Torino live stream online. Italy - Coppa Italia, 04.02.2026. See predictions, starting lineups, and H2H stats.'> <h1>Internazionale vs Torino: Live Stream &amp; Watch Online</h1> The Coppa Italia heats up as defending champions Internazionale prepare to host a resilient Torino side in what promises to be a thrilling encounter. With both teams eyeing progression in the prestigious domestic cup, this knockout fixture carries immense weight. Internazionale will be looking to continue their dominant domestic form, while Torino, under the shrewd guidance of Ivan Jurić, will aim to spring a surprise and etch their name into the next round. This clash offers a compelling narrative of tactical discipline against attacking prowess, set to unfold in front of a passionate Milan crowd. <strong>Kick-off:</strong> 04.02.2026, 20:00 UTC / 23:00 MSK<br> <strong>Stadium:</strong> Stadio Giuseppe Meazza, Milan<br> <strong>Competition:</strong> Italy - Coppa Italia <h2>Match Preview</h2> Internazionale enter this Coppa Italia fixture on the back of a strong run in Serie A, establishing themselves as formidable title contenders. Their recent performances have been characterized by a clinical attack and a surprisingly robust defense, a testament to Simone Inzaghi's tactical adjustments. The Nerazzurri will be eager to maintain their momentum and assert their dominance in the cup competition, which they have lifted multiple times in recent history. However, Inzaghi might opt for some squad rotation to manage player fatigue, given their demanding league schedule. Key players will likely still feature, ensuring a high level of performance. Torino, on the other hand, arrive in Milan as the underdogs, but with a reputation for being a tough nut to crack. Ivan Jurić's side is well-drilled, defensively organized, and capable of punishing any complacency. Their recent league form has been inconsistent, but in cup competitions, their ability to perform under pressure often shines through. Torino will need to be at their absolute best, replicating the defensive solidity and swift counter-attacks that have troubled bigger teams this season. Injuries could play a role, with Jurić hoping to have his key defensive lynchpins available for this challenging away trip. <h2>Team Form and Analysis</h2> <h3>Internazionale</h3> Internazionale's strength lies in their fluid attacking trio and the creative prowess of their midfield. Their defense, marshaled by experienced veterans, has shown significant improvement, turning tight games into comfortable victories. Inzaghi has instilled a winning mentality, allowing them to grind out results even when not at their scintillating best. While some fringe players might get an opportunity, the core of the team, including their prolific strikers and influential midfielders, is expected to lead the charge. Injury concerns are minimal, offering Inzaghi a full complement of options. <h3>Torino</h3> Torino's form has been a mixed bag in recent weeks, but their resilience is never in doubt. They tend to play with a high press and a compact, physical style that can disrupt even the most established opponents. Their success will heavily depend on their ability to contain Internazionale's creative outlets and exploit any potential space on the counter. Key to their strategy will be their midfield battle, where they will aim to win second balls and dictate the tempo. Updates on a couple of minor knocks within the squad are still pending, which could impact Jurić's final team selection. <h2>Predicted Starting Lineups</h2> <strong>Internazionale (3-5-2):</strong> <ul> <li>GK: Sommer</li> <li>DEF: Pavard, Acerbi, Bastoni</li> <li>MID: Dumfries, Barella, Calhanoglu, Mkhitaryan, Dimarco</li> <li>FW: Martinez, Thuram</li> </ul> <strong>Torino (3-4-2-1):</strong> <ul> <li>GK: Milinković-Savić</li> <li>DEF: Tameze, Buongiorno, Rodriguez</li> <li>MID: Bellanova, Ricci, Ilic, Vojvoda</li> <li>ATT MID: Vlasic, Sanabria</li> <li>FW: Zapata</li> </ul> <h2>Match Prediction</h2> <ul> <li><strong>Main Prediction:</strong> Internazionale to Win</li> <p>Internazionale's superior squad depth, home advantage, and current form make them strong favorites to progress in the Coppa Italia.</p> <li><strong>Total Goals Prediction:</strong> Under 2.5 Goals</li> <p>While Internazionale possess attacking talent, Torino's defensive solidity under Jurić often leads to tightly contested matches with fewer goals.</p> </ul>",
-      "linkToEvent": "https://www.livesoccertv.com/match/internazionale-vs-torino/36e27",
+      "playerId": "16034",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/lens-vs-troyes/3uo82",
       "status": "upcoming",
-      "channel": "Матч!"
+      "channel": "TV Start Triumph"
     },
     {
       "categories": "Spain - Copa del Rey",
@@ -115,6 +115,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/athletic-club-vs-valencia/1b65m",
       "status": "upcoming",
       "channel": "Match! Football 2"
+    },
+    {
+      "categories": "Italy - Coppa Italia",
+      "title": "Internazionale vs Torino",
+      "path": "internazionale-vs-torino-04-02-26",
+      "dateTime": "2026-02-04T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "italy-coppa-italia.webp",
+      "events": null,
+      "playerId": "535",
+      "dataContent": "<title>Internazionale vs Torino: Live Stream; Watch Coppa Italia Match on 04.02.2026</title> <meta name='description' content='Watch Internazionale vs Torino live stream online. Italy - Coppa Italia, 04.02.2026. See predictions, starting lineups, and H2H stats.'> <h1>Internazionale vs Torino: Live Stream &amp; Watch Online</h1> The Coppa Italia heats up as defending champions Internazionale prepare to host a resilient Torino side in what promises to be a thrilling encounter. With both teams eyeing progression in the prestigious domestic cup, this knockout fixture carries immense weight. Internazionale will be looking to continue their dominant domestic form, while Torino, under the shrewd guidance of Ivan Jurić, will aim to spring a surprise and etch their name into the next round. This clash offers a compelling narrative of tactical discipline against attacking prowess, set to unfold in front of a passionate Milan crowd. <strong>Kick-off:</strong> 04.02.2026, 20:00 UTC / 23:00 MSK<br> <strong>Stadium:</strong> Stadio Giuseppe Meazza, Milan<br> <strong>Competition:</strong> Italy - Coppa Italia <h2>Match Preview</h2> Internazionale enter this Coppa Italia fixture on the back of a strong run in Serie A, establishing themselves as formidable title contenders. Their recent performances have been characterized by a clinical attack and a surprisingly robust defense, a testament to Simone Inzaghi's tactical adjustments. The Nerazzurri will be eager to maintain their momentum and assert their dominance in the cup competition, which they have lifted multiple times in recent history. However, Inzaghi might opt for some squad rotation to manage player fatigue, given their demanding league schedule. Key players will likely still feature, ensuring a high level of performance. Torino, on the other hand, arrive in Milan as the underdogs, but with a reputation for being a tough nut to crack. Ivan Jurić's side is well-drilled, defensively organized, and capable of punishing any complacency. Their recent league form has been inconsistent, but in cup competitions, their ability to perform under pressure often shines through. Torino will need to be at their absolute best, replicating the defensive solidity and swift counter-attacks that have troubled bigger teams this season. Injuries could play a role, with Jurić hoping to have his key defensive lynchpins available for this challenging away trip. <h2>Team Form and Analysis</h2> <h3>Internazionale</h3> Internazionale's strength lies in their fluid attacking trio and the creative prowess of their midfield. Their defense, marshaled by experienced veterans, has shown significant improvement, turning tight games into comfortable victories. Inzaghi has instilled a winning mentality, allowing them to grind out results even when not at their scintillating best. While some fringe players might get an opportunity, the core of the team, including their prolific strikers and influential midfielders, is expected to lead the charge. Injury concerns are minimal, offering Inzaghi a full complement of options. <h3>Torino</h3> Torino's form has been a mixed bag in recent weeks, but their resilience is never in doubt. They tend to play with a high press and a compact, physical style that can disrupt even the most established opponents. Their success will heavily depend on their ability to contain Internazionale's creative outlets and exploit any potential space on the counter. Key to their strategy will be their midfield battle, where they will aim to win second balls and dictate the tempo. Updates on a couple of minor knocks within the squad are still pending, which could impact Jurić's final team selection. <h2>Predicted Starting Lineups</h2> <strong>Internazionale (3-5-2):</strong> <ul> <li>GK: Sommer</li> <li>DEF: Pavard, Acerbi, Bastoni</li> <li>MID: Dumfries, Barella, Calhanoglu, Mkhitaryan, Dimarco</li> <li>FW: Martinez, Thuram</li> </ul> <strong>Torino (3-4-2-1):</strong> <ul> <li>GK: Milinković-Savić</li> <li>DEF: Tameze, Buongiorno, Rodriguez</li> <li>MID: Bellanova, Ricci, Ilic, Vojvoda</li> <li>ATT MID: Vlasic, Sanabria</li> <li>FW: Zapata</li> </ul> <h2>Match Prediction</h2> <ul> <li><strong>Main Prediction:</strong> Internazionale to Win</li> <p>Internazionale's superior squad depth, home advantage, and current form make them strong favorites to progress in the Coppa Italia.</p> <li><strong>Total Goals Prediction:</strong> Under 2.5 Goals</li> <p>While Internazionale possess attacking talent, Torino's defensive solidity under Jurić often leads to tightly contested matches with fewer goals.</p> </ul>",
+      "linkToEvent": "https://www.livesoccertv.com/match/internazionale-vs-torino/36e27",
+      "status": "upcoming",
+      "channel": "Матч!"
     }
   ]
 }
