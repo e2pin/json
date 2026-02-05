@@ -1,9 +1,25 @@
 {
   "date": "2026-02-05",
-  "generatedAt": "2026-02-04T20:51:48.926Z",
-  "totalEvents": 5,
+  "generatedAt": "2026-02-05T09:22:05.620Z",
+  "totalEvents": 6,
   "problematicEventsCount": 0,
   "events": [
+    {
+      "categories": "World - Club Friendly",
+      "title": "Ural vs Lokomotiv Moskva",
+      "path": "ural-vs-lokomotiv-moskva-05-02-26",
+      "dateTime": "2026-02-05T12:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "6554",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/lokomotiv-moskva-vs-ural/4qa4p",
+      "status": "upcoming",
+      "channel": "Okko Sport"
+    },
     {
       "categories": "Saudi Arabia - Pro League",
       "title": "Al Akhdoud vs Al Hilal",
@@ -19,22 +35,6 @@
       "linkToEvent": "https://www.livesoccertv.com/match/al-hilal-vs-al-akhdoud/4bl0ow",
       "status": "upcoming",
       "channel": "Setanta Sports 2"
-    },
-    {
-      "categories": "France - Coupe de France",
-      "title": "Strasbourg vs Monaco",
-      "path": "strasbourg-vs-monaco-05-02-26",
-      "dateTime": "2026-02-05T20:00:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "9083",
-      "dataContent": "<title>Strasbourg vs Monaco: Live Stream; Watch Coupe de France Battle on 05.02.2026</title> <meta name='description' content='Watch Strasbourg vs Monaco live stream online. Coupe de France, 05.02.2026. See predictions, starting lineups, and H2H stats.'> <h1>Strasbourg vs Monaco: Live Stream &amp; Watch Online</h1> The Coupe de France reaches a thrilling stage as Strasbourg host Monaco in a highly anticipated clash on 05.02.2026. This encounter pits two teams with differing league ambitions against each other in a cup competition where every game is a final. Both sides will be eager to progress, with Strasbourg aiming for a memorable cup run on home turf, while Monaco will view the Coupe de France as a significant opportunity for silverware this season. The stage is set for a fascinating tactical battle under the floodlights at the Stade de la Meinau. <strong>Kick-off:</strong> 05.02.2026, 20:00 UTC / 23:00 MSK<br> <strong>Stadium:</strong> Stade de la Meinau<br> <strong>Competition:</strong> France - Coupe de France <h2>Match Preview</h2> This Coupe de France fixture promises to be a captivating affair as Strasbourg, often a resilient force at home, welcome a formidable Monaco side. Strasbourg's recent form has been a mix of solid defensive displays and occasional struggles to find consistency in front of goal. Their manager will undoubtedly be emphasizing discipline and taking their chances against a quality opponent. Monaco, on the other hand, have been enjoying a strong season, showcasing their attacking prowess and tactical flexibility. Their experienced squad and depth will pose a significant challenge for the hosts. The narrative for this match is rich with potential storylines. For Strasbourg, a deep cup run could inject vital confidence and momentum into their campaign. They will be relying on their passionate home support to create an intimidating atmosphere. Monaco, under their astute coach, will be looking to assert their dominance early, rotate their squad judiciously, and avoid any potential cup upsets. Both teams have a history of competitive matches, and this knockout tie is expected to be no different, with fine margins likely to decide the outcome. <h2>Team Form and Analysis</h2> <h3>Strasbourg</h3> Strasbourg's defense has been their bedrock in recent weeks, often denying opponents clear-cut chances, especially in front of their home crowd. However, their attacking output has been inconsistent, with a reliance on individual brilliance rather than sustained team movements. Injury concerns for their key striker remain undecided, which could significantly impact their offensive threat. Expect them to adopt a cautious yet opportunistic approach, looking to exploit set-pieces and counter-attacks. Their midfield general will be crucial in disrupting Monaco's rhythm and launching transitions. <h3>Monaco</h3> Monaco arrives in strong form, characterized by their fluid attacking play and robust midfield presence. They possess a wealth of talent across the pitch, with several players capable of turning a game on its head. Their quick wingers and prolific striker pose a constant threat, and their manager has successfully instilled a high-pressing, possession-based philosophy. There are no significant new injury concerns reported, allowing the manager to field a strong side, potentially rotating a couple of players to manage fatigue. They will aim to control possession and dictate the tempo from the outset. <h2>Predicted Starting Lineups</h2> <strong>Strasbourg (4-3-3):</strong> <ul> <li>GK: Sels</li> <li>DF: Guilbert, Perrin, Djiku, Delaine</li> <li>MF: Sissoko, Aholou, Prcic</li> <li>FW: Gameiro, Diallo, Thomasson</li> </ul> <strong>Monaco (4-4-2):</strong> <ul> <li>GK: Nübel</li> <li>DF: Vanderson, Disasi, Maripán, Jakobs</li> <li>MF: Fofana, Matazo, Golovin, Minamino</li> <li>FW: Embolo, Ben Yedder</li> </ul> <h2>Match Prediction</h2> <ul> <li><strong>Main Prediction:</strong> Monaco to Win</li> <li><strong>Reasoning:</strong> Monaco's superior squad depth, current form, and attacking firepower are expected to overcome Strasbourg's home advantage and defensive resilience.</li> <li><strong>Total Goals Prediction:</strong> Over 2.5 Goals</li> <li><strong>Reasoning:</strong> While Strasbourg can be defensively solid, Monaco's potent attack is likely to find the net multiple times, and Strasbourg will push for an equalizer in a cup tie.</li> </ul>",
-      "linkToEvent": "https://www.livesoccertv.com/match/monaco-vs-strasbourg/829bq",
-      "status": "upcoming",
-      "channel": "TV Start"
     },
     {
       "categories": "Italy - Coppa Italia",
@@ -67,6 +67,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/atletico-madrid-vs-real-betis/2ct4h",
       "status": "upcoming",
       "channel": "Match! Football 2"
+    },
+    {
+      "categories": "France - Coupe de France",
+      "title": "Strasbourg vs Monaco",
+      "path": "strasbourg-vs-monaco-05-02-26",
+      "dateTime": "2026-02-05T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "9083",
+      "dataContent": "<title>Strasbourg vs Monaco: Live Stream; Watch Coupe de France Battle on 05.02.2026</title> <meta name='description' content='Watch Strasbourg vs Monaco live stream online. Coupe de France, 05.02.2026. See predictions, starting lineups, and H2H stats.'> <h1>Strasbourg vs Monaco: Live Stream &amp; Watch Online</h1> The Coupe de France reaches a thrilling stage as Strasbourg host Monaco in a highly anticipated clash on 05.02.2026. This encounter pits two teams with differing league ambitions against each other in a cup competition where every game is a final. Both sides will be eager to progress, with Strasbourg aiming for a memorable cup run on home turf, while Monaco will view the Coupe de France as a significant opportunity for silverware this season. The stage is set for a fascinating tactical battle under the floodlights at the Stade de la Meinau. <strong>Kick-off:</strong> 05.02.2026, 20:00 UTC / 23:00 MSK<br> <strong>Stadium:</strong> Stade de la Meinau<br> <strong>Competition:</strong> France - Coupe de France <h2>Match Preview</h2> This Coupe de France fixture promises to be a captivating affair as Strasbourg, often a resilient force at home, welcome a formidable Monaco side. Strasbourg's recent form has been a mix of solid defensive displays and occasional struggles to find consistency in front of goal. Their manager will undoubtedly be emphasizing discipline and taking their chances against a quality opponent. Monaco, on the other hand, have been enjoying a strong season, showcasing their attacking prowess and tactical flexibility. Their experienced squad and depth will pose a significant challenge for the hosts. The narrative for this match is rich with potential storylines. For Strasbourg, a deep cup run could inject vital confidence and momentum into their campaign. They will be relying on their passionate home support to create an intimidating atmosphere. Monaco, under their astute coach, will be looking to assert their dominance early, rotate their squad judiciously, and avoid any potential cup upsets. Both teams have a history of competitive matches, and this knockout tie is expected to be no different, with fine margins likely to decide the outcome. <h2>Team Form and Analysis</h2> <h3>Strasbourg</h3> Strasbourg's defense has been their bedrock in recent weeks, often denying opponents clear-cut chances, especially in front of their home crowd. However, their attacking output has been inconsistent, with a reliance on individual brilliance rather than sustained team movements. Injury concerns for their key striker remain undecided, which could significantly impact their offensive threat. Expect them to adopt a cautious yet opportunistic approach, looking to exploit set-pieces and counter-attacks. Their midfield general will be crucial in disrupting Monaco's rhythm and launching transitions. <h3>Monaco</h3> Monaco arrives in strong form, characterized by their fluid attacking play and robust midfield presence. They possess a wealth of talent across the pitch, with several players capable of turning a game on its head. Their quick wingers and prolific striker pose a constant threat, and their manager has successfully instilled a high-pressing, possession-based philosophy. There are no significant new injury concerns reported, allowing the manager to field a strong side, potentially rotating a couple of players to manage fatigue. They will aim to control possession and dictate the tempo from the outset. <h2>Predicted Starting Lineups</h2> <strong>Strasbourg (4-3-3):</strong> <ul> <li>GK: Sels</li> <li>DF: Guilbert, Perrin, Djiku, Delaine</li> <li>MF: Sissoko, Aholou, Prcic</li> <li>FW: Gameiro, Diallo, Thomasson</li> </ul> <strong>Monaco (4-4-2):</strong> <ul> <li>GK: Nübel</li> <li>DF: Vanderson, Disasi, Maripán, Jakobs</li> <li>MF: Fofana, Matazo, Golovin, Minamino</li> <li>FW: Embolo, Ben Yedder</li> </ul> <h2>Match Prediction</h2> <ul> <li><strong>Main Prediction:</strong> Monaco to Win</li> <li><strong>Reasoning:</strong> Monaco's superior squad depth, current form, and attacking firepower are expected to overcome Strasbourg's home advantage and defensive resilience.</li> <li><strong>Total Goals Prediction:</strong> Over 2.5 Goals</li> <li><strong>Reasoning:</strong> While Strasbourg can be defensively solid, Monaco's potent attack is likely to find the net multiple times, and Strasbourg will push for an equalizer in a cup tie.</li> </ul>",
+      "linkToEvent": "https://www.livesoccertv.com/match/monaco-vs-strasbourg/829bq",
+      "status": "upcoming",
+      "channel": "TV Start"
     },
     {
       "categories": "Portugal - Taça de Portugal",
