@@ -1,6 +1,6 @@
 {
   "date": "2026-02-07",
-  "generatedAt": "2026-02-07T11:55:05.315Z",
+  "generatedAt": "2026-02-07T12:10:05.751Z",
   "totalEvents": 16,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Bali United - Persebaya Surabaya",
       "path": "bali-united-vs-persebaya-surabaya-07-02-26",
       "dateTime": "2026-02-07T12:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
