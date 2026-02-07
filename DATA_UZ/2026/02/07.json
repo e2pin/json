@@ -1,6 +1,6 @@
 {
   "date": "2026-02-07",
-  "generatedAt": "2026-02-07T14:40:08.074Z",
+  "generatedAt": "2026-02-07T14:50:06.055Z",
   "totalEvents": 16,
   "events": [
     {
@@ -72,7 +72,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": null,
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' ><span class='suboon'>J. Burger</span> / K. Fischer</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>17'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "2399",
       "dataContent": "<title>Wolfsburg - Borussia Dortmund: Jonli efir; Bundesliga",
       "linkToEvent": "https://www.livesoccertv.com/match/borussia-dortmund-vs-wolfsburg/19nk5",
