@@ -1,6 +1,6 @@
 {
   "date": "2026-02-07",
-  "generatedAt": "2026-02-07T14:55:08.698Z",
+  "generatedAt": "2026-02-07T15:05:09.040Z",
   "totalEvents": 16,
   "events": [
     {
@@ -83,7 +83,7 @@
       "title": "Wolverhampton Wanderers vs Chelsea",
       "path": "wolverhampton-wanderers-vs-chelsea-07-02-26",
       "dateTime": "2026-02-07T15:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
@@ -98,7 +98,7 @@
       "title": "Arsenal vs Sunderland",
       "path": "arsenal-vs-sunderland-07-02-26",
       "dateTime": "2026-02-07T15:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
