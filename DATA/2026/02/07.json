@@ -1,6 +1,6 @@
 {
   "date": "2026-02-07",
-  "generatedAt": "2026-02-07T14:30:05.595Z",
+  "generatedAt": "2026-02-07T14:35:05.306Z",
   "totalEvents": 16,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Wolfsburg vs Borussia Dortmund",
       "path": "wolfsburg-vs-borussia-dortmund-07-02-26",
       "dateTime": "2026-02-07T14:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
