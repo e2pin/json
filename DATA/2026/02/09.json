@@ -1,0 +1,72 @@
+{
+  "date": "2026-02-09",
+  "generatedAt": "2026-02-08T10:50:25.013Z",
+  "totalEvents": 4,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "Turkey - Super Lig",
+      "title": "Fenerbahçe vs Gençlerbirliği",
+      "path": "fenerbahe-vs-genlerbirlii-09-02-26",
+      "dateTime": "2026-02-09T17:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "522",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/fenerbahce-vs-genclerbirligi/25s0j",
+      "status": "upcoming",
+      "channel": "Match! Football 3"
+    },
+    {
+      "categories": "Italy - Serie A",
+      "title": "Atalanta vs Cremonese",
+      "path": "atalanta-vs-cremonese-09-02-26",
+      "dateTime": "2026-02-09T17:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "italy-serie-a.webp",
+      "events": null,
+      "playerId": "124",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/atalanta-vs-cremonese/6jcih",
+      "status": "upcoming",
+      "channel": "Match! Football 1"
+    },
+    {
+      "categories": "Italy - Serie A",
+      "title": "Roma vs Cagliari",
+      "path": "roma-vs-cagliari-09-02-26",
+      "dateTime": "2026-02-09T19:45:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "italy-serie-a.webp",
+      "events": null,
+      "playerId": "124",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/roma-vs-cagliari/1whkx",
+      "status": "upcoming",
+      "channel": "Match! Football 1"
+    },
+    {
+      "categories": "Spain - La Liga",
+      "title": "Villarreal vs Espanyol",
+      "path": "villarreal-vs-espanyol-09-02-26",
+      "dateTime": "2026-02-09T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "spain-la-liga.webp",
+      "events": null,
+      "playerId": "530",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/espanyol-vs-villarreal/1bhi6",
+      "status": "upcoming",
+      "channel": "Match! Football 2"
+    }
+  ]
+}
