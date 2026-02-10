@@ -1,6 +1,6 @@
 {
   "date": "2026-02-10",
-  "generatedAt": "2026-02-10T15:55:12.159Z",
+  "generatedAt": "2026-02-10T16:05:07.310Z",
   "totalEvents": 14,
   "events": [
     {
@@ -113,7 +113,7 @@
       "title": "Al Zawra'a - Al Wasl",
       "path": "al-zawraa-vs-al-wasl-10-02-26",
       "dateTime": "2026-02-10T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "asia-afc-champions-league-two.webp",
@@ -128,7 +128,7 @@
       "title": "Traktor Sazi - Al Sadd",
       "path": "tractor-sazi-vs-al-sadd-10-02-26",
       "dateTime": "2026-02-10T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
