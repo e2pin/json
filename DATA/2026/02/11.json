@@ -1,6 +1,6 @@
 {
   "date": "2026-02-11",
-  "generatedAt": "2026-02-11T11:55:05.555Z",
+  "generatedAt": "2026-02-11T12:00:08.125Z",
   "totalEvents": 7,
   "events": [
     {
@@ -16,7 +16,7 @@
       "playerId": "9083",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/gangwon-vs-shanghai-port/pgsfg",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Asia - AFC Champions League Elite",
@@ -31,7 +31,7 @@
       "playerId": "16034",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/melbourne-city-vs-ulsan/7gcsd",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Asia - AFC Champions League Two",
