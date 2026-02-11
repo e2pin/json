@@ -1,6 +1,6 @@
 {
   "date": "2026-02-11",
-  "generatedAt": "2026-02-11T09:55:05.808Z",
+  "generatedAt": "2026-02-11T10:05:05.274Z",
   "totalEvents": 7,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Ulsan vs Melbourne City",
       "path": "ulsan-vs-melbourne-city-11-02-26",
       "dateTime": "2026-02-11T10:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -23,7 +23,7 @@
       "title": "Gangwon vs Shanghai Port",
       "path": "gangwon-vs-shanghai-port-11-02-26",
       "dateTime": "2026-02-11T10:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
