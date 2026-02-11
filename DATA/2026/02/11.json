@@ -1,6 +1,6 @@
 {
   "date": "2026-02-11",
-  "generatedAt": "2026-02-11T20:15:08.812Z",
+  "generatedAt": "2026-02-11T20:20:07.324Z",
   "totalEvents": 7,
   "events": [
     {
@@ -98,7 +98,7 @@
       "title": "Sunderland vs Liverpool",
       "path": "sunderland-vs-liverpool-11-02-26",
       "dateTime": "2026-02-11T20:15:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
