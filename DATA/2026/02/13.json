@@ -1,9 +1,41 @@
 {
   "date": "2026-02-13",
-  "generatedAt": "2026-02-12T22:34:00.210Z",
-  "totalEvents": 9,
+  "generatedAt": "2026-02-12T23:37:10.242Z",
+  "totalEvents": 11,
   "problematicEventsCount": 0,
   "events": [
+    {
+      "categories": "Indonesia - Super League",
+      "title": "Persik Kediri vs PSIM Yogyakarta",
+      "path": "persik-kediri-vs-psim-yogyakarta-13-02-26",
+      "dateTime": "2026-02-13T08:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "indonesia-super-league.webp",
+      "events": null,
+      "playerId": "2live",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/persik-kediri-vs-psim-yogyakarta/257z69",
+      "status": "upcoming",
+      "channel": "Vidio"
+    },
+    {
+      "categories": "Indonesia - Super League",
+      "title": "Persis Solo vs Madura United",
+      "path": "persis-solo-vs-madura-united-13-02-26",
+      "dateTime": "2026-02-13T08:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "indonesia-super-league.webp",
+      "events": null,
+      "playerId": "live",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/madura-united-vs-persis-solo/1i12x2",
+      "status": "upcoming",
+      "channel": "Vidio"
+    },
     {
       "categories": "Indonesia - Super League",
       "title": "Malut United vs Persijap",
