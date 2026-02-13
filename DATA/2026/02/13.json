@@ -1,6 +1,6 @@
 {
   "date": "2026-02-13",
-  "generatedAt": "2026-02-13T08:45:05.921Z",
+  "generatedAt": "2026-02-13T08:55:04.095Z",
   "totalEvents": 13,
   "events": [
     {
@@ -27,7 +27,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >R. Paparyga<div class='assist'>R. Paparyga</div></td><td width='5%' align='center'><span class='flag misspen'></span></td><td align='center' width='6%'>13'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >R. Paparyga<div class='assist'>R. Paparyga</div></td><td width='5%' align='center'><span class='flag misspen'></span></td><td align='center' width='6%'>13'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>21'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >Mendonca</td></tr></table>",
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/madura-united-vs-persis-solo/1i12x2",
