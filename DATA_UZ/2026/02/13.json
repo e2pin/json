@@ -1,6 +1,6 @@
 {
   "date": "2026-02-13",
-  "generatedAt": "2026-02-13T15:20:04.781Z",
+  "generatedAt": "2026-02-13T15:30:05.273Z",
   "totalEvents": 13,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Al Hilal - Al Ittifaq",
       "path": "al-hilal-vs-al-ittifaq-13-02-26",
       "dateTime": "2026-02-13T15:25:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "saudi-arabia-pro-league.webp",
