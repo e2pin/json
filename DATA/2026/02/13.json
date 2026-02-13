@@ -1,6 +1,6 @@
 {
   "date": "2026-02-13",
-  "generatedAt": "2026-02-13T08:25:06.165Z",
+  "generatedAt": "2026-02-13T08:35:04.618Z",
   "totalEvents": 13,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Persik Kediri vs PSIM Yogyakarta",
       "path": "persik-kediri-vs-psim-yogyakarta-13-02-26",
       "dateTime": "2026-02-13T08:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
@@ -23,7 +23,7 @@
       "title": "Persis Solo vs Madura United",
       "path": "persis-solo-vs-madura-united-13-02-26",
       "dateTime": "2026-02-13T08:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
