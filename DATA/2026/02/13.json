@@ -1,7 +1,7 @@
 {
   "date": "2026-02-13",
-  "generatedAt": "2026-02-12T23:37:10.242Z",
-  "totalEvents": 11,
+  "generatedAt": "2026-02-13T08:07:45.040Z",
+  "totalEvents": 13,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -85,6 +85,22 @@
       "channel": "Match! Football 3"
     },
     {
+      "categories": "Saudi Arabia - Pro League",
+      "title": "Al Ittihad vs Al-Fayha",
+      "path": "al-ittihad-vs-alfayha-13-02-26",
+      "dateTime": "2026-02-13T17:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "saudi-arabia-pro-league.webp",
+      "events": null,
+      "playerId": "2526",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-ittihad-vs-al-fayha/1ne8su",
+      "status": "upcoming",
+      "channel": "Sport TV2"
+    },
+    {
       "categories": "France - Ligue 1",
       "title": "Rennes vs PSG",
       "path": "rennes-vs-psg-13-02-26",
@@ -147,6 +163,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/milan-vs-pisa/6hn5j",
       "status": "upcoming",
       "channel": "Match! Football 1"
+    },
+    {
+      "categories": "England - FA Cup",
+      "title": "Hull City vs Chelsea",
+      "path": "hull-city-vs-chelsea-13-02-26",
+      "dateTime": "2026-02-13T19:45:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "272",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/chelsea-vs-hull-city/17n43",
+      "status": "upcoming",
+      "channel": "Setanta Sports Ukraine"
     },
     {
       "categories": "Spain - La Liga",
