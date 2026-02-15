@@ -1,6 +1,6 @@
 {
   "date": "2026-02-15",
-  "generatedAt": "2026-02-15T20:00:11.640Z",
+  "generatedAt": "2026-02-15T20:05:08.902Z",
   "totalEvents": 21,
   "events": [
     {
@@ -293,7 +293,7 @@
       "title": "Mallorca vs Real Betis",
       "path": "mallorca-vs-real-betis-15-02-26",
       "dateTime": "2026-02-15T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
