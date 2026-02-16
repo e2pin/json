@@ -1,7 +1,7 @@
 {
   "date": "2026-02-16",
-  "generatedAt": "2026-02-16T08:03:33.474Z",
-  "totalEvents": 5,
+  "generatedAt": "2026-02-16T08:17:46.385Z",
+  "totalEvents": 8,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -21,6 +21,70 @@
       "channel": "Indosiar"
     },
     {
+      "categories": "Asia - AFC Champions League Elite",
+      "title": "Al Sharjah vs Nasaf",
+      "path": "al-sharjah-vs-nasaf-16-02-26",
+      "dateTime": "2026-02-16T16:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "16034",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-sharjah-vs-nasaf/75bli",
+      "status": "upcoming",
+      "channel": "TV Start"
+    },
+    {
+      "categories": "Asia - AFC Champions League Elite",
+      "title": "Al-Ahli vs Shabab Al Ahli",
+      "path": "alahli-vs-shabab-al-ahli-16-02-26",
+      "dateTime": "2026-02-16T16:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "9083",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/shabab-al-ahli-vs-al-ahli/6qq48",
+      "status": "upcoming",
+      "channel": "TV Start"
+    },
+    {
+      "categories": "Asia - AFC Champions League Elite",
+      "title": "Al Shorta vs Al Duhail",
+      "path": "al-shorta-vs-al-duhail-16-02-26",
+      "dateTime": "2026-02-16T18:15:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "16034",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-duhail-vs-al-shorta/ajs6n",
+      "status": "upcoming",
+      "channel": "TV Start"
+    },
+    {
+      "categories": "Asia - AFC Champions League Elite",
+      "title": "Al Hilal vs Al Wahda",
+      "path": "al-hilal-vs-al-wahda-16-02-26",
+      "dateTime": "2026-02-16T18:15:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "6313",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-wahda-vs-al-hilal/6r8hg",
+      "status": "upcoming",
+      "channel": "TV Start"
+    },
+    {
       "categories": "England - FA Cup",
       "title": "Macclesfield vs Brentford",
       "path": "macclesfield-vs-brentford-16-02-26",
@@ -30,11 +94,11 @@
       "team2_img_url": null,
       "cat_img_url": null,
       "events": null,
-      "playerId": "272",
+      "playerId": "2live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/brentford-vs-macclesfield/3cse4p",
       "status": "upcoming",
-      "channel": "Setanta Sports Ukraine"
+      "channel": "Vidio"
     },
     {
       "categories": "Italy - Serie A",
@@ -67,22 +131,6 @@
       "linkToEvent": "https://www.livesoccertv.com/match/barcelona-vs-girona/2ckg2",
       "status": "upcoming",
       "channel": "Match! Football 2"
-    },
-    {
-      "categories": "Portugal - Primeira Liga",
-      "title": "Rio Ave vs Moreirense",
-      "path": "rio-ave-vs-moreirense-16-02-26",
-      "dateTime": "2026-02-16T20:15:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "2525",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/rio-ave-vs-moreirense/3g6v5",
-      "status": "upcoming",
-      "channel": "Sport TV1"
     }
   ]
 }
