@@ -1,6 +1,6 @@
 {
   "date": "2026-02-16",
-  "generatedAt": "2026-02-16T15:55:06.925Z",
+  "generatedAt": "2026-02-16T16:05:07.299Z",
   "totalEvents": 8,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Al-Ahli - Shabab Al Ahli",
       "path": "alahli-vs-shabab-al-ahli-16-02-26",
       "dateTime": "2026-02-16T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -38,7 +38,7 @@
       "title": "Al Sharjah - Nasaf",
       "path": "al-sharjah-vs-nasaf-16-02-26",
       "dateTime": "2026-02-16T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
