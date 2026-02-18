@@ -1,6 +1,6 @@
 {
   "date": "2026-02-18",
-  "generatedAt": "2026-02-18T12:10:03.485Z",
+  "generatedAt": "2026-02-18T12:20:06.617Z",
   "totalEvents": 12,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Persib vs Ratchaburi",
       "path": "persib-vs-ratchaburi-18-02-26",
       "dateTime": "2026-02-18T12:15:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "asia-afc-champions-league-two.webp",
