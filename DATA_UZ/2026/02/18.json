@@ -1,6 +1,6 @@
 {
   "date": "2026-02-18",
-  "generatedAt": "2026-02-18T18:55:07.949Z",
+  "generatedAt": "2026-02-18T19:05:06.631Z",
   "totalEvents": 12,
   "events": [
     {
@@ -68,11 +68,11 @@
       "title": "Qarabağ - Newcastle United",
       "path": "qaraba-vs-newcastle-united-18-02-26",
       "dateTime": "2026-02-18T17:45:00+00:00",
-      "score": "0 - 5",
+      "score": "1 - 5",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>3'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >A. Gordon (0 - 1)<div class='assist'>Assist: D. Burn</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>8'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >M. Thiaw (0 - 2)<div class='assist'>Assist: K. Trippier</div></td></tr><tr><td align='right' width='42%' >Dani Bolt / B. Mustafazada</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>22'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>32'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >A. Gordon (pen.) (0 - 3)</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>33'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >A. Gordon (0 - 4)</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>45+1'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >A. Gordon (pen.) (0 - 5)</td></tr><tr><td align='right' width='42%' >B. Huseynov / Leandro Andrade</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>46'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>3'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >A. Gordon (0 - 1)<div class='assist'>Assist: D. Burn</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>8'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >M. Thiaw (0 - 2)<div class='assist'>Assist: K. Trippier</div></td></tr><tr><td align='right' width='42%' >Dani Bolt / B. Mustafazada</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>22'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>32'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >A. Gordon (pen.) (0 - 3)</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>33'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >A. Gordon (0 - 4)</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>45+1'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >A. Gordon (pen.) (0 - 5)</td></tr><tr><td align='right' width='42%' >B. Huseynov / Leandro Andrade</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>46'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >E. Cafarquliyev (1 - 5)<div class='assist'>Assist: A. Zoubir</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>55'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "6554",
       "dataContent": "<title>Qarabağ - Newcastle United: Jonli efir; UEFA Chempionlar Ligasi 18.02.2026</title>\n<meta name=\"description\" content=\"Qarabağ - Newcastle United jonli efirini onlayn tomosha qiling. UEFA Chempionlar Ligasi, 18.02.2026. Bashoratlar, boshlang'ich tarkiblar va H2H statistikalarini ko'ring.\">\n",
       "linkToEvent": "https://www.livesoccertv.com/match/newcastle-united-vs-qarabag/5crtk",
@@ -98,7 +98,7 @@
       "title": "Levante - Villarreal",
       "path": "levante-vs-villarreal-18-02-26",
       "dateTime": "2026-02-18T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
