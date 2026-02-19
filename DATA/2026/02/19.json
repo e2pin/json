@@ -1,8 +1,7 @@
 {
   "date": "2026-02-19",
-  "generatedAt": "2026-02-18T22:23:11.798Z",
+  "generatedAt": "2026-02-19T07:40:02.454Z",
   "totalEvents": 17,
-  "problematicEventsCount": 0,
   "events": [
     {
       "categories": "Asia - AFC Champions League Two",
@@ -17,8 +16,7 @@
       "playerId": "16034",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/bangkok-united-vs-macarthur/3hckha",
-      "status": "upcoming",
-      "channel": "TV Start Triumph"
+      "status": "live"
     },
     {
       "categories": "Asia - AFC Champions League Two",
@@ -33,8 +31,7 @@
       "playerId": "16034",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/gamba-osaka-vs-pohang-steelers/5qtwq",
-      "status": "upcoming",
-      "channel": "TV Start Triumph"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Europa League",
@@ -49,8 +46,7 @@
       "playerId": "6554",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/dinamo-zagreb-vs-genk/3ygm6",
-      "status": "upcoming",
-      "channel": "Okko Sport"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Europa League",
@@ -65,8 +61,7 @@
       "playerId": "20062",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/nottingham-forest-vs-fenerbahce/1uxes",
-      "status": "upcoming",
-      "channel": "Q League"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Europa League",
@@ -81,8 +76,7 @@
       "playerId": "20061",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/paok-vs-celta-de-vigo/2gw8x",
-      "status": "upcoming",
-      "channel": "Q Arena"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Europa League",
@@ -97,8 +91,7 @@
       "playerId": "6554",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/bologna-vs-brann/3u1we",
-      "status": "upcoming",
-      "channel": "Okko Sport"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Conference League",
@@ -113,8 +106,7 @@
       "playerId": "6554",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/lech-poznan-vs-kups/6dnkb",
-      "status": "upcoming",
-      "channel": "Okko Sport"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Conference League",
@@ -129,8 +121,7 @@
       "playerId": "6554",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/az-vs-noah/1dyq51",
-      "status": "upcoming",
-      "channel": "Okko Sport"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Conference League",
@@ -145,8 +136,7 @@
       "playerId": "6554",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/sigma-olomouc-vs-lausanne-sport/40zcw",
-      "status": "upcoming",
-      "channel": "Okko Sport"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Conference League",
@@ -161,8 +151,7 @@
       "playerId": "6554",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/crystal-palace-vs-zrinjski/5q6hk",
-      "status": "upcoming",
-      "channel": "Okko Sport"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Conference League",
@@ -177,8 +166,7 @@
       "playerId": "6554",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/fiorentina-vs-jagiellonia-bialystok/22mw3",
-      "status": "upcoming",
-      "channel": "Okko Sport"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Europa League",
@@ -193,8 +181,7 @@
       "playerId": "2210",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/stuttgart-vs-celtic/1cpnq",
-      "status": "upcoming",
-      "channel": "Kazakhstan TV"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Europa League",
@@ -209,8 +196,7 @@
       "playerId": "6554",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/ferencvaros-vs-ludogorets/7wx0u",
-      "status": "upcoming",
-      "channel": "Okko Sport"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Europa League",
@@ -225,8 +211,7 @@
       "playerId": "20061",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/panathinaikos-vs-viktoria-plzen/1w05v",
-      "status": "upcoming",
-      "channel": "Q Arena"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Conference League",
@@ -241,8 +226,7 @@
       "playerId": "6554",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/omonia-nicosia-vs-rijeka/3ouzu",
-      "status": "upcoming",
-      "channel": "Okko Sport"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Europa League",
@@ -257,8 +241,7 @@
       "playerId": "20062",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/lille-vs-crvena-zvezda/2zfhz",
-      "status": "upcoming",
-      "channel": "Q League"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Conference League",
@@ -273,8 +256,7 @@
       "playerId": "6554",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/celje-vs-drita/kksnz",
-      "status": "upcoming",
-      "channel": "Okko Sport"
+      "status": "upcoming"
     }
   ]
 }
