@@ -1,6 +1,6 @@
 {
   "date": "2026-02-20",
-  "generatedAt": "2026-02-20T19:40:04.971Z",
+  "generatedAt": "2026-02-20T19:50:05.268Z",
   "totalEvents": 5,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Сассуоло - Верона",
       "path": "sassuolo-vs-verona-20-02-26",
       "dateTime": "2026-02-20T19:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
@@ -53,7 +53,7 @@
       "title": "Брест - Олимпик Марсель",
       "path": "brest-vs-olympique-marseille-20-02-26",
       "dateTime": "2026-02-20T19:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
