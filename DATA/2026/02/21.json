@@ -1,6 +1,6 @@
 {
   "date": "2026-02-21",
-  "generatedAt": "2026-02-21T18:50:08.428Z",
+  "generatedAt": "2026-02-21T18:55:09.944Z",
   "totalEvents": 17,
   "events": [
     {
@@ -147,7 +147,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >T. Soucek<div class='assist'>Tripping</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>33'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>44'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Senesi<div class='assist'>Roughing</div></td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >T. Soucek<div class='assist'>Tripping</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>33'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>44'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Senesi<div class='assist'>Roughing</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>66'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >D. Brooks / A. Adli</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>67'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >R. Christie / T. Adams</td></tr></table>",
       "playerId": "271",
       "dataContent": "<title>West Ham United vs AFC Bournemouth: Live Stream; Watch Premier League Match on 21.02.2026</title>\n\n<meta name=\"description\" content=\"Watch West Ham United vs AFC Bournemouth live stream online. Premier League, 21.02.2026. See predictions, starting lineups, and H2H stats.\">\n\n<h1>West Ham United vs AFC Bournemouth: Live Stream &amp; Watch Online</h1>\n\nThe upcoming clash between West Ham United and AFC Bournemouth promises to be an intriguing encounter as both teams aim for crucial points in the Premier League. With the Hammers fighting for a spot in the European competition and Bournemouth looking to secure their top-flight status, the stakes could not be higher. The match will take place at the London Stadium, setting the scene for what should be a thrilling afternoon of football.\n\n<strong>Kick-off:</strong> 21.02.2026, 17:30 UTC / 20:30 MSK<br>\n<strong>Stadium:</strong> London Stadium<br>\n<strong>Competition:</strong> Premier League\n\n<h2>Match Preview</h2>\nWest Ham United enter this fixture looking to bounce back after a disappointing recent run of form, where they have struggled to find consistency. Under the guidance of their manager, they will need to channel their historic home advantage to secure a win against a Bournemouth side that has shown glimpses of resilience. The Hammers will rely on their key players to perform; any further drop in performance could dent their aspirations for European football.\n\nOn the other hand, AFC Bournemouth comes into this match with their own set of challenges. The Cherries have displayed a mixed bag of results lately, demonstrating qualities of both attacking flair and defensive frailties. Under their seasoned manager, Bournemouth looks to build momentum and might view this match as an opportunity to not only claim valuable points but also bolster team morale as they aim for survival in the league.\n\n<h2>Team Form and Analysis</h2>\n\n<h3>West Ham United</h3>\nWest Ham has struggled defensively in recent weeks, with key injuries hampering their backline. However, they are expected to reinforce their defense with the return of several injured players. Offensively, the Hammers possess a potent attack, led by their top goal-scorers who will look to capitalize on any defensive lapses from Bournemouth. Their ability to convert chances will be vital to their success in this match.\n\n<h3>AFC Bournemouth</h3>\nBournemouth's attack has shown sparks of creativity, but their defensive unit has often been questioned, especially against stronger opposition. Injuries have also impacted squad depth, with some influential players sidelined. The Cherries are likely to adopt a pragmatic approach, looking to absorb pressure and hit West Ham on the counter. Key players will need to step up if they are to claim an important away victory.\n\n<h2>Predicted Starting Lineups</h2>\n<ul>\n    <li><strong>West Ham United:</strong>\n        <ul>\n            <li>Formation: 4-2-3-1</li>\n            <li>Goalkeeper: Lukasz Fabianski</li>\n            <li>Defenders: Vladimír Coufal, Kurt Zouma, Angelo Ogbonna, Aaron Cresswell</li>\n            <li>Midfielders: Declan Rice, Tomas Soucek</li>\n            <li>Forwards: Jarrod Bowen, Pablo Fornals, Said Benrahma, Michail Antonio</li>\n        </ul>\n    </li>\n    <li><strong>AFC Bournemouth:</strong>\n        <ul>\n            <li>Formation: 4-3-3</li>\n            <li>Goalkeeper: Mark Travers</li>\n            <li>Defenders: Lloyd Kelly, Chris Mepham, Gary Cahill, Adam Smith</li>\n            <li>Midfielders: Lewis Cook, Jefferson Lerma, Philip Billing</li>\n            <li>Forwards: Ryan Christie, Dominic Solanke, Jaidon Anthony</li>\n        </ul>\n    </li>\n</ul>\n\n<h2>Match Prediction</h2>\n<ul>\n    <li><strong>Main Prediction:</strong> West Ham United to Win – With the home advantage and key players returning from injury, the Hammers should edge this match.</li>\n    <li><strong>Total Goals Prediction:</strong> Over 2.5 Goals – Both teams have potent attacking threats while also struggling defensively, suggesting a high-scoring affair.</li>\n</ul>",
       "linkToEvent": "https://www.livesoccertv.com/match/west-ham-united-vs-afc-bournemouth/30q3y",
@@ -181,7 +181,7 @@
       "playerId": "2399",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/al-hilal-vs-al-ittihad/aaecp",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Saudi Arabia - Pro League",
@@ -196,7 +196,7 @@
       "playerId": "2528",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/al-nassr-vs-al-hazm/1owh3h",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Italy - Serie A",
