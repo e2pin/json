@@ -1,6 +1,6 @@
 {
   "date": "2026-02-22",
-  "generatedAt": "2026-02-22T11:25:06.661Z",
+  "generatedAt": "2026-02-22T11:35:06.458Z",
   "totalEvents": 19,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Genoa - Torino",
       "path": "genoa-vs-torino-22-02-26",
       "dateTime": "2026-02-22T11:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
