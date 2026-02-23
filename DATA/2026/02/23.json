@@ -1,7 +1,7 @@
 {
   "date": "2026-02-23",
-  "generatedAt": "2026-02-23T07:05:18.117Z",
-  "totalEvents": 5,
+  "generatedAt": "2026-02-23T12:06:13.840Z",
+  "totalEvents": 6,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -83,6 +83,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/girona-vs-deportivo-alaves/7860p",
       "status": "upcoming",
       "channel": "Match! Football 2"
+    },
+    {
+      "categories": "England - Premier League",
+      "title": "Everton vs Manchester United",
+      "path": "everton-vs-manchester-united-23-02-26",
+      "dateTime": "2026-02-23T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "england-premier-league.webp",
+      "events": null,
+      "playerId": "271",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/everton-vs-manchester-united/17tck",
+      "status": "upcoming",
+      "channel": "Setanta Sports 1"
     }
   ]
 }
