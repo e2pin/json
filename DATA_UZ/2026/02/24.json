@@ -1,6 +1,6 @@
 {
   "date": "2026-02-24",
-  "generatedAt": "2026-02-24T20:00:14.087Z",
+  "generatedAt": "2026-02-24T20:05:07.772Z",
   "totalEvents": 7,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Internazionale - Bodø / Glimt",
       "path": "internazionale-vs-bod-glimt-24-02-26",
       "dateTime": "2026-02-24T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -83,7 +83,7 @@
       "title": "Nyukasl Yunayted - Qarabağ",
       "path": "newcastle-united-vs-qaraba-24-02-26",
       "dateTime": "2026-02-24T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -98,7 +98,7 @@
       "title": "Bayer Leverkusen - Olympiakos Piraeus",
       "path": "bayer-leverkusen-vs-olympiakos-piraeus-24-02-26",
       "dateTime": "2026-02-24T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
