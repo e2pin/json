@@ -1,9 +1,25 @@
 {
   "date": "2026-02-25",
-  "generatedAt": "2026-02-24T21:42:15.846Z",
-  "totalEvents": 5,
+  "generatedAt": "2026-02-24T22:21:51.625Z",
+  "totalEvents": 6,
   "problematicEventsCount": 0,
   "events": [
+    {
+      "categories": "Indonesia - Super League",
+      "title": "Persebaya Surabaya vs PSM",
+      "path": "persebaya-surabaya-vs-psm-25-02-26",
+      "dateTime": "2026-02-25T13:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "live",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/persebaya-surabaya-vs-psm/n68x7",
+      "status": "upcoming",
+      "channel": "Indosiar"
+    },
     {
       "categories": "Europe - UEFA Champions League",
       "title": "Atalanta vs Borussia Dortmund",
@@ -38,6 +54,22 @@
     },
     {
       "categories": "Europe - UEFA Champions League",
+      "title": "PSG vs Monaco",
+      "path": "psg-vs-monaco-25-02-26",
+      "dateTime": "2026-02-25T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": null,
+      "playerId": "2210",
+      "dataContent": "<title>PSG vs Monaco: Live Stream; Watch Champions League in 25.02.2026</title> <meta name='description' content='Watch PSG vs Monaco live stream online. UEFA Champions League, 25.02.2026. See predictions, starting lineups, and H2H stats.'> <h1>PSG vs Monaco: Live Stream &amp; Watch Online</h1> As the UEFA Champions League group stages unfold, one of the most anticipated clashes is set to take center stage when Paris Saint-Germain (PSG) takes on AS Monaco. This match promises to deliver high drama, as both teams understand the stakes involved in securing vital points in their quest for European glory. With their rich history and fierce rivalry, this matchup is bound to captivate football fans worldwide. <strong>Kick-off:</strong> 25.02.2026, 20:00 UTC / 23:00 MSK<br> <strong>Stadium:</strong> Parc des Princes<br> <strong>Competition:</strong> UEFA Champions League <h2>Match Preview</h2> The home side PSG enters this encounter with a strong pedigree in the Champions League, currently sitting at the top of their group with an impressive record. Led by their charismatic manager, who has recently implemented a more dynamic tactical approach, the Parisians are looking to continue their excellent form. However, they face an intense challenge against a motivated AS Monaco, who have shown considerable resilience this season. Monaco, revitalized under their new coach, has adopted an attacking style that aims to exploit their opponents' defensive weaknesses. After a slow start to the season, the Monegasques seem to have hit a rich vein of form, making this contest a thrilling prospect as they look to upset the balance in the Parisian capital. <h2>Team Form and Analysis</h2> <h3>PSG</h3> PSG boasts a formidable attack, featuring stars who are capable of turning any match on its head. With Kylian Mbappé leading the line, and Neymar providing creativity from midfield, their offensive prowess puts immense pressure on opposing defenses. However, there have been worries surrounding their defense, particularly in maintaining clean sheets against top-tier opponents. Injuries have also impacted their setup, with a key defender expected to miss this fixture, forcing a reshuffle in the backline. Nonetheless, key performers such as Marco Verratti will be crucial for dictating play from midfield. <h3>Monaco</h3> AS Monaco arrives at this match buoyed by an almost unbreakable spirit, driven by young talents and experienced players alike. Their attacking depth is highlighted by players capable of being game-changers, while their recent form has seen them climb the league standings. However, they are not without their own injury concerns, losing a star forward to a long-term injury. The coach is likely to implement a strategy that capitalizes on quick transitions and pressing to disrupt PSG’s rhythm, which could make for an entertaining encounter. <h2>Predicted Starting Lineups</h2> <ul> <li><strong>PSG:</strong> 4-3-3 Formation <ul> <li>Goalkeeper: Gianluigi Donnarumma</li> <li>Defenders: Achraf Hakimi, Presnel Kimpembe, Marquinhos, Juan Bernat</li> <li>Midfielders: Marco Verratti, Vitinha, Leandro Paredes</li> <li>Forwards: Kylian Mbappé, Neymar, Lionel Messi</li> </ul> </li> </ul> <ul> <li><strong>Monaco:</strong> 4-2-3-1 Formation <ul> <li>Goalkeeper: Alexander Nübel</li> <li>Defenders: Benjamin Henrichs, Axel Disasi, Guillermo Maripán, Caio Henrique</li> <li>Midfielders: Youssouf Fofana, Aurelien Tchouameni</li> <li>Forwards: Kevin Volland, Aleksandr Golovin, Sofiane Diop, Wissam Ben Yedder</li> </ul> </li> </ul> <h2>Match Prediction</h2> <ul> <li><strong>Main Prediction:</strong> PSG to Win - With their home advantage and the attacking quality at their disposal, PSG is favored to secure all three points.</li> <li><strong>Total Goals Prediction:</strong> Over 2.5 Goals - Given the offensive talents on both sides, an exciting match with multiple goal opportunities is expected.</li> </ul> As the stage is set at the Parc des Princes, fans can brace themselves for what promises to be a thrilling chapter in the storied rivalry between PSG and AS Monaco.",
+      "linkToEvent": "https://www.livesoccertv.com/match/monaco-vs-psg/1elqf",
+      "status": "upcoming",
+      "channel": "Kazakhstan TV"
+    },
+    {
+      "categories": "Europe - UEFA Champions League",
       "title": "Juventus vs Galatasaray",
       "path": "juventus-vs-galatasaray-25-02-26",
       "dateTime": "2026-02-25T20:00:00+00:00",
@@ -67,22 +99,6 @@
       "linkToEvent": "https://www.livesoccertv.com/match/real-madrid-vs-benfica/1buis",
       "status": "upcoming",
       "channel": "Okko Sport"
-    },
-    {
-      "categories": "Europe - UEFA Champions League",
-      "title": "PSG vs Monaco",
-      "path": "psg-vs-monaco-25-02-26",
-      "dateTime": "2026-02-25T20:00:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": "europe-uefa-champions-league.webp",
-      "events": null,
-      "playerId": "2210",
-      "dataContent": "<title>PSG vs Monaco: Live Stream; Watch Champions League in 25.02.2026</title> <meta name='description' content='Watch PSG vs Monaco live stream online. UEFA Champions League, 25.02.2026. See predictions, starting lineups, and H2H stats.'> <h1>PSG vs Monaco: Live Stream &amp; Watch Online</h1> As the UEFA Champions League group stages unfold, one of the most anticipated clashes is set to take center stage when Paris Saint-Germain (PSG) takes on AS Monaco. This match promises to deliver high drama, as both teams understand the stakes involved in securing vital points in their quest for European glory. With their rich history and fierce rivalry, this matchup is bound to captivate football fans worldwide. <strong>Kick-off:</strong> 25.02.2026, 20:00 UTC / 23:00 MSK<br> <strong>Stadium:</strong> Parc des Princes<br> <strong>Competition:</strong> UEFA Champions League <h2>Match Preview</h2> The home side PSG enters this encounter with a strong pedigree in the Champions League, currently sitting at the top of their group with an impressive record. Led by their charismatic manager, who has recently implemented a more dynamic tactical approach, the Parisians are looking to continue their excellent form. However, they face an intense challenge against a motivated AS Monaco, who have shown considerable resilience this season. Monaco, revitalized under their new coach, has adopted an attacking style that aims to exploit their opponents' defensive weaknesses. After a slow start to the season, the Monegasques seem to have hit a rich vein of form, making this contest a thrilling prospect as they look to upset the balance in the Parisian capital. <h2>Team Form and Analysis</h2> <h3>PSG</h3> PSG boasts a formidable attack, featuring stars who are capable of turning any match on its head. With Kylian Mbappé leading the line, and Neymar providing creativity from midfield, their offensive prowess puts immense pressure on opposing defenses. However, there have been worries surrounding their defense, particularly in maintaining clean sheets against top-tier opponents. Injuries have also impacted their setup, with a key defender expected to miss this fixture, forcing a reshuffle in the backline. Nonetheless, key performers such as Marco Verratti will be crucial for dictating play from midfield. <h3>Monaco</h3> AS Monaco arrives at this match buoyed by an almost unbreakable spirit, driven by young talents and experienced players alike. Their attacking depth is highlighted by players capable of being game-changers, while their recent form has seen them climb the league standings. However, they are not without their own injury concerns, losing a star forward to a long-term injury. The coach is likely to implement a strategy that capitalizes on quick transitions and pressing to disrupt PSG’s rhythm, which could make for an entertaining encounter. <h2>Predicted Starting Lineups</h2> <ul> <li><strong>PSG:</strong> 4-3-3 Formation <ul> <li>Goalkeeper: Gianluigi Donnarumma</li> <li>Defenders: Achraf Hakimi, Presnel Kimpembe, Marquinhos, Juan Bernat</li> <li>Midfielders: Marco Verratti, Vitinha, Leandro Paredes</li> <li>Forwards: Kylian Mbappé, Neymar, Lionel Messi</li> </ul> </li> </ul> <ul> <li><strong>Monaco:</strong> 4-2-3-1 Formation <ul> <li>Goalkeeper: Alexander Nübel</li> <li>Defenders: Benjamin Henrichs, Axel Disasi, Guillermo Maripán, Caio Henrique</li> <li>Midfielders: Youssouf Fofana, Aurelien Tchouameni</li> <li>Forwards: Kevin Volland, Aleksandr Golovin, Sofiane Diop, Wissam Ben Yedder</li> </ul> </li> </ul> <h2>Match Prediction</h2> <ul> <li><strong>Main Prediction:</strong> PSG to Win - With their home advantage and the attacking quality at their disposal, PSG is favored to secure all three points.</li> <li><strong>Total Goals Prediction:</strong> Over 2.5 Goals - Given the offensive talents on both sides, an exciting match with multiple goal opportunities is expected.</li> </ul> As the stage is set at the Parc des Princes, fans can brace themselves for what promises to be a thrilling chapter in the storied rivalry between PSG and AS Monaco.",
-      "linkToEvent": "https://www.livesoccertv.com/match/monaco-vs-psg/1elqf",
-      "status": "upcoming",
-      "channel": "Kazakhstan TV"
     }
   ]
 }
