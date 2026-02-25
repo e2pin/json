@@ -1,6 +1,6 @@
 {
   "date": "2026-02-25",
-  "generatedAt": "2026-02-25T21:00:08.548Z",
+  "generatedAt": "2026-02-25T21:10:06.921Z",
   "totalEvents": 6,
   "events": [
     {
@@ -50,21 +50,6 @@
     },
     {
       "categories": "Европа - Лига Чемпионов УЕФА",
-      "title": "ПСЖ - Монако",
-      "path": "psg-vs-monaco-25-02-26",
-      "dateTime": "2026-02-25T20:00:00+00:00",
-      "score": "0 - 1",
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": "europe-uefa-champions-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>24'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >D. Zakaria</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>45'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >M. Akliouche (0 - 1)<div class='assist'>Assist: M. Coulibaly</div></td></tr></table>",
-      "playerId": "2210",
-      "dataContent": "<title>ПСЖ - Монако: Прямой Эфир; Смотрите Лигу Чемпионов 25.02.2026</title>\n<meta name=\"description\" content=\"Смотрите прямой эфир ПСЖ - Монако онлайн. Лига Чемпионов УЕФА, 25.02.2026. Смотрите прогнозы, составы и статистику H2H.\">",
-      "linkToEvent": "https://www.livesoccertv.com/match/monaco-vs-psg/1elqf",
-      "status": "live"
-    },
-    {
-      "categories": "Европа - Лига Чемпионов УЕФА",
       "title": "Ювентус - Галатасарай",
       "path": "juventus-vs-galatasaray-25-02-26",
       "dateTime": "2026-02-25T20:00:00+00:00",
@@ -72,10 +57,25 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>14'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >V. Osimhen<div class='assist'>Roughing</div></td></tr><tr><td align='right' width='42%' >L. Kelly</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>25'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >K. Yildiz<div class='assist'>Holding</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>31'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>34'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >R. Sallai<div class='assist'>Roughing</div></td></tr><tr><td align='right' width='42%' >M. Locatelli (pen.) (1 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>37'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >C. Pinsoglio<div class='assist'>Unsportsmanlike conduct</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>41'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>14'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >V. Osimhen<div class='assist'>Roughing</div></td></tr><tr><td align='right' width='42%' >L. Kelly</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>25'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >K. Yildiz<div class='assist'>Holding</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>31'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>33'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >R. Sallai<div class='assist'>Roughing</div></td></tr><tr><td align='right' width='42%' >M. Locatelli (pen.) (1 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>37'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >C. Pinsoglio<div class='assist'>Unsportsmanlike conduct</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>41'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >L. Kelly<div class='assist'>Roughing</div></td><td width='5%' align='center'><span class='flag yellowred'></span></td><td align='center' width='6%'>47'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "20062",
       "dataContent": "<title>Ювентус - Галатасарай: Прямой Эфир; Смотрите Лигу Чемпионов 25.02.2026</title>\n\n<meta name=\"description\" content=\"Смотрите прямую трансляцию матча Ювентус - Галатасарай онлайн. Лига Чемпионов УЕФА, 25.02.2026. Смотрите прогнозы, стартовые составы и статистику H2H.\">\n\n<h1>Ювентус - Галатасарай: Прямой Эфир &amp; Смотрите Онлайн</h1>\n\n<p>Этот матч между Ювентусом и Галатасараем является ключевым противостоянием в Лиге Чемпионов УЕФА, так как обе команды сражаются за важные очки на групповом этапе. Ювентус, известный своей прочной защитой и атакующими способностями, постарается утвердить свое преимущество на домашнем стадионе, в то время как Галатасарай стремится продемонстрировать свою стойкость и способность преподнести сюрприз перед своими исторически страстными фанатами. Оба клуба имеют серьезные амбиции в этом сезоне, что делает эту встречу особенно ожидаемой среди футбольных фанатов.</p>\n\n<strong>Начало матча:</strong> 25.02.2026, 20:00 UTC / 23:00 MSK<br>\n<strong>Стадион:</strong> Стадион Альянц<br>\n<strong>Соревнование:</strong> Лига Чемпионов УЕФА\n\n<h2>Предварительный обзор матча</h2>\n<p>Ювентус подходит к этому матчу в хорошей форме, одержав несколько побед в последних играх в Серии А. Под руководством своего опытного тренера они создали formidable команду, которая редко пропускает голы, усиленную мощной защитной линией, включающей ветеранов, хорошо знающих матчи с высоким уровнем конкуренции. В то же время, Галатасарай представляет собой энергичный состав, наполненный талантливыми игроками, которые стремятся оказать влияние в европейских соревнованиях. Несмотря на некоторые несоответствия в их выступлениях в лиге, они продемонстрировали стойкость и тактическую гибкость, что делает их потенциальной угрозой в Турине.</p>\n\n<p>В то же время, обе команды сталкиваются с проблемами травм накануне матча. Ювентус будет следить за своими ключевыми игроками, чтобы убедиться, что любые проблемы с физической подготовкой устранены перед началом игры. В лагере Галатасарая они будут внимательно оценивать готовность своих звездных нападающих, так как они уточняют свой тактический подход. Этот матч не только имеет значение для продвижения в Европе, но также служит сценой для обеих команд, чтобы укрепить свои репутации на континентальном уровне.</p>\n\n<h2>Форма и анализ команды</h2>\n<h3>Ювентус</h3>\n<p>Ювентус создал дисциплинированное защитное подразделение, которое оказалось трудным для прорыва, и они обладают одним из лучших защитных показателей в Серии А. Полузащита была живой, способствуя быстрым переходам от защиты к атаке, возглавляемая их креативными плеймейкерами. Несмотря на то, что они столкнулись с некоторыми травмами, особенно у ключевых атакующих игроков, Ювентус все равно обладает глубиной, что позволяет им сохранять конкурентоспособность. Игроки, такие как Душан Влахович и Федерико Кьеза, играют ключевую роль в их атакующих стратегиях и стремятся использовать любые пропуски в защите Галатасарая.</p>\n\n<h3>Галатасарай</h3>\n<p>Атакующая линия Галатасарая процветает благодаря скорости и мастерству, представляя собой сочетание молодости и опыта, которое может встревожить любую защитную линию. Их тактическая установка часто сосредоточена на игре по флангам и быстрых контратаках, которые они, вероятно, применят против прочной защиты Ювентуса. Обновления по травмам указывают на то, что некоторые ключевые игроки могут вернуться как раз к этому противостоянию, что может дать необходимый стимул в завершающей трети поля. Учитывая их недавние выступления, ожидайте, что Галатасарай будет адаптивным и готовым к бою, стремясь воспользоваться уязвимостями Ювентуса.</p>\n\n<h2>Предсказанные стартовые составы</h2>\n<ul>\n    <li><strong>Ювентус (4-3-3):</strong>\n        <ul>\n            <li>Вратарь: Войцех Щенсный</li>\n            <li>Защитники: Данило, Глейсон Бремер, Леонардо Бонуччи, Алекс Сандро</li>\n            <li>Полузащитники: Мануэль Локателли, Адриен Рабио, Николо Фаджоли</li>\n            <li>Нападающие: Федерико Кьеза, Душан Влахович, Мойзе Кейн</li>\n        </ul>\n    </li>\n    <li><strong>Галатасарай (4-2-3-1):</strong>\n        <ul>\n            <li>Вратарь: Фернандо Муслера</li>\n            <li>Защитники: Саша Бёй, Виктор Нельссон, Маркао, Патрик ван Aanholt</li>\n            <li>Полузащитники: Тайлан Анталялы, Беркан Кутлу</li>\n            <li>Нападающие: Дрис Мертенс, Мауро Икарди, Керем Актюрк ^.\\</li>\n        </ul>\n    </li>\n</ul>\n\n<h2>Предсказание матча</h2>\n<ul>\n    <li><strong>Основное предсказание:</strong> Победа Ювентуса</li>\n    <li><strong>Предсказание общего количества голов:</strong> Меньше 2.5 голов</li>\n</ul>\n<p>Предположение склоняется к тому, что Ювентус выйдет победителем, учитывая их историческое домашнее преимущество и стабильные выступления. Тем не менее, с возможностями Галатасарая в контратаке, ожидайте плотного противостояния, в котором может не быть избытка голов.</p>",
       "linkToEvent": "https://www.livesoccertv.com/match/juventus-vs-galatasaray/21gaf",
+      "status": "live"
+    },
+    {
+      "categories": "Европа - Лига Чемпионов УЕФА",
+      "title": "ПСЖ - Монако",
+      "path": "psg-vs-monaco-25-02-26",
+      "dateTime": "2026-02-25T20:00:00+00:00",
+      "score": "0 - 1",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>24'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >D. Zakaria</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>45'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >M. Akliouche (0 - 1)<div class='assist'>Assist: M. Coulibaly</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>48'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >Vanderson<div class='assist'>Foul</div></td></tr></table>",
+      "playerId": "2210",
+      "dataContent": "<title>ПСЖ - Монако: Прямой Эфир; Смотрите Лигу Чемпионов 25.02.2026</title>\n<meta name=\"description\" content=\"Смотрите прямой эфир ПСЖ - Монако онлайн. Лига Чемпионов УЕФА, 25.02.2026. Смотрите прогнозы, составы и статистику H2H.\">",
+      "linkToEvent": "https://www.livesoccertv.com/match/monaco-vs-psg/1elqf",
       "status": "live"
     },
     {
