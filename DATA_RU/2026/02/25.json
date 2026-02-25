@@ -1,6 +1,6 @@
 {
   "date": "2026-02-25",
-  "generatedAt": "2026-02-25T19:55:10.031Z",
+  "generatedAt": "2026-02-25T20:05:29.042Z",
   "totalEvents": 6,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "ПСЖ - Монако",
       "path": "psg-vs-monaco-25-02-26",
       "dateTime": "2026-02-25T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -68,7 +68,7 @@
       "title": "Ювентус - Галатасарай",
       "path": "juventus-vs-galatasaray-25-02-26",
       "dateTime": "2026-02-25T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -83,7 +83,7 @@
       "title": "Реал Мадрид - Бенфика",
       "path": "real-madrid-vs-benfica-25-02-26",
       "dateTime": "2026-02-25T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
