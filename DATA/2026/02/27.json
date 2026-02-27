@@ -1,7 +1,7 @@
 {
   "date": "2026-02-27",
-  "generatedAt": "2026-02-27T07:02:05.448Z",
-  "totalEvents": 11,
+  "generatedAt": "2026-02-27T09:58:22.595Z",
+  "totalEvents": 12,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -99,6 +99,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/trabzonspor-vs-fatih-karagumruk/hd98y",
       "status": "upcoming",
       "channel": "Match! Football 3"
+    },
+    {
+      "categories": "Portugal - Primeira Liga",
+      "title": "Porto vs Arouca",
+      "path": "porto-vs-arouca-27-02-26",
+      "dateTime": "2026-02-27T18:45:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "9083",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/porto-vs-arouca/3fr4f",
+      "status": "upcoming",
+      "channel": "TV Start"
     },
     {
       "categories": "France - Ligue 1",
