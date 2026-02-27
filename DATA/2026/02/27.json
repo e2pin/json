@@ -1,6 +1,6 @@
 {
   "date": "2026-02-27",
-  "generatedAt": "2026-02-27T16:55:05.962Z",
+  "generatedAt": "2026-02-27T17:05:08.214Z",
   "totalEvents": 12,
   "events": [
     {
@@ -83,7 +83,7 @@
       "title": "Trabzonspor vs Fatih Karagümrük",
       "path": "trabzonspor-vs-fatih-karagmrk-27-02-26",
       "dateTime": "2026-02-27T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
