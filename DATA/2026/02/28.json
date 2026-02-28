@@ -1,6 +1,6 @@
 {
   "date": "2026-02-28",
-  "generatedAt": "2026-02-28T20:00:15.006Z",
+  "generatedAt": "2026-02-28T20:05:23.875Z",
   "totalEvents": 21,
   "events": [
     {
@@ -293,7 +293,7 @@
       "title": "Real Oviedo vs Atlético Madrid",
       "path": "real-oviedo-vs-atltico-madrid-28-02-26",
       "dateTime": "2026-02-28T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
