@@ -1,6 +1,6 @@
 {
   "date": "2026-03-01",
-  "generatedAt": "2026-03-01T20:45:08.627Z",
+  "generatedAt": "2026-03-01T20:55:10.508Z",
   "totalEvents": 16,
   "events": [
     {
@@ -203,11 +203,11 @@
       "title": "Рома - Ювентус",
       "path": "roma-vs-juventus-01-03-26",
       "dateTime": "2026-03-01T19:45:00+00:00",
-      "score": "1 - 0",
+      "score": "1 - 1",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >Wesley Franca</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>27'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >Wesley Franca (1 - 0)<div class='assist'>Assist: N. Pisilli</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>39'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >Wesley Franca</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>27'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >Wesley Franca (1 - 0)<div class='assist'>Assist: N. Pisilli</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>39'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>47'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >F. Conceicao (1 - 1)<div class='assist'>Assist: Bremer</div></td></tr></table>",
       "playerId": "124",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Рома - Ювентус\",\n  \"startDate\": \"2026-03-01T19:45:00+00:00\",\n  \"endDate\": \"2026-03-01T21:45:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Стадио Олимпико\",\n    \"address\": \"Рим, Италия\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"АС Рома\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Ювентус\"},\n  \"sport\": \"Футбол\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Серия А\"\n  },\n  \"description\": \"🔴 Смотрите прямой эфир Рома - Ювентус бесплатно онлайн. Серия А, 01.03.2026. Прогнозы, составы и статистика.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/roma-vs-juventus/1wtau",
