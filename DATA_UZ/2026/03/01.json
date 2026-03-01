@@ -1,6 +1,6 @@
 {
   "date": "2026-03-01",
-  "generatedAt": "2026-03-01T13:25:07.250Z",
+  "generatedAt": "2026-03-01T13:30:07.341Z",
   "totalEvents": 16,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Sochi - Spartak Moskva",
       "path": "sochi-vs-spartak-moskva-01-03-26",
       "dateTime": "2026-03-01T13:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
