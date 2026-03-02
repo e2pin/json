@@ -1,6 +1,6 @@
 {
   "date": "2026-03-02",
-  "generatedAt": "2026-03-02T17:25:04.152Z",
+  "generatedAt": "2026-03-02T17:35:03.780Z",
   "totalEvents": 6,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Pisa vs Bologna",
       "path": "pisa-vs-bologna-02-03-26",
       "dateTime": "2026-03-02T17:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
