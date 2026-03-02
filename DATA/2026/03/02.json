@@ -1,6 +1,6 @@
 {
   "date": "2026-03-02",
-  "generatedAt": "2026-03-02T13:25:05.177Z",
+  "generatedAt": "2026-03-02T13:35:04.888Z",
   "totalEvents": 6,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Persebaya Surabaya vs Persib",
       "path": "persebaya-surabaya-vs-persib-02-03-26",
       "dateTime": "2026-03-02T13:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
