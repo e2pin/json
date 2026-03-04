@@ -1,6 +1,6 @@
 {
   "date": "2026-03-04",
-  "generatedAt": "2026-03-04T17:55:07.970Z",
+  "generatedAt": "2026-03-04T18:05:07.506Z",
   "totalEvents": 14,
   "events": [
     {
@@ -113,7 +113,7 @@
       "title": "Райо Вальекано - Реал Овьедо",
       "path": "rayo-vallecano-vs-real-oviedo-04-03-26",
       "dateTime": "2026-03-04T18:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
