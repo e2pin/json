@@ -1,6 +1,6 @@
 {
   "date": "2026-03-04",
-  "generatedAt": "2026-03-04T09:55:06.579Z",
+  "generatedAt": "2026-03-04T10:05:05.886Z",
   "totalEvents": 14,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Gamba Osaka vs Ratchaburi",
       "path": "gamba-osaka-vs-ratchaburi-04-03-26",
       "dateTime": "2026-03-04T10:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "asia-afc-champions-league-two.webp",
@@ -23,7 +23,7 @@
       "title": "Seoul vs Vissel Kobe",
       "path": "seoul-vs-vissel-kobe-04-03-26",
       "dateTime": "2026-03-04T10:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
