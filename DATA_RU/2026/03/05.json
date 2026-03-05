@@ -1,6 +1,6 @@
 {
   "date": "2026-03-05",
-  "generatedAt": "2026-03-05T15:30:04.426Z",
+  "generatedAt": "2026-03-05T15:35:05.255Z",
   "totalEvents": 7,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Арсенал Тула - Локомотив Москва",
       "path": "arsenal-tula-vs-lokomotiv-moskva-05-03-26",
       "dateTime": "2026-03-05T15:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
