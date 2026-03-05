@@ -1,6 +1,6 @@
 {
   "date": "2026-03-05",
-  "generatedAt": "2026-03-05T17:40:07.998Z",
+  "generatedAt": "2026-03-05T17:50:03.797Z",
   "totalEvents": 7,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Dinamo Moskva vs Spartak Moskva",
       "path": "dinamo-moskva-vs-spartak-moskva-05-03-26",
       "dateTime": "2026-03-05T17:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
