@@ -1,7 +1,7 @@
 {
   "date": "2026-03-06",
-  "generatedAt": "2026-03-06T00:51:36.350Z",
-  "totalEvents": 8,
+  "generatedAt": "2026-03-06T08:49:57.164Z",
+  "totalEvents": 10,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -51,6 +51,38 @@
       "linkToEvent": "https://www.livesoccertv.com/match/nasaf-vs-sogdiana/ba996",
       "status": "upcoming",
       "channel": "Futbol TV UZ"
+    },
+    {
+      "categories": "Saudi Arabia - Pro League",
+      "title": "Al-Ahli vs Al Ittihad",
+      "path": "alahli-vs-al-ittihad-06-03-26",
+      "dateTime": "2026-03-06T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "saudi-arabia-pro-league.webp",
+      "events": null,
+      "playerId": "2525",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-ahli-vs-al-ittihad/aaiw0",
+      "status": "upcoming",
+      "channel": "Sport TV1"
+    },
+    {
+      "categories": "Germany - Bundesliga",
+      "title": "Bayern München vs Borussia M'gladbach",
+      "path": "bayern-mnchen-vs-borussia-mgladbach-06-03-26",
+      "dateTime": "2026-03-06T19:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2399",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/bayern-munchen-vs-borussia-mgladbach/19631",
+      "status": "upcoming",
+      "channel": "Setanta Sports KZ"
     },
     {
       "categories": "France - Ligue 1",
