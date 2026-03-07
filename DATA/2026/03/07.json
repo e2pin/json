@@ -1,6 +1,6 @@
 {
   "date": "2026-03-07",
-  "generatedAt": "2026-03-07T08:27:44.457Z",
+  "generatedAt": "2026-03-07T09:40:23.898Z",
   "totalEvents": 26,
   "problematicEventsCount": 0,
   "events": [
@@ -23,7 +23,7 @@
     {
       "categories": "Biathlon",
       "title": "Biathlon. World Cup. Stage 7 in Kontiolahti, Finland. Women. Mass start. 12.5 km.",
-      "path": "biathlon-world-cup-stage-7-in-kontiolahti-finland--06-03-26",
+      "path": "biathlon-women-06-03-26",
       "dateTime": "2026-03-07T12:30:00+00:00",
       "score": null,
       "team1_img_url": null,
@@ -135,7 +135,7 @@
     {
       "categories": "Biathlon",
       "title": "Biathlon. World Cup. Stage 7 in Kontiolahti, Finland. Men. 4x7.5 km relay.",
-      "path": "biathlon-world-cup-stage-7-in-kontiolahti-finland--06-03-26",
+      "path": "biathlon-men-06-03-26",
       "dateTime": "2026-03-07T14:25:00+00:00",
       "score": null,
       "team1_img_url": null,
