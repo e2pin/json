@@ -1,6 +1,6 @@
 {
   "date": "2026-03-08",
-  "generatedAt": "2026-03-08T13:00:12.987Z",
+  "generatedAt": "2026-03-08T13:05:07.976Z",
   "totalEvents": 20,
   "events": [
     {
@@ -83,7 +83,7 @@
       "title": "Вильярреал - Эльче",
       "path": "villarreal-vs-elche-08-03-26",
       "dateTime": "2026-03-08T13:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
