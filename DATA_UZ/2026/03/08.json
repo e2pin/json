@@ -1,6 +1,6 @@
 {
   "date": "2026-03-08",
-  "generatedAt": "2026-03-08T16:30:08.943Z",
+  "generatedAt": "2026-03-08T16:35:08.538Z",
   "totalEvents": 20,
   "events": [
     {
@@ -173,7 +173,7 @@
       "title": "Leeds United - Norwich City",
       "path": "leeds-united-vs-norwich-city-08-03-26",
       "dateTime": "2026-03-08T16:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -188,7 +188,7 @@
       "title": "CSKA Moskva - Dinamo Moskva",
       "path": "cska-moskva-vs-dinamo-moskva-08-03-26",
       "dateTime": "2026-03-08T16:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
