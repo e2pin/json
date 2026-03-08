@@ -1,6 +1,6 @@
 {
   "date": "2026-03-08",
-  "generatedAt": "2026-03-08T11:25:05.351Z",
+  "generatedAt": "2026-03-08T11:35:08.042Z",
   "totalEvents": 20,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Крылья Советов - Динамо Махачкала",
       "path": "krylya-sovetov-vs-dynamo-makhachkala-08-03-26",
       "dateTime": "2026-03-08T11:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -38,7 +38,7 @@
       "title": "Лечче - Кремонезе",
       "path": "lecce-vs-cremonese-08-03-26",
       "dateTime": "2026-03-08T11:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
