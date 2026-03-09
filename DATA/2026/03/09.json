@@ -1,6 +1,6 @@
 {
   "date": "2026-03-09",
-  "generatedAt": "2026-03-09T13:25:06.328Z",
+  "generatedAt": "2026-03-09T13:35:05.378Z",
   "totalEvents": 8,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "PSBS Biak Numfor vs Semen Padang",
       "path": "psbs-biak-numfor-vs-semen-padang-09-03-26",
       "dateTime": "2026-03-09T13:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
@@ -23,7 +23,7 @@
       "title": "Persib vs Persik Kediri",
       "path": "persib-vs-persik-kediri-09-03-26",
       "dateTime": "2026-03-09T13:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
@@ -38,7 +38,7 @@
       "title": "Lokomotiv Moskva vs Akhmat Grozny",
       "path": "lokomotiv-moskva-vs-akhmat-grozny-09-03-26",
       "dateTime": "2026-03-09T13:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
