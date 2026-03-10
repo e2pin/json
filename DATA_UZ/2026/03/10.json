@@ -1,6 +1,6 @@
 {
   "date": "2026-03-10",
-  "generatedAt": "2026-03-10T19:55:07.653Z",
+  "generatedAt": "2026-03-10T20:05:13.620Z",
   "totalEvents": 9,
   "events": [
     {
@@ -98,7 +98,7 @@
       "title": "Atlético Madrid - Tottenham Hotspur",
       "path": "atltico-madrid-vs-tottenham-hotspur-10-03-26",
       "dateTime": "2026-03-10T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -113,7 +113,7 @@
       "title": "Atalanta - Bayern München",
       "path": "atalanta-vs-bayern-mnchen-10-03-26",
       "dateTime": "2026-03-10T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -128,7 +128,7 @@
       "title": "Newcastle United - Barcelona",
       "path": "newcastle-united-vs-barcelona-10-03-26",
       "dateTime": "2026-03-10T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
