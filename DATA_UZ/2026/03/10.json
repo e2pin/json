@@ -1,6 +1,6 @@
 {
   "date": "2026-03-10",
-  "generatedAt": "2026-03-10T17:45:05.685Z",
+  "generatedAt": "2026-03-10T17:50:05.248Z",
   "totalEvents": 9,
   "events": [
     {
@@ -76,14 +76,14 @@
       "playerId": "20203",
       "dataContent": "<title>Pakhtakor - Navbahor: Jonli Efir, O'zbekiston Superligasini 10.03.2026 da Tomosha Qiling</title>\n<meta name=\"description\" content=\"🔴 Pakhtakor - Navbahor jonli efirini bepul onlayn tomosha qiling. O'zbekiston Superligi, 10.03.2026. Tahminlar, tarkiblar va statistikalar.\">",
       "linkToEvent": "https://www.livesoccertv.com/match/pakhtakor-vs-navbahor/b9c0j",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Evropa - UEFA Chempionlar Ligasida",
       "title": "Galatasaray - Liverpool",
       "path": "galatasaray-vs-liverpool-10-03-26",
       "dateTime": "2026-03-10T17:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
