@@ -1,6 +1,6 @@
 {
   "date": "2026-03-11",
-  "generatedAt": "2026-03-11T13:25:12.866Z",
+  "generatedAt": "2026-03-11T13:35:06.270Z",
   "totalEvents": 8,
   "events": [
     {
@@ -38,11 +38,11 @@
       "title": "PSIM Yogyakarta - Persijap",
       "path": "psim-yogyakarta-vs-persijap-11-03-26",
       "dateTime": "2026-03-11T13:30:00+00:00",
-      "score": null,
+      "score": "0 - 1",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
-      "events": null,
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>3'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >B. Martinez (0 - 1)</td></tr></table>",
       "playerId": "live",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"PSIM Yogyakarta - Persijap\",\n  \"startDate\": \"2026-03-11T13:30:00+00:00\",\n  \"endDate\": \"2026-03-11T15:30:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Stadion Mandala Krida\",\n    \"address\": \"Yogyakarta, Indonezya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"PSIM Yogyakarta\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Persijap\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Indonezya - Super Liga\"\n  },\n  \"description\": \"🔴 PSIM Yogyakarta - Persijap jonli efirni bepul tomosha qiling. Indonezya - Super Liga, 11.03.2026. Bashoratlar, tarkiblar va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/persijap-vs-psim-yogyakarta/1hxwme",
