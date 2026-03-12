@@ -1,6 +1,6 @@
 {
   "date": "2026-03-12",
-  "generatedAt": "2026-03-12T17:40:10.022Z",
+  "generatedAt": "2026-03-12T17:50:10.065Z",
   "totalEvents": 13,
   "events": [
     {
@@ -83,7 +83,7 @@
       "title": "Lille - Aston Villa",
       "path": "lille-vs-aston-villa-12-03-26",
       "dateTime": "2026-03-12T17:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -98,7 +98,7 @@
       "title": "Stuttgart - Porto",
       "path": "stuttgart-vs-porto-12-03-26",
       "dateTime": "2026-03-12T17:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -113,7 +113,7 @@
       "title": "Bologna - Roma",
       "path": "bologna-vs-roma-12-03-26",
       "dateTime": "2026-03-12T17:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -128,7 +128,7 @@
       "title": "Lech Poznań - Shakhtar Donetsk",
       "path": "lech-pozna-vs-shakhtar-donetsk-12-03-26",
       "dateTime": "2026-03-12T17:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
