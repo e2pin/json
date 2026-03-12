@@ -1,6 +1,6 @@
 {
   "date": "2026-03-12",
-  "generatedAt": "2026-03-12T12:10:09.087Z",
+  "generatedAt": "2026-03-12T12:20:04.959Z",
   "totalEvents": 13,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Tampines Rovers - Bangkok United",
       "path": "tampines-rovers-vs-bangkok-united-12-03-26",
       "dateTime": "2026-03-12T12:15:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "asia-afc-champions-league-two.webp",
