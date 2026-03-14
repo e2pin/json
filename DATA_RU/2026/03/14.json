@@ -1,6 +1,6 @@
 {
   "date": "2026-03-14",
-  "generatedAt": "2026-03-14T17:05:09.418Z",
+  "generatedAt": "2026-03-14T17:10:10.618Z",
   "totalEvents": 23,
   "events": [
     {
@@ -158,11 +158,11 @@
       "title": "Наполи - Лечче",
       "path": "napoli-vs-lecce-14-03-26",
       "dateTime": "2026-03-14T17:00:00+00:00",
-      "score": "0 - 0",
+      "score": "0 - 1",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>3'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >J. Siebert (0 - 1)</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>3'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >J. Siebert (0 - 1)<div class='assist'>Assist: A. Gallo</div></td></tr></table>",
       "playerId": "124",
       "dataContent": "<title>Наполи - Лечче: Прямой эфир, Смотрите Серия А 14.03.2026</title>\n<meta name=\"description\" content=\"🔴 Смотрите прямой эфир Наполи - Лечче онлайн бесплатно. Серия А, 14.03.2026. Прогнозы, составы и статистика.\">",
       "linkToEvent": "https://www.livesoccertv.com/match/napoli-vs-lecce/3690n",
@@ -173,7 +173,7 @@
       "title": "Галатасарай - İstanbul Başakşehir",
       "path": "galatasaray-vs-istanbul-baakehir-14-03-26",
       "dateTime": "2026-03-14T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
