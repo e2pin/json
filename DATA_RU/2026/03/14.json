@@ -1,6 +1,6 @@
 {
   "date": "2026-03-14",
-  "generatedAt": "2026-03-14T18:00:14.872Z",
+  "generatedAt": "2026-03-14T18:05:11.579Z",
   "totalEvents": 23,
   "events": [
     {
@@ -203,11 +203,11 @@
       "title": "Реал Овьедо - Валенсия",
       "path": "real-oviedo-vs-valencia-14-03-26",
       "dateTime": "2026-03-14T17:30:00+00:00",
-      "score": "0 - 0",
+      "score": "1 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>16'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >T. Rendall</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>16'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >T. Rendall</td></tr><tr><td align='right' width='42%' >D. Costas (1 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>30'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "530",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Реал Овьедо - Валенсия\",\n  \"startDate\": \"2026-03-14T17:30:00+00:00\",\n  \"endDate\": \"2026-03-14T19:30:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Стадион Карлоса Тартиера\",\n    \"address\": \"Овьедо, Испания\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Реал Овьедо\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Валенсия\"},\n  \"sport\": \"Футбол\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Ла Лига\"\n  },\n  \"description\": \"🔴 Смотрите прямую трансляцию Реал Овьедо - Валенсия бесплатно онлайн. Ла Лига, 14.03.2026. Прогнозы, составы и статистика.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/valencia-vs-real-oviedo/595ln",
