@@ -1,6 +1,6 @@
 {
   "date": "2026-03-15",
-  "generatedAt": "2026-03-15T19:55:11.009Z",
+  "generatedAt": "2026-03-15T20:10:08.369Z",
   "totalEvents": 18,
   "events": [
     {
@@ -248,7 +248,7 @@
       "title": "Real Sociedad - Osasuna",
       "path": "real-sociedad-vs-osasuna-15-03-26",
       "dateTime": "2026-03-15T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
