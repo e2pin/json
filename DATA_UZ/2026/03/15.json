@@ -1,6 +1,6 @@
 {
   "date": "2026-03-15",
-  "generatedAt": "2026-03-15T19:50:10.674Z",
+  "generatedAt": "2026-03-15T19:55:11.009Z",
   "totalEvents": 18,
   "events": [
     {
@@ -256,7 +256,7 @@
       "playerId": "530",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Real Sociedad - Osasuna\",\n  \"startDate\": \"2026-03-15T20:00:00+00:00\",\n  \"endDate\": \"2026-03-15T22:00:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Reale Arena\",\n    \"address\": \"San Sebastián, Ispaniya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Real Sociedad\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Osasuna\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Liga\"\n  },\n  \"description\": \"🔴 Real Sociedad - Osasuna jonli efirini bepul onlayn tomosha qiling. La Liga, 15.03.2026. Bashoratlar, o'yin tarkiblari va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/osasuna-vs-real-sociedad/2dh1l",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Portugaliya - Premer Liga",
