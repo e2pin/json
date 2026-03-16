@@ -1,6 +1,6 @@
 {
   "date": "2026-03-16",
-  "generatedAt": "2026-03-16T11:55:04.557Z",
+  "generatedAt": "2026-03-16T12:05:05.586Z",
   "totalEvents": 5,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Tobol - Zhetysu",
       "path": "tobol-vs-zhetysu-16-03-26",
       "dateTime": "2026-03-16T12:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
