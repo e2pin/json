@@ -1,6 +1,6 @@
 {
   "date": "2026-03-18",
-  "generatedAt": "2026-03-18T21:10:07.534Z",
+  "generatedAt": "2026-03-18T21:15:10.216Z",
   "totalEvents": 10,
   "events": [
     {
@@ -110,21 +110,6 @@
     },
     {
       "categories": "Yevropa - UEFA Chempionlar Ligasi",
-      "title": "Liverpul - Galatasaray",
-      "path": "liverpool-vs-galatasaray-18-03-26",
-      "dateTime": "2026-03-18T20:00:00+00:00",
-      "score": "1 - 0",
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": "europe-uefa-champions-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >D. Szoboszlai (1 - 0)<div class='assist'>Assist: A. Mac Allister</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>25'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >M. Salah<div class='assist'>M. Salah</div></td><td width='5%' align='center'><span class='flag misspen'></span></td><td align='center' width='6%'>45+4'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>46'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >L. Sane / V. Osimhen</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>46'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >N. Lang / S. Boey</td></tr></table>",
-      "playerId": "15238",
-      "dataContent": "<title>Liverpul - Galatasaray: Jonli Efir, UEFA Chempionlar Ligasi 18.03.2026-ni tomosha qiling</title>\n<meta name=\"description\" content=\"🔴 Liverpul - Galatasaray jonli efirini bepul tomosha qiling. UEFA Chempionlar Ligasi, 18.03.2026. Taxminlar, tarkiblar va statistikalar.\">",
-      "linkToEvent": "https://www.livesoccertv.com/match/liverpool-vs-galatasaray/1nl95",
-      "status": "live"
-    },
-    {
-      "categories": "Yevropa - UEFA Chempionlar Ligasi",
       "title": "Bayern München - Atalanta",
       "path": "bayern-mnchen-vs-atalanta-18-03-26",
       "dateTime": "2026-03-18T20:00:00+00:00",
@@ -139,15 +124,30 @@
       "status": "live"
     },
     {
+      "categories": "Yevropa - UEFA Chempionlar Ligasi",
+      "title": "Liverpul - Galatasaray",
+      "path": "liverpool-vs-galatasaray-18-03-26",
+      "dateTime": "2026-03-18T20:00:00+00:00",
+      "score": "2 - 0",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >D. Szoboszlai (1 - 0)<div class='assist'>Assist: A. Mac Allister</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>25'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >M. Salah<div class='assist'>M. Salah</div></td><td width='5%' align='center'><span class='flag misspen'></span></td><td align='center' width='6%'>45+4'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>46'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >L. Sane / V. Osimhen</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>46'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >N. Lang / S. Boey</td></tr><tr><td align='right' width='42%' >H. Ekitike (2 - 0)<div class='assist'>Assist: M. Salah</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>52'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "playerId": "15238",
+      "dataContent": "<title>Liverpul - Galatasaray: Jonli Efir, UEFA Chempionlar Ligasi 18.03.2026-ni tomosha qiling</title>\n<meta name=\"description\" content=\"🔴 Liverpul - Galatasaray jonli efirini bepul tomosha qiling. UEFA Chempionlar Ligasi, 18.03.2026. Taxminlar, tarkiblar va statistikalar.\">",
+      "linkToEvent": "https://www.livesoccertv.com/match/liverpool-vs-galatasaray/1nl95",
+      "status": "live"
+    },
+    {
       "categories": "Evropa - UEFA Chempionlar Ligasi",
       "title": "Tottenham Hotspur - Atlético Madrid",
       "path": "tottenham-hotspur-vs-atltico-madrid-18-03-26",
       "dateTime": "2026-03-18T20:00:00+00:00",
-      "score": "1 - 1",
+      "score": "2 - 1",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>28'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Ruggeri<div class='assist'>Tripping</div></td></tr><tr><td align='right' width='42%' >R. Kolo Muani (1 - 0)<div class='assist'>Assist: M. Tel</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>30'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>47'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >J. Alvarez (1 - 1)<div class='assist'>Assist: A. Lookman</div></td></tr><tr><td align='right' width='42%' >I. Tudor<div class='assist'>Unsportsmanlike conduct</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>48'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>28'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Ruggeri<div class='assist'>Tripping</div></td></tr><tr><td align='right' width='42%' >R. Kolo Muani (1 - 0)<div class='assist'>Assist: M. Tel</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>30'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>47'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >J. Alvarez (1 - 1)<div class='assist'>Assist: A. Lookman</div></td></tr><tr><td align='right' width='42%' >I. Tudor<div class='assist'>Unsportsmanlike conduct</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>47'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >X. Simons (2 - 1)<div class='assist'>Assist: A. Gray</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>52'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "20203",
       "dataContent": "<title>Tottenham Hotspur - Atlético Madrid: Jonli efir, UEFA Chempionlar Ligasi, 18.03.2026</title>\n<meta name=\"description\" content=\"🔴 Jonli Tottenham Hotspur - Atlético Madrid efirini tomosha qiling. UEFA Chempionlar Ligasi, 18.03.2026. Bashoratlar, tarkiblar va statistikalar.\">",
       "linkToEvent": "https://www.livesoccertv.com/match/tottenham-hotspur-vs-atletico-madrid/19fm0",
