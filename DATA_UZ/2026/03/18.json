@@ -1,6 +1,6 @@
 {
   "date": "2026-03-18",
-  "generatedAt": "2026-03-18T21:55:05.979Z",
+  "generatedAt": "2026-03-18T22:00:04.497Z",
   "totalEvents": 10,
   "events": [
     {
@@ -121,7 +121,7 @@
       "playerId": "15238",
       "dataContent": "<title>Liverpul - Galatasaray: Jonli Efir, UEFA Chempionlar Ligasi 18.03.2026-ni tomosha qiling</title>\n<meta name=\"description\" content=\"🔴 Liverpul - Galatasaray jonli efirini bepul tomosha qiling. UEFA Chempionlar Ligasi, 18.03.2026. Taxminlar, tarkiblar va statistikalar.\">",
       "linkToEvent": "https://www.livesoccertv.com/match/liverpool-vs-galatasaray/1nl95",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Yevropa - UEFA Chempionlar Ligasi",
@@ -151,7 +151,7 @@
       "playerId": "20203",
       "dataContent": "<title>Tottenham Hotspur - Atlético Madrid: Jonli efir, UEFA Chempionlar Ligasi, 18.03.2026</title>\n<meta name=\"description\" content=\"🔴 Jonli Tottenham Hotspur - Atlético Madrid efirini tomosha qiling. UEFA Chempionlar Ligasi, 18.03.2026. Bashoratlar, tarkiblar va statistikalar.\">",
       "linkToEvent": "https://www.livesoccertv.com/match/tottenham-hotspur-vs-atletico-madrid/19fm0",
-      "status": "live"
+      "status": "finished"
     }
   ]
 }
