@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "generatedAt": "2026-03-20T10:55:05.864Z",
+  "generatedAt": "2026-03-20T11:05:04.480Z",
   "totalEvents": 12,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Нефтчи - Локомотив",
       "path": "neftchi-vs-lokomotiv-20-03-26",
       "dateTime": "2026-03-20T11:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -23,7 +23,7 @@
       "title": "Атырау - Женыс",
       "path": "atyrau-vs-zhenys-20-03-26",
       "dateTime": "2026-03-20T11:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
