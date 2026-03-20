@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "generatedAt": "2026-03-20T20:30:06.447Z",
+  "generatedAt": "2026-03-20T20:40:06.079Z",
   "totalEvents": 12,
   "events": [
     {
@@ -162,7 +162,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >G. Moreno (1 - 0)<div class='assist'>Assist: S. Comesana</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>7'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >G. Mikautadze (2 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>15'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >N. Pepe (3 - 0)<div class='assist'>Assist: G. Mikautadze</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>23'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >G. Moreno (1 - 0)<div class='assist'>Assist: S. Comesana</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>7'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >G. Mikautadze (2 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>15'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >N. Pepe (3 - 0)<div class='assist'>Assist: G. Mikautadze</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>23'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>38'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >J. Aramburu</td></tr></table>",
       "playerId": "530",
       "dataContent": "<title>Villarreal - Real Sociedad: Jonli Efir, La Liga 20.03.2026 ni Tomosha Qiling</title>\n<meta name=\"description\" content=\"🔴 Villarreal - Real Sociedad jonli efirini bepul tomosha qiling. La Liga, 20.03.2026. Prognozlar, tarkiblar va statistikalar.\">\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Villarreal - Real Sociedad\",\n  \"startDate\": \"2026-03-20T20:00:00+00:00\",\n  \"endDate\": \"2026-03-20T22:00:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Estadio de la Cerámica\",\n    \"address\": \"Villarreal, Ispaniya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Villarreal\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Real Sociedad\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Liga\"\n  },\n  \"description\": \"🔴 Villarreal - Real Sociedad jonli efirini bepul tomosha qiling. La Liga, 20.03.2026. Prognozlar, tarkiblar va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/villarreal-vs-real-sociedad/2dyhx",
