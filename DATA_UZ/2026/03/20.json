@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "generatedAt": "2026-03-20T16:35:05.733Z",
+  "generatedAt": "2026-03-20T17:25:05.337Z",
   "totalEvents": 12,
   "events": [
     {
@@ -121,7 +121,7 @@
       "playerId": "222",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Cagliari - Napoli\",\n  \"startDate\": \"2026-03-20T17:30:00+00:00\",\n  \"endDate\": \"2026-03-20T19:30:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Unipol Domus\",\n    \"address\": \"Cagliari, Italiya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Cagliari\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Napoli\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Serie A\"\n  },\n  \"description\": \"🔴 Cagliari - Napoli jonli efirini bepul tomosha qiling. Serie A, 20.03.2026. Bashoratlar, tarkiblar va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/cagliari-vs-napoli/1x334",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Germaniya - Bundesliga",
