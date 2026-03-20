@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "generatedAt": "2026-03-20T10:55:05.705Z",
+  "generatedAt": "2026-03-20T11:05:04.275Z",
   "totalEvents": 12,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Neftchi vs Lokomotiv",
       "path": "neftchi-vs-lokomotiv-20-03-26",
       "dateTime": "2026-03-20T11:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -23,7 +23,7 @@
       "title": "Atyrau vs Zhenys",
       "path": "atyrau-vs-zhenys-20-03-26",
       "dateTime": "2026-03-20T11:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
