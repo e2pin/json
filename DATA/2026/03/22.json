@@ -1,6 +1,6 @@
 {
   "date": "2026-03-22",
-  "generatedAt": "2026-03-22T14:00:10.775Z",
+  "generatedAt": "2026-03-22T14:05:10.940Z",
   "totalEvents": 20,
   "events": [
     {
@@ -113,7 +113,7 @@
       "title": "Atalanta vs Verona",
       "path": "atalanta-vs-verona-22-03-26",
       "dateTime": "2026-03-22T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
@@ -128,7 +128,7 @@
       "title": "Bologna vs Lazio",
       "path": "bologna-vs-lazio-22-03-26",
       "dateTime": "2026-03-22T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
