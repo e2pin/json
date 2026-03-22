@@ -1,9 +1,9 @@
 {
   "mainSettings": [
     {
-		"actualHomeURL": "https://ff.spon.uz/",
+		"actualHomeURL": "https://uz.tutsport.net/",
 		"actualAppURL": "https://app.tutsport.net/",
-		"actualRefURL": "https://ff.spon.uz/",
+		"actualRefURL": "https://uz.tutsport.net/",
 		"playerURL": "https://pl.wcp.su/c/",
 		"playerURL2": "https://p.afu.su/?id=",
 		"dataURL": "https://e2pin.github.io/json/DATA_UZ/",
