@@ -1,6 +1,6 @@
 {
   "date": "2026-03-22",
-  "generatedAt": "2026-03-22T11:30:04.097Z",
+  "generatedAt": "2026-03-22T11:35:05.291Z",
   "totalEvents": 20,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Como - Pisa",
       "path": "como-vs-pisa-22-03-26",
       "dateTime": "2026-03-22T11:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
