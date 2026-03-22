@@ -1,6 +1,6 @@
 {
   "date": "2026-03-22",
-  "generatedAt": "2026-03-22T10:40:03.779Z",
+  "generatedAt": "2026-03-22T10:50:03.487Z",
   "totalEvents": 20,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Оренбург - Спартак Москва",
       "path": "orenburg-vs-spartak-moskva-22-03-26",
       "dateTime": "2026-03-22T10:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
