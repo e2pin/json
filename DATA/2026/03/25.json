@@ -1,6 +1,6 @@
 {
   "date": "2026-03-25",
-  "generatedAt": "2026-03-25T10:35:09.363Z",
+  "generatedAt": "2026-03-25T22:39:55.567Z",
   "totalEvents": 12,
   "problematicEventsCount": 0,
   "events": [
@@ -151,7 +151,7 @@
     {
       "categories": "Tennis",
       "title": "Tennis. WTA 1000. Miami, USA. Quarterfinals.",
-      "path": "tennis-wta-1000-miami-usa-quarterfinals-26-03-26",
+      "path": "tennis-wta-1000-miami-usa-quarterfinals-25-03-26",
       "dateTime": "2026-03-25T23:00:00+00:00",
       "score": null,
       "team1_img_url": null,
@@ -167,7 +167,7 @@
     {
       "categories": "Tennis",
       "title": "Tennis. ATP Masters. Miami, USA. Quarterfinals",
-      "path": "tennis-atp-masters-miami-usa-quarterfinals-26-03-26",
+      "path": "tennis-atp-masters-miami-usa-quarterfinals-25-03-26",
       "dateTime": "2026-03-26T00:30:00+00:00",
       "score": null,
       "team1_img_url": null,
@@ -183,7 +183,7 @@
     {
       "categories": "Basketball",
       "title": "Basketball. NBA. Minnesota Timberwolves vs. Houston Rockets",
-      "path": "basketball-nba-minnesota-timberwolves-vs-houston-r-26-03-26",
+      "path": "basketball-nba-minnesota-timberwolves-vs-houston-r-25-03-26",
       "dateTime": "2026-03-26T01:30:00+00:00",
       "score": null,
       "team1_img_url": null,
