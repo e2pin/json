@@ -1,7 +1,7 @@
 {
   "date": "2026-03-26",
-  "generatedAt": "2026-03-26T05:48:08.241Z",
-  "totalEvents": 7,
+  "generatedAt": "2026-03-26T07:33:39.980Z",
+  "totalEvents": 8,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -54,22 +54,6 @@
     },
     {
       "categories": "World - World Cup Qualifying",
-      "title": "Ukraine vs Sweden",
-      "path": "ukraine-vs-sweden-26-03-26",
-      "dateTime": "2026-03-26T19:45:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "14032",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/sweden-vs-ukraine/yq1",
-      "status": "upcoming",
-      "channel": "Qazsport"
-    },
-    {
-      "categories": "World - World Cup Qualifying",
       "title": "Czech Republic vs Ireland Republic",
       "path": "czech-republic-vs-ireland-republic-26-03-26",
       "dateTime": "2026-03-26T19:45:00+00:00",
@@ -99,6 +83,38 @@
       "linkToEvent": "https://www.livesoccertv.com/match/bosnia-and-herzegovina-vs-wales/q3i",
       "status": "upcoming",
       "channel": "Sport TV5"
+    },
+    {
+      "categories": "World Cup Qualifying",
+      "title": "Denmark vs North Macedonia",
+      "path": "denmark-vs-north-macedonia-26-03-26",
+      "dateTime": "2026-03-26T19:45:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2193",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/denmark-vs-north-macedonia/kl7",
+      "status": "upcoming",
+      "channel": "Unknown"
+    },
+    {
+      "categories": "World - World Cup Qualifying",
+      "title": "Ukraine vs Sweden",
+      "path": "ukraine-vs-sweden-26-03-26",
+      "dateTime": "2026-03-26T19:45:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "14032",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/sweden-vs-ukraine/yq1",
+      "status": "upcoming",
+      "channel": "Qazsport"
     },
     {
       "categories": "World - Friendly",
