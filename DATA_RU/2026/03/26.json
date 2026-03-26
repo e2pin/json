@@ -1,6 +1,6 @@
 {
   "date": "2026-03-26",
-  "generatedAt": "2026-03-26T20:05:28.307Z",
+  "generatedAt": "2026-03-26T20:10:58.239Z",
   "totalEvents": 8,
   "events": [
     {
@@ -113,7 +113,7 @@
       "title": "Бразилия - Франция",
       "path": "brazil-vs-france-26-03-26",
       "dateTime": "2026-03-26T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
