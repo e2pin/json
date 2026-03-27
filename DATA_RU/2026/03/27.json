@@ -1,6 +1,6 @@
 {
   "date": "2026-03-27",
-  "generatedAt": "2026-03-27T19:45:07.862Z",
+  "generatedAt": "2026-03-27T19:50:07.770Z",
   "totalEvents": 11,
   "events": [
     {
@@ -113,7 +113,7 @@
       "title": "Нидерланды - Норвегия",
       "path": "netherlands-vs-norway-27-03-26",
       "dateTime": "2026-03-27T19:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -128,7 +128,7 @@
       "title": "Англия - Уругвай",
       "path": "england-vs-uruguay-27-03-26",
       "dateTime": "2026-03-27T19:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -143,7 +143,7 @@
       "title": "Швейцария - Германия",
       "path": "switzerland-vs-germany-27-03-26",
       "dateTime": "2026-03-27T19:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
