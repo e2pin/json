@@ -1,6 +1,6 @@
 {
   "date": "2026-03-27",
-  "generatedAt": "2026-03-27T17:25:07.427Z",
+  "generatedAt": "2026-03-27T17:35:07.546Z",
   "totalEvents": 11,
   "events": [
     {
@@ -98,7 +98,7 @@
       "title": "Уэльс U21 - Беларусь U21",
       "path": "wales-u21-vs-belarus-u21-27-03-26",
       "dateTime": "2026-03-27T17:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
