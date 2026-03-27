@@ -1,0 +1,72 @@
+{
+  "date": "2026-03-28",
+  "generatedAt": "2026-03-27T22:13:15.051Z",
+  "totalEvents": 4,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "World - Friendly",
+      "title": "Argentina vs Mauritania",
+      "path": "argentina-vs-mauritania-28-03-26",
+      "dateTime": "2026-03-27T23:15:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "31048",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/mauritania-vs-argentina/ktv",
+      "status": "upcoming",
+      "channel": "Unknown"
+    },
+    {
+      "categories": "World - Club Friendly",
+      "title": "Zenit vs Kairat",
+      "path": "zenit-vs-kairat-28-03-26",
+      "dateTime": "2026-03-28T16:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "531",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/zenit-vs-kairat/iri7b",
+      "status": "upcoming",
+      "channel": "Match Premier"
+    },
+    {
+      "categories": "World - Friendly",
+      "title": "Scotland vs Japan",
+      "path": "scotland-vs-japan-28-03-26",
+      "dateTime": "2026-03-28T17:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2526",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/japan-vs-scotland/hj5",
+      "status": "upcoming",
+      "channel": "Sport TV2"
+    },
+    {
+      "categories": "World - Friendly",
+      "title": "Hungary vs Slovenia",
+      "path": "hungary-vs-slovenia-28-03-26",
+      "dateTime": "2026-03-28T17:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "14032",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/hungary-vs-slovenia/rxc",
+      "status": "upcoming",
+      "channel": "Qazsport"
+    }
+  ]
+}
