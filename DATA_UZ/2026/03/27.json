@@ -1,6 +1,6 @@
 {
   "date": "2026-03-27",
-  "generatedAt": "2026-03-27T12:55:03.630Z",
+  "generatedAt": "2026-03-27T13:55:06.023Z",
   "totalEvents": 11,
   "events": [
     {
@@ -31,7 +31,7 @@
       "playerId": "2live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/gabon-vs-uzbekistan/5eg",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Dunyo - Do'stlik",
