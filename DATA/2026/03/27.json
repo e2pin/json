@@ -1,6 +1,6 @@
 {
   "date": "2026-03-27",
-  "generatedAt": "2026-03-27T14:55:05.647Z",
+  "generatedAt": "2026-03-27T15:05:05.998Z",
   "totalEvents": 11,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Kazakhstan U21 vs Slovakia U21",
       "path": "kazakhstan-u21-vs-slovakia-u21-27-03-26",
       "dateTime": "2026-03-27T15:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
