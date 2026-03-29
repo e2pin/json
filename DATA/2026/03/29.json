@@ -1,6 +1,6 @@
 {
   "date": "2026-03-29",
-  "generatedAt": "2026-03-29T18:55:03.838Z",
+  "generatedAt": "2026-03-29T19:10:03.334Z",
   "totalEvents": 4,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Colombia vs France",
       "path": "colombia-vs-france-29-03-26",
       "dateTime": "2026-03-29T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
