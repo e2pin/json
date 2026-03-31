@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generatedAt": "2026-03-31T14:55:07.917Z",
+  "generatedAt": "2026-03-31T15:05:05.742Z",
   "totalEvents": 15,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Казахстан U21 - Республика Ирландия U21",
       "path": "kazakhstan-u21-vs-republic-of-ireland-u21-31-03-26",
       "dateTime": "2026-03-31T15:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
