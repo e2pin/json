@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generatedAt": "2026-03-31T21:45:09.145Z",
+  "generatedAt": "2026-03-31T22:55:04.876Z",
   "totalEvents": 16,
   "events": [
     {
@@ -226,7 +226,7 @@
       "playerId": "2525",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"AQSH - Portugaliya\",\n  \"startDate\": \"2026-03-31T23:00:00+00:00\",\n  \"endDate\": \"2026-03-31T01:00:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Estádio do Dragão\",\n    \"address\": \"Porto, Portugaliya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"AQSH\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Portugaliya\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Dunyo - Do'stlik\"\n  },\n  \"description\": \"🔴 AQSH - Portugaliya jonli streamni bepul tomosha qiling. Dunyo - Do'stlik, 31.03.2026. Taxminlar, tarkiblar va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/portugal-vs-usa/159s",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Dunyo - Do'stlik",
