@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generatedAt": "2026-03-31T23:10:03.653Z",
+  "generatedAt": "2026-03-31T23:40:04.390Z",
   "totalEvents": 16,
   "events": [
     {
@@ -233,7 +233,7 @@
       "title": "Аргентина - Замбия",
       "path": "argentina-vs-zambia-31-03-26",
       "dateTime": "2026-03-31T23:15:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
