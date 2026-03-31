@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generatedAt": "2026-03-31T22:55:04.395Z",
+  "generatedAt": "2026-03-31T23:05:03.766Z",
   "totalEvents": 16,
   "events": [
     {
@@ -218,7 +218,7 @@
       "title": "USA vs Portugal",
       "path": "usa-vs-portugal-31-03-26",
       "dateTime": "2026-03-31T23:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
