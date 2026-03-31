@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generatedAt": "2026-03-31T15:55:08.403Z",
+  "generatedAt": "2026-03-31T16:05:09.409Z",
   "totalEvents": 15,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Latviya - Gibraltar",
       "path": "latvia-vs-gibraltar-31-03-26",
       "dateTime": "2026-03-31T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -53,7 +53,7 @@
       "title": "Montenegro - Sloveniya",
       "path": "montenegro-vs-slovenia-31-03-26",
       "dateTime": "2026-03-31T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -68,7 +68,7 @@
       "title": "Avstriya U21 - Belarus U21",
       "path": "austria-u21-vs-belarus-u21-31-03-26",
       "dateTime": "2026-03-31T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -83,7 +83,7 @@
       "title": "Norvegiya - Shveysariya",
       "path": "norway-vs-switzerland-31-03-26",
       "dateTime": "2026-03-31T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
