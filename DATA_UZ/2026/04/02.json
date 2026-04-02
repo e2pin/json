@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-02T06:28:26.707Z",
+  "generatedAt": "2026-04-02T06:57:51.542Z",
   "language": "UZ",
   "totalEvents": 2,
   "events": [
@@ -17,7 +17,7 @@
       "status": "upcoming",
       "channel": "Sport UZ",
       "events": null,
-      "dataContent": "Sogdiana vs Kokand-1912"
+      "dataContent": "<title>Sogdiana - Kokand-1912: Jonli translatsiya, Superliga tomosha qiling 02.04.2026</title>\n<meta name=\"description\" content=\"🔴 Sogdiana vs Kokand-1912 jonli translatsiyasini bepul onlayn tomosha qiling. O'zbekiston Superligasi, 02.04.2026. Bashoratlar, tarkiblar va statistikalar.\">\n<h1>Sogdiana - Kokand-1912 Jonli translatsiyasi — O'zbekiston Superligasini bepul onlayn tomosha qiling</h1>\n<p>O'zbekiston Superligasi muhim o'yin bilan davom etadi, unda "
     },
     {
       "categories": "Oʻzbekiston - Oʻzbekiston Superligasi",
@@ -33,7 +33,7 @@
       "status": "upcoming",
       "channel": "Futbol TV UZ",
       "events": null,
-      "dataContent": "Uzbekistan - Uzbekistan Super League"
+      "dataContent": "<div>Bunyodkor vs Lokomotiv</div>"
     }
   ]
 }
