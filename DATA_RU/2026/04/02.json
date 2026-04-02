@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-04-02T06:28:26.149Z",
+  "language": "RU",
+  "totalEvents": 2,
+  "events": [
+    {
+      "categories": "Узбекистан - Суперлига Узбекистана",
+      "title": "Согдиана - Коканд-1912",
+      "path": "sogdiana-vs-kokand1912-02-04-26",
+      "dateTime": "2026-04-02T13:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "20203",
+      "linkToEvent": "https://www.livesoccertv.com/match/sogdiana-vs-kokand-1912/1vehtb",
+      "status": "upcoming",
+      "channel": "Sport UZ",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Узбекистан - Узбекистан Суперлига",
+      "title": "Бунёдкор - Локомотив",
+      "path": "bunyodkor-vs-lokomotiv-02-04-26",
+      "dateTime": "2026-04-02T14:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "20187",
+      "linkToEvent": "https://www.livesoccertv.com/match/bunyodkor-vs-lokomotiv/k8wec",
+      "status": "upcoming",
+      "channel": "Futbol TV UZ",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
