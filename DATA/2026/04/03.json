@@ -1,7 +1,7 @@
 {
   "date": "2026-04-03",
-  "generatedAt": "2026-04-02T21:02:57.945Z",
-  "totalEvents": 8,
+  "generatedAt": "2026-04-02T21:29:36.001Z",
+  "totalEvents": 9,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -83,6 +83,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/nasaf-vs-andijan/b9q98",
       "status": "upcoming",
       "channel": "Futbol TV UZ"
+    },
+    {
+      "categories": "Saudi Arabia - Pro League",
+      "title": "Al Nassr vs Al Najma",
+      "path": "al-nassr-vs-al-najma-03-04-26",
+      "dateTime": "2026-04-03T18:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "saudi-arabia-pro-league.webp",
+      "events": null,
+      "playerId": "2528",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-nassr-vs-al-najma/4cw5oo",
+      "status": "upcoming",
+      "channel": "Sport TV4"
     },
     {
       "categories": "France - Ligue 1",
