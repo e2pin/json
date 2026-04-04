@@ -1,6 +1,6 @@
 {
   "date": "2026-04-04",
-  "generatedAt": "2026-04-04T16:35:14.541Z",
+  "generatedAt": "2026-04-04T16:40:13.509Z",
   "totalEvents": 30,
   "events": [
     {
@@ -323,7 +323,7 @@
       "title": "Real Betis - Espanyol",
       "path": "real-betis-vs-espanyol-04-04-26",
       "dateTime": "2026-04-04T16:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
@@ -346,7 +346,7 @@
       "playerId": "531",
       "dataContent": "Krasnodar vs Axmat Grozny",
       "linkToEvent": "https://www.livesoccertv.com/match/akhmat-grozny-vs-krasnodar/4b8y8",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Portugaliya - Primeira Liga",
