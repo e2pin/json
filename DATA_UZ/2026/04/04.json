@@ -1,6 +1,6 @@
 {
   "date": "2026-04-04",
-  "generatedAt": "2026-04-04T12:00:10.668Z",
+  "generatedAt": "2026-04-04T12:05:09.481Z",
   "totalEvents": 30,
   "events": [
     {
@@ -83,7 +83,7 @@
       "title": "Persebaya Surabaya - Persita",
       "path": "persebaya-surabaya-vs-persita-04-04-26",
       "dateTime": "2026-04-04T12:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
@@ -98,7 +98,7 @@
       "title": "Real Sociedad - Levante",
       "path": "real-sociedad-vs-levante-04-04-26",
       "dateTime": "2026-04-04T12:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
@@ -113,7 +113,7 @@
       "title": "Pakhtakor - AGMK",
       "path": "pakhtakor-vs-agmk-04-04-26",
       "dateTime": "2026-04-04T12:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
