@@ -1,6 +1,6 @@
 {
   "date": "2026-04-07",
-  "generatedAt": "2026-04-07T18:55:10.494Z",
+  "generatedAt": "2026-04-07T19:05:33.521Z",
   "totalEvents": 3,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Реал Мадрид - Бавария Мюнхен",
       "path": "real-madrid-vs-bayern-mnchen-07-04-26",
       "dateTime": "2026-04-07T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -38,7 +38,7 @@
       "title": "Спортинг КС - Арсенал",
       "path": "sporting-cp-vs-arsenal-07-04-26",
       "dateTime": "2026-04-07T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
