@@ -1,0 +1,56 @@
+{
+  "date": "2026-04-07",
+  "generatedAt": "2026-04-07T07:47:53.412Z",
+  "totalEvents": 3,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "Russia - Russian Cup",
+      "title": "Krylya Sovetov vs CSKA Moskva",
+      "path": "krylya-sovetov-vs-cska-moskva-07-04-26",
+      "dateTime": "2026-04-07T15:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "531",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/cska-moskva-vs-krylya-sovetov/2gn49",
+      "status": "upcoming",
+      "channel": "Match Premier"
+    },
+    {
+      "categories": "Europe - UEFA Champions League",
+      "title": "Sporting CP vs Arsenal",
+      "path": "sporting-cp-vs-arsenal-07-04-26",
+      "dateTime": "2026-04-07T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": null,
+      "playerId": "2210",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/arsenal-vs-sporting-cp/1a1y3",
+      "status": "upcoming",
+      "channel": "Kazakhstan TV"
+    },
+    {
+      "categories": "Europe - UEFA Champions League",
+      "title": "Real Madrid vs Bayern München",
+      "path": "real-madrid-vs-bayern-mnchen-07-04-26",
+      "dateTime": "2026-04-07T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": null,
+      "playerId": "6554",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/bayern-munchen-vs-real-madrid/1a9xr",
+      "status": "upcoming",
+      "channel": "Qazsport"
+    }
+  ]
+}
