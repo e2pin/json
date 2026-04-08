@@ -1,6 +1,6 @@
 {
   "date": "2026-04-08",
-  "generatedAt": "2026-04-08T19:00:10.942Z",
+  "generatedAt": "2026-04-08T19:05:14.586Z",
   "totalEvents": 6,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Paris Saint-Germain - Liverpool",
       "path": "psg-vs-liverpool-08-04-26",
       "dateTime": "2026-04-08T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -83,7 +83,7 @@
       "title": "Barcelona - Atlético Madrid",
       "path": "barcelona-vs-atltico-madrid-08-04-26",
       "dateTime": "2026-04-08T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
