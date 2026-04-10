@@ -1,6 +1,6 @@
 {
   "date": "2026-04-10",
-  "generatedAt": "2026-04-10T16:55:05.016Z",
+  "generatedAt": "2026-04-10T17:05:04.778Z",
   "totalEvents": 10,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Parij - Monako",
       "path": "paris-vs-monaco-10-04-26",
       "dateTime": "2026-04-10T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -53,7 +53,7 @@
       "title": "Beşiktaş - Antalyaspor",
       "path": "beikta-vs-antalyaspor-10-04-26",
       "dateTime": "2026-04-10T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
