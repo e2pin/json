@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "generatedAt": "2026-04-11T16:30:12.680Z",
+  "generatedAt": "2026-04-11T16:35:13.058Z",
   "totalEvents": 24,
   "events": [
     {
@@ -203,7 +203,7 @@
       "title": "Liverpul - Fulham",
       "path": "liverpool-vs-fulham-11-04-26",
       "dateTime": "2026-04-11T16:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
@@ -233,7 +233,7 @@
       "title": "Baltika - Olimpiyets",
       "path": "baltika-vs-olimpiyets-11-04-26",
       "dateTime": "2026-04-11T16:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -248,7 +248,7 @@
       "title": "St. Pauli - Bayern Munchen",
       "path": "st-pauli-vs-bayern-mnchen-11-04-26",
       "dateTime": "2026-04-11T16:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
