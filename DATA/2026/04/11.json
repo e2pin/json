@@ -1,7 +1,7 @@
 {
   "date": "2026-04-11",
-  "generatedAt": "2026-04-11T10:24:01.884Z",
-  "totalEvents": 25,
+  "generatedAt": "2026-04-11T10:25:41.677Z",
+  "totalEvents": 24,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -371,22 +371,6 @@
       "linkToEvent": "https://www.livesoccertv.com/match/far-rabat-vs-rsb-berkane/f5rfj",
       "status": "upcoming",
       "channel": "Sportklub 1 Croatia"
-    },
-    {
-      "categories": "France - Ligue 1",
-      "title": "Rennes vs Angers SCO",
-      "path": "rennes-vs-angers-sco-11-04-26",
-      "dateTime": "2026-04-11T19:05:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "2528",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/rennes-vs-angers-sco/3vod6",
-      "status": "upcoming",
-      "channel": "Sport TV4"
     },
     {
       "categories": "Portugal - Primeira Liga",
