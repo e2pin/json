@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "generatedAt": "2026-04-11T11:55:06.787Z",
+  "generatedAt": "2026-04-11T12:05:06.661Z",
   "totalEvents": 24,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Real Sociedad vs Deportivo Alavés",
       "path": "real-sociedad-vs-deportivo-alavs-11-04-26",
       "dateTime": "2026-04-11T12:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
@@ -68,7 +68,7 @@
       "title": "Persija vs Persebaya Surabaya",
       "path": "persija-vs-persebaya-surabaya-11-04-26",
       "dateTime": "2026-04-11T12:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
