@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "generatedAt": "2026-04-12T16:30:13.232Z",
+  "generatedAt": "2026-04-12T16:35:12.884Z",
   "totalEvents": 25,
   "events": [
     {
@@ -196,7 +196,7 @@
       "playerId": "2525",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/casa-pia-vs-alverca/1ynnkj",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Англия - Премьер-лига",
@@ -263,7 +263,7 @@
       "title": "Сельта - Реал Овьедо",
       "path": "celta-de-vigo-vs-real-oviedo-12-04-26",
       "dateTime": "2026-04-12T16:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
