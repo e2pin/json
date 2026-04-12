@@ -1,6 +1,6 @@
 {
   "date": "2026-04-12",
-  "generatedAt": "2026-04-12T19:05:12.116Z",
+  "generatedAt": "2026-04-12T19:10:10.928Z",
   "totalEvents": 25,
   "events": [
     {
@@ -342,7 +342,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": null,
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>23'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >P. Katseris / T. Le Bris</td></tr></table>",
       "playerId": "2399",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/lorient-vs-olympique-lyonnais/1egpg",
