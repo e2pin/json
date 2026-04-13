@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "generatedAt": "2026-04-13T18:55:07.577Z",
+  "generatedAt": "2026-04-13T19:05:07.670Z",
   "totalEvents": 9,
   "events": [
     {
@@ -113,7 +113,7 @@
       "title": "Levante - Getafe",
       "path": "levante-vs-getafe-13-04-26",
       "dateTime": "2026-04-13T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
@@ -128,7 +128,7 @@
       "title": "Manchester United - Leeds United",
       "path": "manchester-united-vs-leeds-united-13-04-26",
       "dateTime": "2026-04-13T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
