@@ -1,7 +1,7 @@
 {
   "date": "2026-04-13",
-  "generatedAt": "2026-04-13T07:18:34.350Z",
-  "totalEvents": 6,
+  "generatedAt": "2026-04-13T08:47:27.350Z",
+  "totalEvents": 9,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -53,6 +53,22 @@
       "channel": "Match Premier"
     },
     {
+      "categories": "Asia - AFC Champions League Elite",
+      "title": "Al-Ahli vs Al Duhail",
+      "path": "alahli-vs-al-duhail-13-04-26",
+      "dateTime": "2026-04-13T14:45:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "6313",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-duhail-vs-al-ahli/a9515",
+      "status": "upcoming",
+      "channel": "TV Start"
+    },
+    {
       "categories": "Uzbekistan - Uzbekistan Super League",
       "title": "Qizilqum vs Sogdiana",
       "path": "qizilqum-vs-sogdiana-13-04-26",
@@ -67,6 +83,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/qizilqum-vs-sogdiana/bbpk0",
       "status": "upcoming",
       "channel": "Futbol TV UZ"
+    },
+    {
+      "categories": "Asia - AFC Champions League Elite",
+      "title": "Al Hilal vs Al Sadd",
+      "path": "al-hilal-vs-al-sadd-13-04-26",
+      "dateTime": "2026-04-13T18:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "16034",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-sadd-vs-al-hilal/6c5u1",
+      "status": "upcoming",
+      "channel": "TV Start"
     },
     {
       "categories": "Italy - Serie A",
@@ -99,6 +131,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/getafe-vs-levante/2czmw",
       "status": "upcoming",
       "channel": "Match! Football 2"
+    },
+    {
+      "categories": "England - Premier League",
+      "title": "Manchester United vs Leeds United",
+      "path": "manchester-united-vs-leeds-united-13-04-26",
+      "dateTime": "2026-04-13T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "england-premier-league.webp",
+      "events": null,
+      "playerId": "7335",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/manchester-united-vs-leeds-united/276e3",
+      "status": "upcoming",
+      "channel": "Sky Sports Premier League"
     }
   ]
 }
