@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "generatedAt": "2026-04-13T17:55:07.123Z",
+  "generatedAt": "2026-04-13T18:05:06.332Z",
   "totalEvents": 9,
   "events": [
     {
@@ -83,7 +83,7 @@
       "title": "Al Hilal - Al Sadd",
       "path": "al-hilal-vs-al-sadd-13-04-26",
       "dateTime": "2026-04-13T18:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
