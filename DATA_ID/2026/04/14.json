@@ -1,6 +1,6 @@
 {
   "date": "2026-04-14",
-  "generatedAt": "2026-04-14T16:50:07.693Z",
+  "generatedAt": "2026-04-14T16:55:06.526Z",
   "totalEvents": 7,
   "events": [
     {
@@ -46,7 +46,7 @@
       "playerId": "7271",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/botev-vratsa-vs-lokomotiv-sofia-1929/1qkynw",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Uzbekistan - Liga Super Uzbekistan",
