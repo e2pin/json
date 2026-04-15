@@ -1,6 +1,6 @@
 {
   "date": "2026-04-15",
-  "generatedAt": "2026-04-15T03:10:02.813Z",
+  "generatedAt": "2026-04-15T03:25:03.848Z",
   "totalEvents": 8,
   "events": [
     {
@@ -31,7 +31,7 @@
       "playerId": "7269",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/america-vs-nashville-sc/1lx0zk",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Азия - Лига чемпионов АФК",
@@ -94,21 +94,6 @@
       "status": "upcoming"
     },
     {
-      "categories": "Европа - Лига чемпионов УЕФА",
-      "title": "Арсенал - Спортинг КП",
-      "path": "arsenal-vs-sporting-cp-15-04-26",
-      "dateTime": "2026-04-15T19:00:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": "europe-uefa-champions-league.webp",
-      "events": null,
-      "playerId": "20062",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/arsenal-vs-sporting-cp/1a1y3",
-      "status": "upcoming"
-    },
-    {
       "categories": "Европа - Лига Чемпионов УЕФА",
       "title": "Бавария - Реал Мадрид",
       "path": "bayern-mnchen-vs-real-madrid-15-04-26",
@@ -121,6 +106,21 @@
       "playerId": "14032",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/bayern-munchen-vs-real-madrid/1a9xr",
+      "status": "upcoming"
+    },
+    {
+      "categories": "Европа - Лига чемпионов УЕФА",
+      "title": "Арсенал - Спортинг КП",
+      "path": "arsenal-vs-sporting-cp-15-04-26",
+      "dateTime": "2026-04-15T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": null,
+      "playerId": "20062",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/arsenal-vs-sporting-cp/1a1y3",
       "status": "upcoming"
     }
   ]
