@@ -1,6 +1,6 @@
 {
   "date": "2026-04-15",
-  "generatedAt": "2026-04-15T20:25:07.165Z",
+  "generatedAt": "2026-04-15T20:30:05.154Z",
   "totalEvents": 8,
   "events": [
     {
@@ -102,7 +102,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >K. Havertz / V. Gyokeres</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>56'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >M. Dowman / N. Madueke</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>63'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >K. Havertz / V. Gyokeres</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>56'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >M. Dowman / N. Madueke</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>63'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >M. Arteta</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>70'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>72'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >G. Quenda / G. Catamo</td></tr></table>",
       "playerId": "2239",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/arsenal-vs-sporting-cp/1a1y3",
