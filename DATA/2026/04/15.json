@@ -1,8 +1,7 @@
 {
   "date": "2026-04-15",
-  "generatedAt": "2026-04-14T23:09:19.543Z",
+  "generatedAt": "2026-04-15T00:55:04.204Z",
   "totalEvents": 8,
-  "problematicEventsCount": 0,
   "events": [
     {
       "categories": "North-america - CONCACAF Champions Cup",
@@ -17,8 +16,7 @@
       "playerId": "7269",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/cruz-azul-vs-los-angeles-fc/1akgzx",
-      "status": "upcoming",
-      "channel": "Sportklub 1 Croatia"
+      "status": "live"
     },
     {
       "categories": "North-america - CONCACAF Champions Cup",
@@ -33,8 +31,7 @@
       "playerId": "7269",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/america-vs-nashville-sc/1lx0zk",
-      "status": "upcoming",
-      "channel": "Sportklub 1 Croatia"
+      "status": "upcoming"
     },
     {
       "categories": "Asia - AFC Champions League Two",
@@ -49,8 +46,7 @@
       "playerId": "7269",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/gamba-osaka-vs-bangkok-united/lus4p",
-      "status": "upcoming",
-      "channel": "Sportklub 1 Croatia"
+      "status": "upcoming"
     },
     {
       "categories": "Bulgaria - Parva Liga",
@@ -65,8 +61,7 @@
       "playerId": "7269",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/cherno-more-vs-cska-1948/1lw4ft",
-      "status": "upcoming",
-      "channel": "Sportklub 1 Croatia"
+      "status": "upcoming"
     },
     {
       "categories": "Slovenia - Prva Liga",
@@ -81,8 +76,7 @@
       "playerId": "7271",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/olimpija-vs-celje/9r4i1",
-      "status": "upcoming",
-      "channel": "Sportklub 3 Croatia"
+      "status": "upcoming"
     },
     {
       "categories": "Saudi Arabia - Pro League",
@@ -97,24 +91,7 @@
       "playerId": "2525",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/al-ittifaq-vs-al-nassr/ab11o",
-      "status": "upcoming",
-      "channel": "Sport TV1"
-    },
-    {
-      "categories": "Europe - UEFA Champions League",
-      "title": "Bayern München vs Real Madrid",
-      "path": "bayern-mnchen-vs-real-madrid-15-04-26",
-      "dateTime": "2026-04-15T19:00:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": "europe-uefa-champions-league.webp",
-      "events": null,
-      "playerId": "14032",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/bayern-munchen-vs-real-madrid/1a9xr",
-      "status": "upcoming",
-      "channel": "Qazsport"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Champions League",
@@ -129,8 +106,22 @@
       "playerId": "20062",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/arsenal-vs-sporting-cp/1a1y3",
-      "status": "upcoming",
-      "channel": "Q League"
+      "status": "upcoming"
+    },
+    {
+      "categories": "Europe - UEFA Champions League",
+      "title": "Bayern München vs Real Madrid",
+      "path": "bayern-mnchen-vs-real-madrid-15-04-26",
+      "dateTime": "2026-04-15T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": null,
+      "playerId": "14032",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/bayern-munchen-vs-real-madrid/1a9xr",
+      "status": "upcoming"
     }
   ]
 }
