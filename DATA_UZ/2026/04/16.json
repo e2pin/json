@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generatedAt": "2026-04-16T19:05:10.236Z",
+  "generatedAt": "2026-04-16T19:10:08.876Z",
   "totalEvents": 9,
   "events": [
     {
@@ -132,7 +132,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": null,
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>8'</td><td width='5%' align='center'><span class='flag redcard'></span></td><td width='42%' >J. Bednarek<div class='assist'>Roughing</div></td></tr></table>",
       "playerId": "20135",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Nottingham Forest - Porto\",\n  \"startDate\": \"2026-04-16T19:00:00+00:00\",\n  \"endDate\": \"2026-04-16T21:00:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"City Ground\",\n    \"address\": \"Nottingham, Angliya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Nottingham Forest\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Porto\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"UEFA Yevropa Ligas\"\n  },\n  \"description\": \"🔴 Nottingham Forest - Porto jonli efirini bepul tomosha qiling. UEFA Yevropa Ligas, 16.04.2026. Bashoratlar, tarkiblar va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/porto-vs-nottingham-forest/1gkva",
