@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generatedAt": "2026-04-16T03:00:04.965Z",
+  "generatedAt": "2026-04-16T03:25:03.892Z",
   "totalEvents": 7,
   "events": [
     {
@@ -31,7 +31,7 @@
       "playerId": "7269",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Seattle Sounders FC - Tigres UANL\",\n  \"startDate\": \"2026-04-16T03:30:00+00:00\",\n  \"endDate\": \"2026-04-16T05:30:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Lumen Field\",\n    \"address\": \"Seattle, USA\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Seattle Sounders FC\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Tigres UANL\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"CONCACAF Chempionlar Kubogi\"\n  },\n  \"description\": \"🔴 Seattle Sounders FC - Tigres UANL jonli efirini bepul tomosha qiling. CONCACAF Chempionlar Kubogi, 16.04.2026. Bashoratlar, tarkiblar va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/tigres-uanl-vs-seattle-sounders-fc/21e90",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Evropa - UEFA Yevropa Ligasi",
