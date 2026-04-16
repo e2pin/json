@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generatedAt": "2026-04-16T16:45:06.337Z",
+  "generatedAt": "2026-04-16T16:50:05.567Z",
   "totalEvents": 9,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Celta de Vigo - Freiburg",
       "path": "celta-de-vigo-vs-freiburg-16-04-26",
       "dateTime": "2026-04-16T16:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -68,7 +68,7 @@
       "title": "AZ - Shakhtar Donetsk",
       "path": "az-vs-shakhtar-donetsk-16-04-26",
       "dateTime": "2026-04-16T16:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
