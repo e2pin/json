@@ -1,6 +1,6 @@
 {
   "date": "2026-04-19",
-  "generatedAt": "2026-04-19T19:35:09.673Z",
+  "generatedAt": "2026-04-19T19:40:09.922Z",
   "totalEvents": 26,
   "events": [
     {
@@ -368,7 +368,7 @@
       "title": "Porto vs Tondela",
       "path": "porto-vs-tondela-19-04-26",
       "dateTime": "2026-04-19T19:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
