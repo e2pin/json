@@ -1,6 +1,6 @@
 {
   "date": "2026-04-19",
-  "generatedAt": "2026-04-19T12:55:12.130Z",
+  "generatedAt": "2026-04-19T13:00:11.745Z",
   "totalEvents": 26,
   "events": [
     {
@@ -46,7 +46,7 @@
       "playerId": "20187",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/bunyodkor-vs-sogdiana/ba4i6",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Qozog'iston - Qozog'iston Premer Ligasi",
@@ -61,7 +61,7 @@
       "playerId": "14032",
       "dataContent": "<title>Atyrau - Kyzyl-Zhar: Jonli Efir, Qozog'iston Premer Ligasini 19.04.2026 da tomosha qiling</title>\n<meta name=\"description\" content=\"🔴 Atyrau - Kyzyl-Zhar jonli efirini bepul tomosha qiling. Qozog'iston Premer Ligas, 19.04.2026. Bashoratlar, harakatlar va statistikalar.\">",
       "linkToEvent": "https://www.livesoccertv.com/match/atyrau-vs-kyzyl-zhar/391cpn",
-      "status": "finished"
+      "status": "live"
     },
     {
       "categories": "Rossiya - Premer Liga",
