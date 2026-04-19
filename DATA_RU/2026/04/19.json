@@ -1,6 +1,6 @@
 {
   "date": "2026-04-19",
-  "generatedAt": "2026-04-19T11:25:06.605Z",
+  "generatedAt": "2026-04-19T11:30:07.590Z",
   "totalEvents": 26,
   "events": [
     {
@@ -53,11 +53,11 @@
       "title": "Согдиана - Бунёдкор",
       "path": "sogdiana-vs-bunyodkor-19-04-26",
       "dateTime": "2026-04-19T11:00:00+00:00",
-      "score": "1 - 0",
+      "score": "2 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >L. Doriev (1 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>4'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >L. Doriev (1 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>4'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >L. Doriev (2 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>26'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "20187",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/bunyodkor-vs-sogdiana/ba4i6",
