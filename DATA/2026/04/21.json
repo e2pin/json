@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-21",
+  "generatedAt": "2026-04-20T00:11:35.981Z",
+  "totalEvents": 4,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "Turkey - Turkish Cup",
+      "title": "Konyaspor vs Fenerbahçe",
+      "path": "konyaspor-vs-fenerbahe-21-04-26",
+      "dateTime": "2026-04-21T17:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2527",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/fenerbahce-vs-konyaspor/3l1pj",
+      "status": "upcoming",
+      "channel": "Sport TV3"
+    },
+    {
+      "categories": "Italy - Coppa Italia",
+      "title": "Internazionale vs Como",
+      "path": "internazionale-vs-como-21-04-26",
+      "dateTime": "2026-04-21T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "italy-coppa-italia.webp",
+      "events": null,
+      "playerId": "2525",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/internazionale-vs-como/6ifzs",
+      "status": "upcoming",
+      "channel": "Sport TV1"
+    },
+    {
+      "categories": "England - Premier League",
+      "title": "Brighton & Hove Albion vs Chelsea",
+      "path": "brighton-hove-albion-vs-chelsea-21-04-26",
+      "dateTime": "2026-04-21T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "england-premier-league.webp",
+      "events": null,
+      "playerId": "7335",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/chelsea-vs-brighton-hove-albion/26b0o",
+      "status": "upcoming",
+      "channel": "Sky Sports Premier League"
+    },
+    {
+      "categories": "France - Coupe de France",
+      "title": "Lens vs Toulouse",
+      "path": "lens-vs-toulouse-21-04-26",
+      "dateTime": "2026-04-21T19:10:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2526",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/lens-vs-toulouse/1enew",
+      "status": "upcoming",
+      "channel": "Sport TV2"
+    }
+  ]
+}
