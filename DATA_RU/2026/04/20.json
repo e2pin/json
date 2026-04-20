@@ -1,6 +1,6 @@
 {
   "date": "2026-04-20",
-  "generatedAt": "2026-04-20T14:05:03.566Z",
+  "generatedAt": "2026-04-20T16:10:03.784Z",
   "totalEvents": 5,
   "events": [
     {
@@ -46,7 +46,7 @@
       "playerId": "16034",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Виссел Кобе - Аль-Ахли\",\n  \"startDate\": \"2026-04-20T16:15:00+00:00\",\n  \"endDate\": \"2026-04-20T18:15:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Стадион Ноевир Кобе\",\n    \"address\": \"Кобе, Япония\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Виссел Кобе\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Аль-Ахли\"},\n  \"sport\": \"Футбол\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Лига чемпионов АФК Элит\"\n  },\n  \"description\": \"🔴 Смотрите прямую трансляцию Виссел Кобе - Аль-Ахли бесплатно онлайн. Лига чемпионов АФК Элит, 20.04.2026. Прогнозы, составы и статистика.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/vissel-kobe-vs-al-ahli/5y582",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Италия - Серия А",
