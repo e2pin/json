@@ -1,6 +1,6 @@
 {
   "date": "2026-04-20",
-  "generatedAt": "2026-04-20T18:40:04.754Z",
+  "generatedAt": "2026-04-20T18:50:04.594Z",
   "totalEvents": 5,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Lecce vs Fiorentina",
       "path": "lecce-vs-fiorentina-20-04-26",
       "dateTime": "2026-04-20T18:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
