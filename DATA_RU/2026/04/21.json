@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generatedAt": "2026-04-21T05:05:04.644Z",
+  "generatedAt": "2026-04-21T05:35:04.196Z",
   "totalEvents": 16,
   "events": [
     {
@@ -12,7 +12,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>28'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >O. Faulds (0 - 1)</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>58'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >L. Gillion (0 - 2)</td></tr><tr><td align='right' width='42%' >D. Yoo (1 - 2)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>76'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>81'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >I. Prins (1 - 3)</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>28'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >O. Faulds (0 - 1)</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>59'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >S. van Dijk (o.g.) (0 - 2)</td></tr><tr><td align='right' width='42%' >D. Yoo (1 - 2)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>76'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>81'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >I. Prins (1 - 3)</td></tr></table>",
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/auckland-fc-2-vs-south-island-united/tvfeek",
