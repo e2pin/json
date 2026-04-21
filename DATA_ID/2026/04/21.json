@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generatedAt": "2026-04-21T03:50:03.948Z",
+  "generatedAt": "2026-04-21T04:25:04.020Z",
   "totalEvents": 16,
   "events": [
     {
@@ -8,11 +8,11 @@
       "title": "South Island United - Auckland FC 2",
       "path": "south-island-united-vs-auckland-fc-2-21-04-26",
       "dateTime": "2026-04-21T03:00:00+00:00",
-      "score": "0 - 1",
+      "score": "0 - 2",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>28'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >O. Faulds (0 - 1)</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>28'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >O. Faulds (0 - 1)</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>58'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' > (0 - 2)</td></tr></table>",
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/auckland-fc-2-vs-south-island-united/tvfeek",
