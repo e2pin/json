@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generatedAt": "2026-04-21T04:50:04.181Z",
+  "generatedAt": "2026-04-21T05:05:04.921Z",
   "totalEvents": 16,
   "events": [
     {
@@ -16,7 +16,7 @@
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/auckland-fc-2-vs-south-island-united/tvfeek",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Oceania - Liga Profesional OFC",
