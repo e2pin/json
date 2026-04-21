@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generatedAt": "2026-04-21T14:25:04.228Z",
+  "generatedAt": "2026-04-21T14:35:04.269Z",
   "totalEvents": 13,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Sochi - Krylya Sovetov",
       "path": "sochi-vs-krylya-sovetov-21-04-26",
       "dateTime": "2026-04-21T14:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
