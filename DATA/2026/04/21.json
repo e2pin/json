@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generatedAt": "2026-04-21T06:55:04.702Z",
+  "generatedAt": "2026-04-21T07:10:03.530Z",
   "totalEvents": 16,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "South Melbourne vs Tahiti United",
       "path": "south-melbourne-vs-tahiti-united-21-04-26",
       "dateTime": "2026-04-21T07:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
