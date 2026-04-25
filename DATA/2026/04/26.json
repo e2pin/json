@@ -1,7 +1,7 @@
 {
   "date": "2026-04-26",
-  "generatedAt": "2026-04-24T20:49:11.676Z",
-  "totalEvents": 23,
+  "generatedAt": "2026-04-25T23:04:16.809Z",
+  "totalEvents": 22,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -102,22 +102,6 @@
     },
     {
       "categories": "Russia - Russian Premier League",
-      "title": "Dinamo Moskva vs Sochi",
-      "path": "dinamo-moskva-vs-sochi-26-04-26",
-      "dateTime": "2026-04-26T14:00:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "531",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/dinamo-moskva-vs-sochi/cwbfz",
-      "status": "upcoming",
-      "channel": "Match Premier"
-    },
-    {
-      "categories": "Russia - Russian Premier League",
       "title": "Krasnodar vs Dynamo Makhachkala",
       "path": "krasnodar-vs-dynamo-makhachkala-26-04-26",
       "dateTime": "2026-04-26T14:00:00+00:00",
@@ -149,6 +133,22 @@
       "channel": "Sport TV1"
     },
     {
+      "categories": "Russia - Russian Premier League",
+      "title": "Dinamo Moskva vs Sochi",
+      "path": "dinamo-moskva-vs-sochi-26-04-26",
+      "dateTime": "2026-04-26T14:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "531",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/dinamo-moskva-vs-sochi/cwbfz",
+      "status": "upcoming",
+      "channel": "Match Premier"
+    },
+    {
       "categories": "Spain - La Liga",
       "title": "Real Oviedo vs Elche",
       "path": "real-oviedo-vs-elche-26-04-26",
@@ -163,22 +163,6 @@
       "linkToEvent": "https://www.livesoccertv.com/match/elche-vs-real-oviedo/7624u",
       "status": "upcoming",
       "channel": "Match! Football 2"
-    },
-    {
-      "categories": "Portugal - Primeira Liga",
-      "title": "Estoril vs Famalicão",
-      "path": "estoril-vs-famalico-26-04-26",
-      "dateTime": "2026-04-26T14:30:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "2526",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/estoril-vs-famalicao/dbdh1",
-      "status": "upcoming",
-      "channel": "Sport TV2"
     },
     {
       "categories": "Kazakhstan - Kazakhstan Premier League",
