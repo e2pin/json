@@ -1,6 +1,6 @@
 {
   "date": "2026-04-25",
-  "generatedAt": "2026-04-25T19:00:11.333Z",
+  "generatedAt": "2026-04-25T19:05:12.227Z",
   "totalEvents": 21,
   "events": [
     {
@@ -293,7 +293,7 @@
       "title": "Atlético Madrid - Athletic Club",
       "path": "atltico-madrid-vs-athletic-club-25-04-26",
       "dateTime": "2026-04-25T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
