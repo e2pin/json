@@ -1,6 +1,6 @@
 {
   "date": "2026-04-25",
-  "generatedAt": "2026-04-25T16:10:10.334Z",
+  "generatedAt": "2026-04-25T16:20:08.576Z",
   "totalEvents": 21,
   "events": [
     {
@@ -188,7 +188,7 @@
       "title": "Манчестер Сити - Саутгемптон",
       "path": "manchester-city-vs-southampton-25-04-26",
       "dateTime": "2026-04-25T16:15:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
