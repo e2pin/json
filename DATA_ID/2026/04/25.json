@@ -1,6 +1,6 @@
 {
   "date": "2026-04-25",
-  "generatedAt": "2026-04-25T14:00:13.561Z",
+  "generatedAt": "2026-04-25T14:05:12.131Z",
   "totalEvents": 21,
   "events": [
     {
@@ -102,7 +102,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >D. Kohr (1 - 0)<div class='assist'>Assist: K. Sano</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>15'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >D. Kohr<div class='assist'>Roughing</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>20'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' > (2 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>29'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >D. Kohr (1 - 0)<div class='assist'>Assist: K. Sano</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>15'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >D. Kohr<div class='assist'>Roughing</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>20'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >P. Nebel (2 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>29'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>33'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >K. Laimer<div class='assist'>Tripping</div></td></tr></table>",
       "playerId": "7269",
       "dataContent": "<title>Mainz 05 - Bayern München: Siaran Langsung, Tonton Bundesliga 25.04.2026</title>\n<meta name=\"description\" content=\"🔴 Tonton Mainz 05 - Bayern München siaran langsung gratis secara online. Bundesliga, 25.04.2026. Prediksi, susunan pemain, dan statistik.\">",
       "linkToEvent": "https://www.livesoccertv.com/match/mainz-05-vs-bayern-munchen/18zr5",
@@ -113,7 +113,7 @@
       "title": "Krylya Sovetov - Lokomotiv Moskva",
       "path": "krylya-sovetov-vs-lokomotiv-moskva-25-04-26",
       "dateTime": "2026-04-25T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -128,7 +128,7 @@
       "title": "Liverpool - Crystal Palace",
       "path": "liverpool-vs-crystal-palace-25-04-26",
       "dateTime": "2026-04-25T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
@@ -143,7 +143,7 @@
       "title": "Wolverhampton Wanderers - Tottenham Hotspur",
       "path": "wolverhampton-wanderers-vs-tottenham-hotspur-25-04-26",
       "dateTime": "2026-04-25T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
