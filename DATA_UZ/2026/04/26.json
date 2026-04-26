@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generatedAt": "2026-04-26T19:30:12.083Z",
+  "generatedAt": "2026-04-26T19:35:10.894Z",
   "totalEvents": 22,
   "events": [
     {
@@ -308,11 +308,11 @@
       "title": "Villarreal - Celta de Vigo",
       "path": "villarreal-vs-celta-de-vigo-26-04-26",
       "dateTime": "2026-04-26T19:00:00+00:00",
-      "score": "1 - 0",
+      "score": "2 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >G. Moreno (pen.) (1 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>2'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>14'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Alonso<div class='assist'>Tripping</div></td></tr><tr><td align='right' width='42%' >A. Pedraza<div class='assist'>Roughing</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>19'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >G. Moreno (pen.) (1 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>2'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>14'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Alonso<div class='assist'>Tripping</div></td></tr><tr><td align='right' width='42%' >A. Pedraza<div class='assist'>Roughing</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>19'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >N. Pepe (2 - 0)<div class='assist'>Assist: A. Pedraza</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>29'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "530",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Villarreal - Celta de Vigo\",\n  \"startDate\": \"2026-04-26T19:00:00+00:00\",\n  \"endDate\": \"2026-04-26T21:00:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Estadio de la Cerámica\",\n    \"address\": \"Villarreal, Ispaniya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Villarreal\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Celta de Vigo\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Liga\"\n  },\n  \"description\": \"🔴 Villarreal - Celta de Vigo jonli translyatsiyasini bepul tomosha qiling. La Liga, 26.04.2026. Taxminlar, tarkiblar va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/villarreal-vs-celta-de-vigo/2d8br",
