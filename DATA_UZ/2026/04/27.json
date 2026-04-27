@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generatedAt": "2026-04-27T20:35:06.743Z",
+  "generatedAt": "2026-04-27T20:40:07.382Z",
   "totalEvents": 8,
   "events": [
     {
@@ -83,7 +83,7 @@
       "title": "Lazio - Udinese",
       "path": "lazio-vs-udinese-27-04-26",
       "dateTime": "2026-04-27T18:45:00+00:00",
-      "score": "2 - 2",
+      "score": "2 - 3",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
@@ -117,7 +117,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >R. Fernandez Jaen / R. Terrats</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>58'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >T. Dolan / C. Ngonge</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>58'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>60'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >K. Arriaga / U. Raghouber</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>60'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >I. Losada / <span class='suboff'>F. Cortes</span></td></tr><tr><td align='right' width='42%' >A. Roca / P. Milla</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>69'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>70'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >P. Martinez<div class='assist'>Tripping</div></td></tr><tr><td align='right' width='42%' >Exposito<div class='assist'>Holding</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>71'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>72'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >K. Etta Eyong / C. Espi</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>72'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >C. Alvarez / P. Martinez</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >R. Fernandez Jaen / R. Terrats</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>58'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >T. Dolan / C. Ngonge</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>58'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>60'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >K. Arriaga / U. Raghouber</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>60'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >I. Losada / <span class='suboff'>F. Cortes</span></td></tr><tr><td align='right' width='42%' >A. Roca / P. Milla</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>69'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>70'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >P. Martinez<div class='assist'>Tripping</div></td></tr><tr><td align='right' width='42%' >Exposito<div class='assist'>Holding</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>71'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>72'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >K. Etta Eyong / C. Espi</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>72'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >C. Alvarez / P. Martinez</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>73'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Moreno<div class='assist'>Roughing</div></td></tr></table>",
       "playerId": "530",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/espanyol-vs-levante/2cxgp",
