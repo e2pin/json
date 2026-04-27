@@ -1,0 +1,72 @@
+{
+  "date": "2026-04-28",
+  "generatedAt": "2026-04-27T20:21:03.122Z",
+  "totalEvents": 4,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "Indonesia - Super League",
+      "title": "Arema vs Persebaya Surabaya",
+      "path": "arema-vs-persebaya-surabaya-28-04-26",
+      "dateTime": "2026-04-28T08:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "indonesia-super-league.webp",
+      "events": null,
+      "playerId": "live",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/persebaya-surabaya-vs-arema/n9uf2",
+      "status": "upcoming",
+      "channel": "Indosiar"
+    },
+    {
+      "categories": "Indonesia - Super League",
+      "title": "PSBS Biak Numfor vs Malut United",
+      "path": "psbs-biak-numfor-vs-malut-united-28-04-26",
+      "dateTime": "2026-04-28T12:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "indonesia-super-league.webp",
+      "events": null,
+      "playerId": "live",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/psbs-biak-numfor-vs-malut-united/7agsk9",
+      "status": "upcoming",
+      "channel": "Indosiar"
+    },
+    {
+      "categories": "Saudi Arabia - Pro League",
+      "title": "Al Hilal vs Damac",
+      "path": "al-hilal-vs-damac-28-04-26",
+      "dateTime": "2026-04-28T18:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "saudi-arabia-pro-league.webp",
+      "events": null,
+      "playerId": "2527",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-hilal-vs-damac/1tzhkp",
+      "status": "upcoming",
+      "channel": "Sport TV3"
+    },
+    {
+      "categories": "Europe - UEFA Champions League",
+      "title": "PSG vs Bayern München",
+      "path": "psg-vs-bayern-mnchen-28-04-26",
+      "dateTime": "2026-04-28T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "europe-uefa-champions-league.webp",
+      "events": null,
+      "playerId": "14032",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/bayern-munchen-vs-psg/1bxt0",
+      "status": "upcoming",
+      "channel": "Qazsport"
+    }
+  ]
+}
