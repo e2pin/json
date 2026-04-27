@@ -1,6 +1,6 @@
 {
   "date": "2026-04-27",
-  "generatedAt": "2026-04-27T10:15:03.780Z",
+  "generatedAt": "2026-04-27T10:30:03.766Z",
   "totalEvents": 7,
   "events": [
     {
@@ -16,7 +16,7 @@
       "playerId": "live",
       "dataContent": "<meta name=\"description\" content=\"🔴 Bali United va PSM jonli effektini bepul tomosha qiling. Indoneziya - Super Liga, 27.04.2026. Bashoratlar, qatorlar va statistikalar.\">\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Bali United vs PSM\",\n  \"startDate\": \"2026-04-27T08:30:00+00:00\",\n  \"endDate\": \"2026-04-27T10:30:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Kapten I Wayan Dipta Stadion\",\n    \"address\": \"Denpasar, Indoneziya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Bali United\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"PSM\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Indoneziya - Super Liga\"\n  },\n  \"description\": \"🔴 Bali United va PSM jonli effektini bepul tomosha qiling. Indoneziya - Super Liga, 27.04.2026. Bashoratlar, qatorlar va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/psm-vs-bali-united/n934m",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Indoneziya - Super Liga",
