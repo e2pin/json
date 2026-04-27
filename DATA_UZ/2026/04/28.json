@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-04-27T20:21:05.090Z",
+  "language": "UZ",
+  "totalEvents": 4,
+  "events": [
+    {
+      "categories": "Indoneziya - Super Liga",
+      "title": "Arema - Persebaya Surabaya",
+      "path": "arema-vs-persebaya-surabaya-28-04-26",
+      "dateTime": "2026-04-28T08:30:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "indonesia-super-league.webp",
+      "playerId": "live",
+      "linkToEvent": "https://www.livesoccertv.com/match/persebaya-surabaya-vs-arema/n9uf2",
+      "status": "upcoming",
+      "channel": "Indosiar",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Indoneziya - Super Liga",
+      "title": "PSBS Biak Numfor - Malut United",
+      "path": "psbs-biak-numfor-vs-malut-united-28-04-26",
+      "dateTime": "2026-04-28T12:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "indonesia-super-league.webp",
+      "playerId": "live",
+      "linkToEvent": "https://www.livesoccertv.com/match/psbs-biak-numfor-vs-malut-united/7agsk9",
+      "status": "upcoming",
+      "channel": "Indosiar",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Saudiya Arabistoni - Pro Liga",
+      "title": "Al Hilal - Damac",
+      "path": "al-hilal-vs-damac-28-04-26",
+      "dateTime": "2026-04-28T18:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "saudi-arabia-pro-league.webp",
+      "playerId": "2527",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-hilal-vs-damac/1tzhkp",
+      "status": "upcoming",
+      "channel": "Sport TV3",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Evropa - UEFA Chempionlar Ligasih",
+      "title": "PSG - Bayern München",
+      "path": "psg-vs-bayern-mnchen-28-04-26",
+      "dateTime": "2026-04-28T19:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "europe-uefa-champions-league.webp",
+      "playerId": "14032",
+      "linkToEvent": "https://www.livesoccertv.com/match/bayern-munchen-vs-psg/1bxt0",
+      "status": "upcoming",
+      "channel": "Qazsport",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
