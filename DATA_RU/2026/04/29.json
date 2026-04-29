@@ -1,6 +1,6 @@
 {
   "date": "2026-04-29",
-  "generatedAt": "2026-04-29T00:25:03.759Z",
+  "generatedAt": "2026-04-29T00:35:03.823Z",
   "totalEvents": 10,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Нэшвилл СК - Тигрес УАНЛ",
       "path": "nashville-sc-vs-tigres-uanl-29-04-26",
       "dateTime": "2026-04-29T00:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
