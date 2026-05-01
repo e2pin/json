@@ -1,9 +1,25 @@
 {
   "date": "2026-05-01",
-  "generatedAt": "2026-04-30T23:09:02.601Z",
-  "totalEvents": 6,
+  "generatedAt": "2026-05-01T07:42:41.636Z",
+  "totalEvents": 7,
   "problematicEventsCount": 0,
   "events": [
+    {
+      "categories": "Russia - Russian Premier League",
+      "title": "Krylya Sovetov vs Spartak Moskva",
+      "path": "krylya-sovetov-vs-spartak-moskva-01-05-26",
+      "dateTime": "2026-05-01T14:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "531",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/spartak-moskva-vs-krylya-sovetov/2gkwe",
+      "status": "upcoming",
+      "channel": "Unknown"
+    },
     {
       "categories": "Belarus - Belarus Premier League",
       "title": "Minsk vs Naftan",
@@ -69,22 +85,6 @@
       "channel": "Match! Football 1"
     },
     {
-      "categories": "Spain - La Liga",
-      "title": "Girona vs Mallorca",
-      "path": "girona-vs-mallorca-01-05-26",
-      "dateTime": "2026-05-01T19:00:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": "spain-la-liga.webp",
-      "events": null,
-      "playerId": "530",
-      "dataContent": "<title>Girona vs Mallorca: Live Stream, Watch La Liga 01.05.2026</title> <meta name='description' content='🔴 Watch Girona vs Mallorca live stream free online. La Liga, 01.05.2026. Predictions, lineups, and stats.'> <h1>Girona vs Mallorca Live Stream — Watch Online Free</h1> <p>This match between Girona and Mallorca is crucial as both teams are battling for better positioning in La Liga. With only a few matches left in the season, every point counts as they aim for top-half finishes or to avoid relegation. Girona looks strong at home, while Mallorca will want to capitalize on any slip-ups.</p> <p><strong>Kick-off:</strong> 01.05.2026, 19:00 UTC</p> <p><strong>Stadium:</strong> Estadi Montilivi</p> <p><strong>Competition:</strong> La Liga</p> <h2>Match Preview</h2> <p>This La Liga encounter showcases two sides eager to secure vital points as the season approaches its climax. Girona, now sitting in the upper half of the table, will look to leverage their home advantage against a Mallorca side that is currently facing a relegation battle. The stakes are high as both teams seek to bolster their standings in this competitive league.</p> <p>Girona will rely on their attacking flair, led by a potent forward line, while Mallorca will aim to tighten their defense to keep the hosts at bay. Recent form for Girona is W-W-L-D, while Mallorca has struggled with D-L-L-W. Recent form data was unavailable at the time of writing.</p> <h2>Team Form and Analysis</h2> <h3>Girona FC: Form & Key Players</h3> <p>Girona plays an attractive brand of attacking football, emphasizing quick transitions and strong wing play. Key midfielder Aleix Garcia has been instrumental in orchestrating their creative efforts, while their main strength lies in their home form. However, they need to improve their defensive organization, which has shown vulnerabilities recently.</p> <h3>RCD Mallorca: Form & Key Players</h3> <p>Mallorca often adopts a pragmatic, defensive approach, looking to absorb pressure and counter effectively. Key attacking player Vedat Muriqi has been critical to their strategy, though scoring consistency has been a weakness. They are currently trending downward and aim to stabilize their performances ahead of this crucial clash.</p> <h2>Predicted Starting Lineups</h2> <h3>Girona Predicted Lineup: (subject to change)</h3> <ul> <li>GK: Juan Carlos</li> <li>DEF: Juanpe, Santiago, Eric, Arnau</li> <li>MID: Aleix Garcia, Riquelme, Tsygankov</li> <li>FWD: Stuani, Castellanos, Gutierrez</li> </ul> <h3>RCD Mallorca Predicted Lineup: (subject to change)</h3> <ul> <li>GK: Rajkovic</li> <li>DEF: Reina, Russo, Valjent, Costa</li> <li>MID: Galarreta, Baba, Rengifo</li> <li>FWD: Muriqi, Abdon, Kubo</li> </ul> <h2>What Time Is Girona vs Mallorca?</h2> <table> <thead><tr><th>City / Region</th><th>Local Time</th><th>UTC Offset</th></tr></thead> <tbody> <tr><td>UTC</td><td>19:00</td><td>UTC+0</td></tr> <tr><td>London</td><td>20:00</td><td>UTC+1</td></tr> <tr><td>Moscow</td><td>22:00</td><td>UTC+3</td></tr> <tr><td>Dubai</td><td>23:00</td><td>UTC+4</td></tr> <tr><td>New York</td><td>15:00</td><td>UTC-4</td></tr> <tr><td>Sydney</td><td>05:00 (next day)</td><td>UTC+11</td></tr> <tr><td>Girona</td><td>21:00</td><td>UTC+2</td></tr> <tr><td>Palma</td><td>21:00</td><td>UTC+2</td></tr> </tbody> </table> <h2>Frequently Asked Questions</h2> <details><summary>Where can I watch Girona vs Mallorca live stream free?</summary> <p>You can watch Girona vs Mallorca on licensed streaming platforms that offer La Liga coverage.</p> </details> <details><summary>What time does Girona vs Mallorca kick off?</summary> <p>Girona vs Mallorca kicks off on 01.05.2026 at 19:00 UTC.</p> </details> <details><summary>Is there a free La Liga live stream available?</summary> <p>Check for options on licensed streaming platforms to find potential free access to La Liga matches.</p> </details> <details><summary>What is the prediction for Girona vs Mallorca?</summary> <p>Many analysts anticipate a close contest between Girona and Mallorca, given their current standings and needs.</p> </details> <h2>Prediction: Girona vs Mallorca</h2> <p><strong>Result Prediction:</strong> Girona to Win</p> <p><strong>Predicted Score:</strong> 2–1</p> <p><strong>Total Goals:</strong> Over 2.5</p> <p><strong>Both Teams to Score:</strong> Yes</p> <p>Girona has shown strong form at home and possesses an effective attacking unit. Mallorca, while tough, struggles when on the road. Based on their needs and current performances, Girona looks set to claim a narrow victory.</p>",
-      "linkToEvent": "https://www.livesoccertv.com/match/mallorca-vs-girona/2cxgn",
-      "status": "upcoming",
-      "channel": "Match! Football 2"
-    },
-    {
       "categories": "England - Premier League",
       "title": "Leeds United vs Burnley",
       "path": "leeds-united-vs-burnley-01-05-26",
@@ -99,6 +99,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/burnley-vs-leeds-united/26rqd",
       "status": "upcoming",
       "channel": "Setanta Sports 1"
+    },
+    {
+      "categories": "Spain - La Liga",
+      "title": "Girona vs Mallorca",
+      "path": "girona-vs-mallorca-01-05-26",
+      "dateTime": "2026-05-01T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "spain-la-liga.webp",
+      "events": null,
+      "playerId": "530",
+      "dataContent": "<title>Girona vs Mallorca: Live Stream, Watch La Liga 01.05.2026</title> <meta name='description' content='🔴 Watch Girona vs Mallorca live stream free online. La Liga, 01.05.2026. Predictions, lineups, and stats.'> <h1>Girona vs Mallorca Live Stream — Watch Online Free</h1> <p>This match between Girona and Mallorca is crucial as both teams are battling for better positioning in La Liga. With only a few matches left in the season, every point counts as they aim for top-half finishes or to avoid relegation. Girona looks strong at home, while Mallorca will want to capitalize on any slip-ups.</p> <p><strong>Kick-off:</strong> 01.05.2026, 19:00 UTC</p> <p><strong>Stadium:</strong> Estadi Montilivi</p> <p><strong>Competition:</strong> La Liga</p> <h2>Match Preview</h2> <p>This La Liga encounter showcases two sides eager to secure vital points as the season approaches its climax. Girona, now sitting in the upper half of the table, will look to leverage their home advantage against a Mallorca side that is currently facing a relegation battle. The stakes are high as both teams seek to bolster their standings in this competitive league.</p> <p>Girona will rely on their attacking flair, led by a potent forward line, while Mallorca will aim to tighten their defense to keep the hosts at bay. Recent form for Girona is W-W-L-D, while Mallorca has struggled with D-L-L-W. Recent form data was unavailable at the time of writing.</p> <h2>Team Form and Analysis</h2> <h3>Girona FC: Form & Key Players</h3> <p>Girona plays an attractive brand of attacking football, emphasizing quick transitions and strong wing play. Key midfielder Aleix Garcia has been instrumental in orchestrating their creative efforts, while their main strength lies in their home form. However, they need to improve their defensive organization, which has shown vulnerabilities recently.</p> <h3>RCD Mallorca: Form & Key Players</h3> <p>Mallorca often adopts a pragmatic, defensive approach, looking to absorb pressure and counter effectively. Key attacking player Vedat Muriqi has been critical to their strategy, though scoring consistency has been a weakness. They are currently trending downward and aim to stabilize their performances ahead of this crucial clash.</p> <h2>Predicted Starting Lineups</h2> <h3>Girona Predicted Lineup: (subject to change)</h3> <ul> <li>GK: Juan Carlos</li> <li>DEF: Juanpe, Santiago, Eric, Arnau</li> <li>MID: Aleix Garcia, Riquelme, Tsygankov</li> <li>FWD: Stuani, Castellanos, Gutierrez</li> </ul> <h3>RCD Mallorca Predicted Lineup: (subject to change)</h3> <ul> <li>GK: Rajkovic</li> <li>DEF: Reina, Russo, Valjent, Costa</li> <li>MID: Galarreta, Baba, Rengifo</li> <li>FWD: Muriqi, Abdon, Kubo</li> </ul> <h2>What Time Is Girona vs Mallorca?</h2> <table> <thead><tr><th>City / Region</th><th>Local Time</th><th>UTC Offset</th></tr></thead> <tbody> <tr><td>UTC</td><td>19:00</td><td>UTC+0</td></tr> <tr><td>London</td><td>20:00</td><td>UTC+1</td></tr> <tr><td>Moscow</td><td>22:00</td><td>UTC+3</td></tr> <tr><td>Dubai</td><td>23:00</td><td>UTC+4</td></tr> <tr><td>New York</td><td>15:00</td><td>UTC-4</td></tr> <tr><td>Sydney</td><td>05:00 (next day)</td><td>UTC+11</td></tr> <tr><td>Girona</td><td>21:00</td><td>UTC+2</td></tr> <tr><td>Palma</td><td>21:00</td><td>UTC+2</td></tr> </tbody> </table> <h2>Frequently Asked Questions</h2> <details><summary>Where can I watch Girona vs Mallorca live stream free?</summary> <p>You can watch Girona vs Mallorca on licensed streaming platforms that offer La Liga coverage.</p> </details> <details><summary>What time does Girona vs Mallorca kick off?</summary> <p>Girona vs Mallorca kicks off on 01.05.2026 at 19:00 UTC.</p> </details> <details><summary>Is there a free La Liga live stream available?</summary> <p>Check for options on licensed streaming platforms to find potential free access to La Liga matches.</p> </details> <details><summary>What is the prediction for Girona vs Mallorca?</summary> <p>Many analysts anticipate a close contest between Girona and Mallorca, given their current standings and needs.</p> </details> <h2>Prediction: Girona vs Mallorca</h2> <p><strong>Result Prediction:</strong> Girona to Win</p> <p><strong>Predicted Score:</strong> 2–1</p> <p><strong>Total Goals:</strong> Over 2.5</p> <p><strong>Both Teams to Score:</strong> Yes</p> <p>Girona has shown strong form at home and possesses an effective attacking unit. Mallorca, while tough, struggles when on the road. Based on their needs and current performances, Girona looks set to claim a narrow victory.</p>",
+      "linkToEvent": "https://www.livesoccertv.com/match/mallorca-vs-girona/2cxgn",
+      "status": "upcoming",
+      "channel": "Match! Football 2"
     }
   ]
 }
