@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generatedAt": "2026-05-01T14:25:04.100Z",
+  "generatedAt": "2026-05-01T14:35:04.791Z",
   "totalEvents": 7,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Минск - Нафтан",
       "path": "minsk-vs-naftan-01-05-26",
       "dateTime": "2026-05-01T14:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "belarus-belarus-premier-league.webp",
