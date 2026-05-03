@@ -1,6 +1,6 @@
 {
   "date": "2026-05-03",
-  "generatedAt": "2026-05-03T11:25:06.257Z",
+  "generatedAt": "2026-05-03T11:35:05.706Z",
   "totalEvents": 21,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Sochi - Orenburg",
       "path": "sochi-vs-orenburg-03-05-26",
       "dateTime": "2026-05-03T11:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
