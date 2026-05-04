@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-05-04T06:14:19.073Z",
+  "generatedAt": "2026-05-04T23:43:11.652Z",
   "language": "RU",
-  "totalEvents": 4,
+  "totalEvents": 6,
   "events": [
     {
       "categories": "Индонезия - Суперлига",
@@ -34,6 +34,38 @@
       "channel": "Indosiar",
       "events": null,
       "dataContent": "Borneo vs Persita"
+    },
+    {
+      "categories": "Азия - Чемпионат Азии U-17",
+      "title": "Индонезия U17 - Китайский Тайбэй U17",
+      "path": "indonesia-u17-vs-china-pr-u17-05-05-26",
+      "dateTime": "2026-05-05T16:30:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "live",
+      "linkToEvent": "https://www.livesoccertv.com/match/china-pr-u17-vs-indonesia-u17/fk8vlr",
+      "status": "upcoming",
+      "channel": "Unknown",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Турция - Кубок Турции",
+      "title": "Бешикташ - Коньяспор",
+      "path": "besiktas-vs-konyaspor-05-05-26",
+      "dateTime": "2026-05-05T17:30:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "2154",
+      "linkToEvent": "https://www.livesoccertv.com/match/besiktas-vs-konyaspor/3klns",
+      "status": "upcoming",
+      "channel": "Unknown",
+      "events": null,
+      "dataContent": "<div></div>"
     },
     {
       "categories": "Саудовская Аравия - Про-лига",
