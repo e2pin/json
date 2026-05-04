@@ -1,6 +1,6 @@
 {
   "date": "2026-05-04",
-  "generatedAt": "2026-05-04T14:05:04.896Z",
+  "generatedAt": "2026-05-04T14:10:04.368Z",
   "totalEvents": 8,
   "events": [
     {
@@ -31,7 +31,7 @@
       "playerId": "live",
       "dataContent": "Undintel</p>",
       "linkToEvent": "https://www.livesoccertv.com/match/persijap-vs-persija/na18h",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Angliya - Premer-liga",
