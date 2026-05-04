@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-05-04T06:14:33.237Z",
+  "language": "ID",
+  "totalEvents": 1,
+  "events": [
+    {
+      "categories": "Eropa - Liga Champions UEFA",
+      "title": "Bayern München - PSG",
+      "path": "bayern-mnchen-vs-psg-06-05-26",
+      "dateTime": "2026-05-06T19:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "europe-uefa-champions-league.webp",
+      "playerId": "20187",
+      "linkToEvent": "https://www.livesoccertv.com/match/bayern-munchen-vs-psg/1bxt0",
+      "status": "upcoming",
+      "channel": "Futbol TV UZ",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
