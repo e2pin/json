@@ -1,6 +1,6 @@
 {
   "date": "2026-05-04",
-  "generatedAt": "2026-05-04T14:05:04.469Z",
+  "generatedAt": "2026-05-04T14:10:04.150Z",
   "totalEvents": 8,
   "events": [
     {
@@ -31,7 +31,7 @@
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/persijap-vs-persija/na18h",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "England - Premier League",
