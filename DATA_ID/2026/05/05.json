@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-05-04T06:14:20.633Z",
+  "language": "ID",
+  "totalEvents": 4,
+  "events": [
+    {
+      "categories": "Indonesia - Liga Super",
+      "title": "Madura United - Bali United",
+      "path": "madura-united-vs-bali-united-05-05-26",
+      "dateTime": "2026-05-05T08:30:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "indonesia-super-league.webp",
+      "playerId": "live",
+      "linkToEvent": "https://www.livesoccertv.com/match/bali-united-vs-madura-united/nb66p",
+      "status": "upcoming",
+      "channel": "Indosiar",
+      "events": null,
+      "dataContent": "Teks data akan diterjemahkan di sini"
+    },
+    {
+      "categories": "Indonesia - Liga Super",
+      "title": "Borneo - Persita",
+      "path": "borneo-vs-persita-05-05-26",
+      "dateTime": "2026-05-05T12:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "indonesia-super-league.webp",
+      "playerId": "live",
+      "linkToEvent": "https://www.livesoccertv.com/match/persita-vs-borneo/1zfeik",
+      "status": "upcoming",
+      "channel": "Indosiar",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Liga Pro Arab Saudi",
+      "title": "Al Khaleej - Al Hilal",
+      "path": "al-khaleej-vs-al-hilal-05-05-26",
+      "dateTime": "2026-05-05T18:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "saudi-arabia-pro-league.webp",
+      "playerId": "2525",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-hilal-vs-al-khaleej/15mc65",
+      "status": "upcoming",
+      "channel": "Sport TV1",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Eropa - Liga Champions UEFA",
+      "title": "Arsenal - Atlético Madrid",
+      "path": "arsenal-vs-atltico-madrid-05-05-26",
+      "dateTime": "2026-05-05T19:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "europe-uefa-champions-league.webp",
+      "playerId": "20187",
+      "linkToEvent": "https://www.livesoccertv.com/match/arsenal-vs-atletico-madrid/18qao",
+      "status": "upcoming",
+      "channel": "Futbol TV UZ",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
