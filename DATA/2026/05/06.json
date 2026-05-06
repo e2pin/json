@@ -1,7 +1,7 @@
 {
   "date": "2026-05-06",
-  "generatedAt": "2026-05-06T05:28:42.369Z",
-  "totalEvents": 3,
+  "generatedAt": "2026-05-06T05:39:36.515Z",
+  "totalEvents": 4,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -19,6 +19,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/tigres-uanl-vs-nashville-sc/1m0bez",
       "status": "finished",
       "channel": "Sportklub 3 Croatia"
+    },
+    {
+      "categories": "Asia - AFC U-17 Asian Cup",
+      "title": "Uzbekistan U17 vs North Korea U17",
+      "path": "uzbekistan-u17-vs-north-korea-u17-06-05-26",
+      "dateTime": "2026-05-06T16:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "live",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/uzbekistan-u17-vs-north-korea-u17/51d6r0mtw",
+      "status": "upcoming",
+      "channel": "Unknown"
     },
     {
       "categories": "Russia - Russian Cup",
