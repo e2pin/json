@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generatedAt": "2026-05-06T01:25:04.203Z",
+  "generatedAt": "2026-05-06T01:40:04.065Z",
   "totalEvents": 4,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Tigres UANL - Nashville SC",
       "path": "tigres-uanl-vs-nashville-sc-06-05-26",
       "dateTime": "2026-05-06T01:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
