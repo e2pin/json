@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generatedAt": "2026-05-07T01:25:04.246Z",
+  "generatedAt": "2026-05-07T01:40:03.102Z",
   "totalEvents": 5,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Толука - Лос-Анджелес",
       "path": "toluca-vs-los-angeles-fc-07-05-26",
       "dateTime": "2026-05-07T01:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
