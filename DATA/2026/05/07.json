@@ -1,6 +1,6 @@
 {
   "date": "2026-05-07",
-  "generatedAt": "2026-05-07T19:00:10.005Z",
+  "generatedAt": "2026-05-07T19:05:08.580Z",
   "totalEvents": 7,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Crystal Palace vs Shakhtar Donetsk",
       "path": "crystal-palace-vs-shakhtar-donetsk-07-05-26",
       "dateTime": "2026-05-07T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -68,7 +68,7 @@
       "title": "Strasbourg vs Rayo Vallecano",
       "path": "strasbourg-vs-rayo-vallecano-07-05-26",
       "dateTime": "2026-05-07T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -83,7 +83,7 @@
       "title": "Aston Villa vs Nottingham Forest",
       "path": "aston-villa-vs-nottingham-forest-07-05-26",
       "dateTime": "2026-05-07T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -98,7 +98,7 @@
       "title": "Freiburg vs Sporting Braga",
       "path": "freiburg-vs-sporting-braga-07-05-26",
       "dateTime": "2026-05-07T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
