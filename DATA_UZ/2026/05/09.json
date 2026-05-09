@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "generatedAt": "2026-05-09T15:15:10.063Z",
+  "generatedAt": "2026-05-09T15:20:09.104Z",
   "totalEvents": 18,
   "events": [
     {
@@ -110,21 +110,6 @@
     },
     {
       "categories": "Angliya - Premer Liga",
-      "title": "Fulham - AFC Bournemouth",
-      "path": "fulham-vs-afc-bournemouth-09-05-26",
-      "dateTime": "2026-05-09T14:00:00+00:00",
-      "score": "0 - 0",
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": "england-premier-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>41'</td><td width='5%' align='center'><span class='flag redcard'></span></td><td width='42%' >R. Christie<div class='assist'>Tripping</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>43'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >T. Adams / Evanilson</td></tr><tr><td align='right' width='42%' >J. Andersen<div class='assist'>Tripping</div></td><td width='5%' align='center'><span class='flag redcard'></span></td><td align='center' width='6%'>45+7'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >I. Diop / E. Smith Rowe</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>46'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
-      "playerId": "270",
-      "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Fulham - AFC Bournemouth\",\n  \"startDate\": \"2026-05-09T14:00:00+00:00\",\n  \"endDate\": \"2026-05-09T16:00:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Craven Cottage\",\n    \"address\": \"London, Angliya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Fulham\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"AFC Bournemouth\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Premer Liga\"\n  },\n  \"description\": \"🔴 Fulham - AFC Bournemouth jonli efirini bepul tomosha qiling. Premer Liga, 09.05.2026. Bashoratlar, startlar va statistikalar.\"\n}\n</script>",
-      "linkToEvent": "https://www.livesoccertv.com/match/fulham-vs-afc-bournemouth/3040y",
-      "status": "live"
-    },
-    {
-      "categories": "Angliya - Premer Liga",
       "title": "Sunderland - Manchester United",
       "path": "sunderland-vs-manchester-united-09-05-26",
       "dateTime": "2026-05-09T14:00:00+00:00",
@@ -132,10 +117,25 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>54'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Mount<div class='assist'>Tripping</div></td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>54'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Mount<div class='assist'>Tripping</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>58'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >J. Zirkzee<div class='assist'>Foul</div></td></tr></table>",
       "playerId": "271",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Sunderland - Manchester United\",\n  \"startDate\": \"2026-05-09T14:00:00+00:00\",\n  \"endDate\": \"2026-05-09T16:00:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Light Stadion\",\n    \"address\": \"Sunderland, Angliya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Sunderland\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Manchester United\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Premer Liga\"\n  },\n  \"description\": \"🔴 Sunderland - Manchester United jonli translyatsiyasini bepul onlayn tomosha qiling. Premer Liga, 09.05.2026. Bashoratlar, tarkiblar va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/manchester-united-vs-sunderland/185ur",
+      "status": "live"
+    },
+    {
+      "categories": "Angliya - Premer Liga",
+      "title": "Fulham - AFC Bournemouth",
+      "path": "fulham-vs-afc-bournemouth-09-05-26",
+      "dateTime": "2026-05-09T14:00:00+00:00",
+      "score": "0 - 1",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "england-premier-league.webp",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>41'</td><td width='5%' align='center'><span class='flag redcard'></span></td><td width='42%' >R. Christie<div class='assist'>Tripping</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>43'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >T. Adams / Evanilson</td></tr><tr><td align='right' width='42%' >J. Andersen<div class='assist'>Tripping</div></td><td width='5%' align='center'><span class='flag redcard'></span></td><td align='center' width='6%'>45+7'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >I. Diop / E. Smith Rowe</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>46'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >Rodrigo Muniz<div class='assist'>Holding</div></td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>50'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>53'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >Rayan (0 - 1)<div class='assist'>Assist: A. Smith</div></td></tr></table>",
+      "playerId": "270",
+      "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Fulham - AFC Bournemouth\",\n  \"startDate\": \"2026-05-09T14:00:00+00:00\",\n  \"endDate\": \"2026-05-09T16:00:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Craven Cottage\",\n    \"address\": \"London, Angliya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Fulham\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"AFC Bournemouth\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Premer Liga\"\n  },\n  \"description\": \"🔴 Fulham - AFC Bournemouth jonli efirini bepul tomosha qiling. Premer Liga, 09.05.2026. Bashoratlar, startlar va statistikalar.\"\n}\n</script>",
+      "linkToEvent": "https://www.livesoccertv.com/match/fulham-vs-afc-bournemouth/3040y",
       "status": "live"
     },
     {
