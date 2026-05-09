@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "generatedAt": "2026-05-09T14:00:12.891Z",
+  "generatedAt": "2026-05-09T14:05:09.639Z",
   "totalEvents": 18,
   "events": [
     {
@@ -113,7 +113,7 @@
       "title": "Sunderland - Manchester United",
       "path": "sunderland-vs-manchester-united-09-05-26",
       "dateTime": "2026-05-09T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
@@ -128,7 +128,7 @@
       "title": "Fulham - AFC Bournemouth",
       "path": "fulham-vs-afc-bournemouth-09-05-26",
       "dateTime": "2026-05-09T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
