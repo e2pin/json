@@ -1,6 +1,6 @@
 {
   "date": "2026-05-11",
-  "generatedAt": "2026-05-11T17:10:04.167Z",
+  "generatedAt": "2026-05-11T17:20:03.820Z",
   "totalEvents": 8,
   "events": [
     {
@@ -76,7 +76,7 @@
       "playerId": "531",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/rubin-kazan-vs-spartak-moskva/2g7lp",
-      "status": "finished"
+      "status": "live"
     },
     {
       "categories": "Russia - Russian Premier League",
