@@ -1,7 +1,7 @@
 {
   "date": "2026-05-11",
-  "generatedAt": "2026-05-11T07:11:21.503Z",
-  "totalEvents": 10,
+  "generatedAt": "2026-05-11T07:16:36.923Z",
+  "totalEvents": 11,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -35,6 +35,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/bali-united-vs-borneo/1ib78e",
       "status": "upcoming",
       "channel": "Indosiar"
+    },
+    {
+      "categories": "Indonesia - Super League",
+      "title": "Bhayangkara vs Madura United",
+      "path": "bhayangkara-vs-madura-united-11-05-26",
+      "dateTime": "2026-05-11T12:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "indonesia-super-league.webp",
+      "events": null,
+      "playerId": "2live",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/madura-united-vs-bhayangkara/1uqz93",
+      "status": "upcoming",
+      "channel": "Vidio"
     },
     {
       "categories": "Russia - Russian Premier League",
