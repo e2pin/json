@@ -1,7 +1,7 @@
 {
   "date": "2026-05-11",
-  "generatedAt": "2026-05-11T07:22:31.447Z",
-  "totalEvents": 11,
+  "generatedAt": "2026-05-11T07:33:30.786Z",
+  "totalEvents": 12,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -67,6 +67,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/cska-moskva-vs-olimpiyets/1bemmd",
       "status": "upcoming",
       "channel": "Match Premier"
+    },
+    {
+      "categories": "Russia - Russian Premier League",
+      "title": "Spartak Moskva vs Rubin Kazan'",
+      "path": "spartak-moskva-vs-rubin-kazan-11-05-26",
+      "dateTime": "2026-05-11T14:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "531",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/rubin-kazan-vs-spartak-moskva/2g7lp",
+      "status": "upcoming",
+      "channel": "Unknown"
     },
     {
       "categories": "Russia - Russian Premier League",
