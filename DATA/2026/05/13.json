@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "generatedAt": "2026-05-13T17:25:08.106Z",
+  "generatedAt": "2026-05-13T17:35:07.824Z",
   "totalEvents": 11,
   "events": [
     {
@@ -98,7 +98,7 @@
       "title": "Gençlerbirliği vs Trabzonspor",
       "path": "genlerbirlii-vs-trabzonspor-13-05-26",
       "dateTime": "2026-05-13T17:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
