@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generatedAt": "2026-05-14T19:55:06.183Z",
+  "generatedAt": "2026-05-14T20:00:08.212Z",
   "totalEvents": 5,
   "events": [
     {
@@ -61,7 +61,7 @@
       "playerId": "522",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Girona - Real Sociedad\",\n  \"startDate\": \"2026-05-14T18:00:00+00:00\",\n  \"endDate\": \"2026-05-14T20:00:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Estadi Montilivi\",\n    \"address\": \"Girona, Ispaniya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Girona\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Real Sociedad\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Liga\"\n  },\n  \"description\": \"🔴 Girona - Real Sociedad jonli translyatsiyasini bepul tomosha qiling. La Liga, 14.05.2026. Taxminlar, tarkiblar va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/girona-vs-real-sociedad/3qaq3",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Ispaniya - La Liga",
