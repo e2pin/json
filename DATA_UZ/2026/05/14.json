@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generatedAt": "2026-05-14T17:55:05.940Z",
+  "generatedAt": "2026-05-14T18:05:05.745Z",
   "totalEvents": 5,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Girona - Real Sociedad",
       "path": "girona-vs-real-sociedad-14-05-26",
       "dateTime": "2026-05-14T18:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
