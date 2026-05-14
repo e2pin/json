@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generatedAt": "2026-05-14T21:15:05.756Z",
+  "generatedAt": "2026-05-14T21:25:04.411Z",
   "totalEvents": 5,
   "events": [
     {
@@ -76,7 +76,7 @@
       "playerId": "530",
       "dataContent": "<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Real Madrid - Real Oviedo\",\n  \"startDate\": \"2026-05-14T19:30:00+00:00\",\n  \"endDate\": \"2026-05-14T21:30:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Stadion Santiago Bernabéu\",\n    \"address\": \"Madrid, Spanyol\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Real Madrid\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Real Oviedo\"},\n  \"sport\": \"Sepak Bola\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"La Liga\"\n  },\n  \"description\": \"🔴 Tonton siaran langsung Real Madrid - Real Oviedo gratis online. La Liga, 14.05.2026. Prediksi, susunan pemain, dan statistik.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/real-madrid-vs-real-oviedo/58pel",
-      "status": "live"
+      "status": "finished"
     }
   ]
 }
