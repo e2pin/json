@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generatedAt": "2026-05-14T01:45:03.701Z",
+  "generatedAt": "2026-05-14T01:50:03.800Z",
   "totalEvents": 5,
   "events": [
     {
@@ -16,7 +16,7 @@
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/cincinnati-vs-inter-miami/4g77c7",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Беларусь - Премьер-лига Беларуси",
