@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "generatedAt": "2026-05-15T18:30:06.950Z",
+  "generatedAt": "2026-05-15T18:35:06.721Z",
   "totalEvents": 8,
   "events": [
     {
@@ -98,7 +98,7 @@
       "title": "Сент-Этьен - Родез",
       "path": "sainttienne-vs-rodez-15-05-26",
       "dateTime": "2026-05-15T18:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": "saint-etienne.webp",
       "team2_img_url": "rodez.webp",
       "cat_img_url": null,
