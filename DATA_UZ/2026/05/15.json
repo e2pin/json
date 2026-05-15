@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "generatedAt": "2026-05-15T17:40:05.686Z",
+  "generatedAt": "2026-05-15T17:50:05.561Z",
   "totalEvents": 8,
   "events": [
     {
@@ -87,7 +87,7 @@
       "team1_img_url": "corum-belediyespor.webp",
       "team2_img_url": "bodrumspor.webp",
       "cat_img_url": "turkey-1-lig.webp",
-      "events": null,
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>45+1'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >T. Seferi</td></tr></table>",
       "playerId": "7269",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/corum-belediyespor-vs-bodrumspor/2fpljc",
