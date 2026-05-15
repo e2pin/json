@@ -1,13 +1,14 @@
 {
   "date": "2026-05-15",
-  "generatedAt": "2026-05-15T00:00:04.527Z",
+  "generatedAt": "2026-05-15T00:05:45.258Z",
   "totalEvents": 5,
+  "problematicEventsCount": 0,
   "events": [
     {
       "categories": "Indonesia - Super League",
       "title": "Semen Padang vs Persebaya Surabaya",
       "path": "semen-padang-vs-persebaya-surabaya-15-05-26",
-      "dateTime": "2026-05-14T23:00:00+00:00",
+      "dateTime": "2026-05-15T08:30:00+00:00",
       "score": null,
       "team1_img_url": null,
       "team2_img_url": null,
@@ -16,7 +17,8 @@
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/semen-padang-vs-persebaya-surabaya/n4joj",
-      "status": "live"
+      "status": "live",
+      "channel": "Indosiar"
     },
     {
       "categories": "Indonesia - Super League",
@@ -31,7 +33,8 @@
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/arema-vs-psbs-biak-numfor/1i8vvc",
-      "status": "upcoming"
+      "status": "upcoming",
+      "channel": "Indosiar"
     },
     {
       "categories": "Belarus - Belarus Premier League",
@@ -46,7 +49,8 @@
       "playerId": "5060",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/neman-grodno-vs-isloch/17ngb4",
-      "status": "upcoming"
+      "status": "upcoming",
+      "channel": "Belarus 5"
     },
     {
       "categories": "Turkey - Super Lig",
@@ -61,7 +65,8 @@
       "playerId": "522",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/besiktas-vs-rizespor/67912",
-      "status": "upcoming"
+      "status": "upcoming",
+      "channel": "Match! Football 3"
     },
     {
       "categories": "England - Premier League",
@@ -76,7 +81,8 @@
       "playerId": "271",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/aston-villa-vs-liverpool/17gw6",
-      "status": "upcoming"
+      "status": "upcoming",
+      "channel": "Setanta Sports 1"
     }
   ]
 }
