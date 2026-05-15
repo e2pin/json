@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "generatedAt": "2026-05-15T16:55:06.465Z",
+  "generatedAt": "2026-05-15T17:05:06.394Z",
   "totalEvents": 8,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Çorum Belediyespor - Бодрумспор",
       "path": "orum-belediyespor-vs-bodrumspor-15-05-26",
       "dateTime": "2026-05-15T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": "corum-belediyespor.webp",
       "team2_img_url": "bodrumspor.webp",
       "cat_img_url": "turkey-1-lig.webp",
@@ -83,7 +83,7 @@
       "title": "Ризеспор - Бешикташ",
       "path": "rizespor-vs-beikta-15-05-26",
       "dateTime": "2026-05-15T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
