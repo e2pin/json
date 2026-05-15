@@ -1,23 +1,22 @@
 {
-  "generatedAt": "2026-05-14T23:11:22.962Z",
-  "language": "ID",
+  "date": "2026-05-15",
+  "generatedAt": "2026-05-15T00:00:04.808Z",
   "totalEvents": 5,
   "events": [
     {
       "categories": "Indonesia - Liga Super",
       "title": "Semen Padang - Persebaya Surabaya",
       "path": "semen-padang-vs-persebaya-surabaya-15-05-26",
-      "dateTime": "2026-05-15T08:30:00+00:00",
+      "dateTime": "2026-05-14T23:00:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": "indonesia-super-league.webp",
-      "playerId": "live",
-      "linkToEvent": "https://www.livesoccertv.com/match/semen-padang-vs-persebaya-surabaya/n4joj",
-      "status": "upcoming",
-      "channel": "Indosiar",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "indonesia-super-league.webp",
       "events": null,
-      "dataContent": ""
+      "playerId": "live",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/semen-padang-vs-persebaya-surabaya/n4joj",
+      "status": "live"
     },
     {
       "categories": "Indonesia - Liga Super",
@@ -25,15 +24,14 @@
       "path": "psbs-biak-numfor-vs-arema-15-05-26",
       "dateTime": "2026-05-15T12:00:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": "indonesia-super-league.webp",
-      "playerId": "live",
-      "linkToEvent": "https://www.livesoccertv.com/match/arema-vs-psbs-biak-numfor/1i8vvc",
-      "status": "upcoming",
-      "channel": "Indosiar",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "indonesia-super-league.webp",
       "events": null,
-      "dataContent": ""
+      "playerId": "live",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/arema-vs-psbs-biak-numfor/1i8vvc",
+      "status": "upcoming"
     },
     {
       "categories": "Belarus - Liga Premier Belarus",
@@ -41,15 +39,14 @@
       "path": "neman-grodno-vs-isloch-15-05-26",
       "dateTime": "2026-05-15T14:30:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": "belarus-belarus-premier-league.webp",
-      "playerId": "5060",
-      "linkToEvent": "https://www.livesoccertv.com/match/neman-grodno-vs-isloch/17ngb4",
-      "status": "upcoming",
-      "channel": "Belarus 5",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "belarus-belarus-premier-league.webp",
       "events": null,
-      "dataContent": ""
+      "playerId": "5060",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/neman-grodno-vs-isloch/17ngb4",
+      "status": "upcoming"
     },
     {
       "categories": "Turki - Liga Super",
@@ -57,15 +54,14 @@
       "path": "rizespor-vs-beikta-15-05-26",
       "dateTime": "2026-05-15T17:00:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "522",
-      "linkToEvent": "https://www.livesoccertv.com/match/besiktas-vs-rizespor/67912",
-      "status": "upcoming",
-      "channel": "Match! Football 3",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
       "events": null,
-      "dataContent": ""
+      "playerId": "522",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/besiktas-vs-rizespor/67912",
+      "status": "upcoming"
     },
     {
       "categories": "Inggris - Liga Premier",
@@ -73,15 +69,14 @@
       "path": "aston-villa-vs-liverpool-15-05-26",
       "dateTime": "2026-05-15T19:00:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": "england-premier-league.webp",
-      "playerId": "271",
-      "linkToEvent": "https://www.livesoccertv.com/match/aston-villa-vs-liverpool/17gw6",
-      "status": "upcoming",
-      "channel": "Setanta Sports 1",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "england-premier-league.webp",
       "events": null,
-      "dataContent": ""
+      "playerId": "271",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/aston-villa-vs-liverpool/17gw6",
+      "status": "upcoming"
     }
   ]
 }
