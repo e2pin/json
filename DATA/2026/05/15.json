@@ -1,8 +1,7 @@
 {
   "date": "2026-05-15",
-  "generatedAt": "2026-05-14T23:30:23.323Z",
+  "generatedAt": "2026-05-15T00:00:04.527Z",
   "totalEvents": 5,
-  "problematicEventsCount": 0,
   "events": [
     {
       "categories": "Indonesia - Super League",
@@ -17,8 +16,7 @@
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/semen-padang-vs-persebaya-surabaya/n4joj",
-      "status": "upcoming",
-      "channel": "Indosiar"
+      "status": "live"
     },
     {
       "categories": "Indonesia - Super League",
@@ -33,8 +31,7 @@
       "playerId": "live",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/arema-vs-psbs-biak-numfor/1i8vvc",
-      "status": "upcoming",
-      "channel": "Indosiar"
+      "status": "upcoming"
     },
     {
       "categories": "Belarus - Belarus Premier League",
@@ -49,8 +46,7 @@
       "playerId": "5060",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/neman-grodno-vs-isloch/17ngb4",
-      "status": "upcoming",
-      "channel": "Belarus 5"
+      "status": "upcoming"
     },
     {
       "categories": "Turkey - Super Lig",
@@ -65,8 +61,7 @@
       "playerId": "522",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/besiktas-vs-rizespor/67912",
-      "status": "upcoming",
-      "channel": "Match! Football 3"
+      "status": "upcoming"
     },
     {
       "categories": "England - Premier League",
@@ -81,8 +76,7 @@
       "playerId": "271",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/aston-villa-vs-liverpool/17gw6",
-      "status": "upcoming",
-      "channel": "Setanta Sports 1"
+      "status": "upcoming"
     }
   ]
 }
