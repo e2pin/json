@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "generatedAt": "2026-05-16T09:00:04.028Z",
+  "generatedAt": "2026-05-16T09:15:05.289Z",
   "totalEvents": 21,
   "events": [
     {
@@ -12,7 +12,7 @@
       "team1_img_url": "persik-kediri.webp",
       "team2_img_url": "persija.webp",
       "cat_img_url": "indonesia-super-league.webp",
-      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>9'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >A. Ajaraie</td></tr><tr><td align='right' width='42%' >Jose Enrique (1 - 0)<div class='assist'>Assist: E. Gomez</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>24'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>26'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >M. Hannan (1 - 1)<div class='assist'>Assist: J. Amat</div></td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>9'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >A. Ajaraie</td></tr><tr><td align='right' width='42%' >Jose Enrique (1 - 0)<div class='assist'>Assist: E. Gomez</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>24'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>26'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >M. Hannan (1 - 1)<div class='assist'>Assist: J. Amat</div></td></tr><tr><td align='right' width='42%' >N. Setiawan / H. Herdiana</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>43'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "live",
       "dataContent": "<title>Persik Kediri - Persija: Jonli Efir, Tomosha Qiling Indonezya - Super Liga 16.05.2026</title>\n<meta name=\"description\" content=\"🔴 Persik Kediri - Persija jonli efirni bepul tomosha qiling. Indonezya - Super Liga, 16.05.2026. Taxminlar, jamoalar, va statistikalar.\"> \n\n<script type=\"application/ld+json\">\n{\n  \"@context\": \"https://schema.org\",\n  \"@type\": \"SportsEvent\",\n  \"name\": \"Persik Kediri - Persija\",\n  \"startDate\": \"2026-05-16T08:30:00+00:00\",\n  \"endDate\": \"2026-05-16T10:30:00+00:00\",\n  \"eventStatus\": \"https://schema.org/EventScheduled\",\n  \"eventAttendanceMode\": \"https://schema.org/OnlineEventAttendanceMode\",\n  \"location\": {\n    \"@type\": \"SportsVenue\",\n    \"name\": \"Gelora Delta Sidoarjo\",\n    \"address\": \"Sidoarjo, Indoneziya\"\n  },\n  \"homeTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Persik Kediri\"},\n  \"awayTeam\": {\"@type\": \"SportsTeam\", \"name\": \"Persija\"},\n  \"sport\": \"Futbol\",\n  \"organizer\": {\n    \"@type\": \"Organization\",\n    \"name\": \"Indonezya - Super Liga\"\n  },\n  \"description\": \"🔴 Persik Kediri - Persija jonli efirni bepul tomosha qiling. Indonezya - Super Liga, 16.05.2026. Taxminlar, jamoalar, va statistikalar.\"\n}\n</script>",
       "linkToEvent": "https://www.livesoccertv.com/match/persija-vs-persik-kediri/13acyt",
