@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "generatedAt": "2026-05-16T08:25:04.551Z",
+  "generatedAt": "2026-05-16T08:35:03.917Z",
   "totalEvents": 21,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Persik Kediri vs Persija",
       "path": "persik-kediri-vs-persija-16-05-26",
       "dateTime": "2026-05-16T08:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": "persik-kediri.webp",
       "team2_img_url": "persija.webp",
       "cat_img_url": "indonesia-super-league.webp",
