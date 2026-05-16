@@ -1,6 +1,6 @@
 {
   "date": "2026-05-16",
-  "generatedAt": "2026-05-16T12:00:09.658Z",
+  "generatedAt": "2026-05-16T12:10:07.164Z",
   "totalEvents": 21,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Malut United vs Persita",
       "path": "malut-united-vs-persita-16-05-26",
       "dateTime": "2026-05-16T12:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": "malut-united.webp",
       "team2_img_url": "persita.webp",
       "cat_img_url": "indonesia-super-league.webp",
@@ -68,7 +68,7 @@
       "title": "Okzhetpes vs Astana",
       "path": "okzhetpes-vs-astana-16-05-26",
       "dateTime": "2026-05-16T12:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": "okzhetpes.webp",
       "team2_img_url": "astana.webp",
       "cat_img_url": "kazakhstan-kazakhstan-premier-league.webp",
