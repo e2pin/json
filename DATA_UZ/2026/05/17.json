@@ -1,6 +1,6 @@
 {
   "date": "2026-05-17",
-  "generatedAt": "2026-05-17T08:25:04.011Z",
+  "generatedAt": "2026-05-17T08:35:05.263Z",
   "totalEvents": 24,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Bali United - Bhayangkara",
       "path": "bali-united-vs-bhayangkara-17-05-26",
       "dateTime": "2026-05-17T08:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": "bali-united.webp",
       "team2_img_url": "bhayangkara.webp",
       "cat_img_url": "indonesia-super-league.webp",
