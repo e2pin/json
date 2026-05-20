@@ -1,0 +1,72 @@
+{
+  "date": "2026-05-20",
+  "generatedAt": "2026-05-20T00:30:03.666Z",
+  "totalEvents": 4,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "Portugal - Primeira Liga",
+      "title": "Torreense vs Casa Pia",
+      "path": "torreense-vs-casa-pia-20-05-26",
+      "dateTime": "2026-05-20T17:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2525",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/casa-pia-vs-torreense/hsj60",
+      "status": "upcoming",
+      "channel": "Sport TV1"
+    },
+    {
+      "categories": "Belarus - Belarus Premier League",
+      "title": "BATE vs Dinamo Minsk",
+      "path": "bate-vs-dinamo-minsk-20-05-26",
+      "dateTime": "2026-05-20T17:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "belarus-belarus-premier-league.webp",
+      "events": null,
+      "playerId": "5060",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/bate-vs-dinamo-minsk/65o21",
+      "status": "upcoming",
+      "channel": "Belarus 5"
+    },
+    {
+      "categories": "Saudi Arabia - Pro League",
+      "title": "Al Khaleej vs Al-Ahli",
+      "path": "al-khaleej-vs-alahli-20-05-26",
+      "dateTime": "2026-05-20T18:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "saudi-arabia-pro-league.webp",
+      "events": null,
+      "playerId": "2525",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-ahli-vs-al-khaleej/15mlal",
+      "status": "upcoming",
+      "channel": "Sport TV1"
+    },
+    {
+      "categories": "Europe - UEFA Europa League",
+      "title": "Freiburg vs Aston Villa",
+      "path": "freiburg-vs-aston-villa-20-05-26",
+      "dateTime": "2026-05-20T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "14032",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/aston-villa-vs-freiburg/18f9z",
+      "status": "upcoming",
+      "channel": "Qazsport"
+    }
+  ]
+}
