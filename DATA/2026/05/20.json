@@ -1,6 +1,6 @@
 {
   "date": "2026-05-20",
-  "generatedAt": "2026-05-20T17:55:04.395Z",
+  "generatedAt": "2026-05-20T18:05:04.536Z",
   "totalEvents": 4,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Al Khaleej vs Al-Ahli",
       "path": "al-khaleej-vs-alahli-20-05-26",
       "dateTime": "2026-05-20T18:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "saudi-arabia-pro-league.webp",
