@@ -1,0 +1,71 @@
+{
+  "generatedAt": "2026-05-21T08:35:41.682Z",
+  "language": "RU",
+  "totalEvents": 4,
+  "events": [
+    {
+      "categories": "Украина - Украинская Премьер-Лига",
+      "title": "Шахтер - Колос",
+      "path": "shakhtar-donetsk-vs-kolos-kovalivka-21-05-26",
+      "dateTime": "2026-05-21T12:30:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "31446",
+      "linkToEvent": "https://www.livesoccertv.com/match/shakhtar-donetsk-vs-kolos-kovalivka/1gdjod",
+      "status": "upcoming",
+      "channel": "UPL.TV",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Саудовская Аравия - Про Лига",
+      "title": "Аль-Файха - Аль Хилаль",
+      "path": "alfayha-vs-al-hilal-21-05-26",
+      "dateTime": "2026-05-21T18:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "saudi-arabia-pro-league.webp",
+      "playerId": "2526",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-hilal-vs-al-fayha/1ndn07",
+      "status": "upcoming",
+      "channel": "Sport TV2",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Саудовская Аравия - Премьер-лига",
+      "title": "Аль-Наср - Дамак",
+      "path": "al-nassr-vs-damac-21-05-26",
+      "dateTime": "2026-05-21T18:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": "saudi-arabia-pro-league.webp",
+      "playerId": "2525",
+      "linkToEvent": "https://www.livesoccertv.com/match/al-nassr-vs-damac/1u21hx",
+      "status": "upcoming",
+      "channel": "Sport TV1",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Германия - Бундеслига",
+      "title": "Вольфсбург - Падерборн",
+      "path": "wolfsburg-vs-paderborn-21-05-26",
+      "dateTime": "2026-05-21T18:30:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "271",
+      "linkToEvent": "https://www.livesoccertv.com/match/wolfsburg-vs-paderborn/26f63",
+      "status": "upcoming",
+      "channel": "Setanta Sports 1",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
