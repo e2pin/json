@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "generatedAt": "2026-05-23T11:00:06.505Z",
+  "generatedAt": "2026-05-23T11:05:05.453Z",
   "totalEvents": 10,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Белшина - Нафтан",
       "path": "belshina-vs-naftan-23-05-26",
       "dateTime": "2026-05-23T11:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "belarus-belarus-premier-league.webp",
@@ -38,7 +38,7 @@
       "title": "Жетысу - Атырау",
       "path": "zhetysu-vs-atyrau-23-05-26",
       "dateTime": "2026-05-23T11:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
