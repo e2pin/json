@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generatedAt": "2026-05-24T15:05:09.387Z",
+  "generatedAt": "2026-05-24T15:15:08.762Z",
   "totalEvents": 15,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Spartak Moskva - Krasnodar",
       "path": "spartak-moskva-vs-krasnodar-24-05-26",
       "dateTime": "2026-05-24T15:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
