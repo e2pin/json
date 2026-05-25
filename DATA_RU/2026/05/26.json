@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-05-25T08:18:54.447Z",
+  "language": "RU",
+  "totalEvents": 1,
+  "events": [
+    {
+      "categories": "Франция - Лига 1",
+      "title": "Сент-Этьен - Ницца",
+      "path": "sainttienne-vs-nice-26-05-26",
+      "dateTime": "2026-05-26T18:45:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "270",
+      "linkToEvent": "https://www.livesoccertv.com/match/nice-vs-saint-etienne/1esg2",
+      "status": "upcoming",
+      "channel": "Setanta Sports 2",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
