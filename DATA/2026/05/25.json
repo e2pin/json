@@ -1,0 +1,24 @@
+{
+  "date": "2026-05-25",
+  "generatedAt": "2026-05-25T06:24:33.327Z",
+  "totalEvents": 1,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "Germany - Bundesliga",
+      "title": "Paderborn vs Wolfsburg",
+      "path": "paderborn-vs-wolfsburg-25-05-26",
+      "dateTime": "2026-05-25T18:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "7269",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/wolfsburg-vs-paderborn/26f63",
+      "status": "upcoming",
+      "channel": "Sportklub 1 Croatia"
+    }
+  ]
+}
