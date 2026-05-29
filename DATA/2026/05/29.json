@@ -1,6 +1,6 @@
 {
   "date": "2026-05-29",
-  "generatedAt": "2026-05-29T18:25:03.830Z",
+  "generatedAt": "2026-05-29T18:35:03.766Z",
   "totalEvents": 3,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Bosnia and Herzegovina vs North Macedonia",
       "path": "bosnia-and-herzegovina-vs-north-macedonia-29-05-26",
       "dateTime": "2026-05-29T18:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
