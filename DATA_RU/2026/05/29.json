@@ -1,6 +1,6 @@
 {
   "date": "2026-05-29",
-  "generatedAt": "2026-05-29T17:25:03.986Z",
+  "generatedAt": "2026-05-29T17:35:04.193Z",
   "totalEvents": 3,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Минск - Ислочь",
       "path": "minsk-vs-isloch-29-05-26",
       "dateTime": "2026-05-29T17:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "belarus-belarus-premier-league.webp",
