@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "generatedAt": "2026-05-30T11:30:06.104Z",
+  "generatedAt": "2026-05-30T11:40:04.436Z",
   "totalEvents": 5,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Chengdu Rongcheng - Shandong Taishan",
       "path": "chengdu-rongcheng-vs-shandong-taishan-30-05-26",
       "dateTime": "2026-05-30T11:35:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
