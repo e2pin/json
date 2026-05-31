@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "generatedAt": "2026-05-31T12:55:04.587Z",
+  "generatedAt": "2026-05-31T13:05:04.886Z",
   "totalEvents": 7,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Швейцария - Иордания",
       "path": "switzerland-vs-jordan-31-05-26",
       "dateTime": "2026-05-31T13:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -38,7 +38,7 @@
       "title": "Китай ПР U20 - Саудовская Аравия U23",
       "path": "china-pr-u20-vs-saudi-arabia-u23-31-05-26",
       "dateTime": "2026-05-31T13:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
