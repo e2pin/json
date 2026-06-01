@@ -1,6 +1,6 @@
 {
   "date": "2026-06-01",
-  "generatedAt": "2026-06-01T15:55:05.238Z",
+  "generatedAt": "2026-06-01T16:05:05.419Z",
   "totalEvents": 8,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Словакия - Мальта",
       "path": "slovakia-vs-malta-01-06-26",
       "dateTime": "2026-06-01T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -38,7 +38,7 @@
       "title": "Болгария - Черногория",
       "path": "bulgaria-vs-montenegro-01-06-26",
       "dateTime": "2026-06-01T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
