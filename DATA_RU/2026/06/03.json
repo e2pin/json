@@ -1,6 +1,6 @@
 {
   "date": "2026-06-03",
-  "generatedAt": "2026-06-03T18:45:08.811Z",
+  "generatedAt": "2026-06-03T18:50:08.446Z",
   "totalEvents": 7,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Люксембург - Италия",
       "path": "luxembourg-vs-italy-03-06-26",
       "dateTime": "2026-06-03T18:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -98,7 +98,7 @@
       "title": "Нидерланды - Алжир",
       "path": "netherlands-vs-algeria-03-06-26",
       "dateTime": "2026-06-03T18:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
