@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-04T07:33:24.737Z",
+  "generatedAt": "2026-06-04T07:45:23.548Z",
   "language": "RU",
-  "totalEvents": 4,
+  "totalEvents": 5,
   "events": [
     {
       "categories": "Мир - Товарищеский матч",
@@ -16,6 +16,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/cyprus-vs-slovenia/phu",
       "status": "upcoming",
       "channel": "Qazsport",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Мир - Товарищеский матч",
+      "title": "Северная Ирландия - Гвинея",
+      "path": "northern-ireland-vs-guinea-04-06-26",
+      "dateTime": "2026-06-04T16:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "7274",
+      "linkToEvent": "https://www.livesoccertv.com/match/guinea-vs-northern-ireland/9x4",
+      "status": "upcoming",
+      "channel": "Sportklub 6 Croatia",
       "events": null,
       "dataContent": ""
     },
