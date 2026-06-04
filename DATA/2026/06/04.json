@@ -1,7 +1,7 @@
 {
   "date": "2026-06-04",
-  "generatedAt": "2026-06-04T07:33:02.106Z",
-  "totalEvents": 4,
+  "generatedAt": "2026-06-04T07:45:10.988Z",
+  "totalEvents": 5,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -19,6 +19,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/cyprus-vs-slovenia/phu",
       "status": "upcoming",
       "channel": "Qazsport"
+    },
+    {
+      "categories": "World - Friendly",
+      "title": "Northern Ireland vs Guinea",
+      "path": "northern-ireland-vs-guinea-04-06-26",
+      "dateTime": "2026-06-04T16:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "7274",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/guinea-vs-northern-ireland/9x4",
+      "status": "upcoming",
+      "channel": "Sportklub 6 Croatia"
     },
     {
       "categories": "World - Friendly",
