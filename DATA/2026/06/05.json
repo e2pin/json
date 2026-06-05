@@ -1,7 +1,7 @@
 {
   "date": "2026-06-05",
-  "generatedAt": "2026-06-05T08:11:38.769Z",
-  "totalEvents": 13,
+  "generatedAt": "2026-06-05T08:29:45.410Z",
+  "totalEvents": 14,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -70,22 +70,6 @@
     },
     {
       "categories": "World - Friendly",
-      "title": "Belarus vs Syria",
-      "path": "belarus-vs-syria-05-06-26",
-      "dateTime": "2026-06-05T16:00:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "7274",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/syria-vs-belarus/ez7",
-      "status": "upcoming",
-      "channel": "Sportklub 6 Croatia"
-    },
-    {
-      "categories": "World - Friendly",
       "title": "Georgia vs Bahrain",
       "path": "georgia-vs-bahrain-05-06-26",
       "dateTime": "2026-06-05T16:00:00+00:00",
@@ -99,6 +83,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/bahrain-vs-georgia/bz3",
       "status": "upcoming",
       "channel": "Qazsport"
+    },
+    {
+      "categories": "World - Friendly",
+      "title": "Belarus vs Syria",
+      "path": "belarus-vs-syria-05-06-26",
+      "dateTime": "2026-06-05T16:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "7274",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/syria-vs-belarus/ez7",
+      "status": "upcoming",
+      "channel": "Sportklub 6 Croatia"
     },
     {
       "categories": "World - Friendly",
@@ -147,6 +147,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/burkina-faso-vs-russia/8e0",
       "status": "upcoming",
       "channel": "Match Premier"
+    },
+    {
+      "categories": "World - Friendly",
+      "title": "Moldova vs Bulgaria",
+      "path": "moldova-vs-bulgaria-05-06-26",
+      "dateTime": "2026-06-05T17:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2444",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/bulgaria-vs-moldova/mlq#5617968",
+      "status": "upcoming",
+      "channel": "Unknown"
     },
     {
       "categories": "World - Friendly",
