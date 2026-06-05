@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generatedAt": "2026-06-05T17:00:07.528Z",
+  "generatedAt": "2026-06-05T17:05:06.465Z",
   "totalEvents": 14,
   "events": [
     {
@@ -143,7 +143,7 @@
       "title": "Moldova vs Bulgaria",
       "path": "moldova-vs-bulgaria-05-06-26",
       "dateTime": "2026-06-05T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
