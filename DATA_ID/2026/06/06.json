@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "generatedAt": "2026-06-06T17:50:06.799Z",
+  "generatedAt": "2026-06-06T17:55:08.006Z",
   "totalEvents": 12,
   "events": [
     {
@@ -98,7 +98,7 @@
       "title": "Portugal - Chile",
       "path": "portugal-vs-chile-06-06-26",
       "dateTime": "2026-06-06T17:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
