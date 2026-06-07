@@ -1,8 +1,7 @@
 {
   "date": "2026-06-07",
-  "generatedAt": "2026-06-06T22:31:17.069Z",
+  "generatedAt": "2026-06-07T00:00:03.651Z",
   "totalEvents": 9,
-  "problematicEventsCount": 0,
   "events": [
     {
       "categories": "World - Friendly",
@@ -17,8 +16,7 @@
       "playerId": "31599",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/honduras-vs-argentina/1hed",
-      "status": "upcoming",
-      "channel": "Unknown"
+      "status": "live"
     },
     {
       "categories": "World - Maurice Revello Tournament",
@@ -33,8 +31,7 @@
       "playerId": "2525",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/colombia-u20-vs-congo-dr-u20/faylp6",
-      "status": "upcoming",
-      "channel": "Sport TV1"
+      "status": "upcoming"
     },
     {
       "categories": "World - Friendly",
@@ -49,8 +46,7 @@
       "playerId": "14032",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/cyprus-vs-liechtenstein/m89",
-      "status": "upcoming",
-      "channel": "Qazsport"
+      "status": "upcoming"
     },
     {
       "categories": "World - Friendly",
@@ -65,8 +61,7 @@
       "playerId": "14032",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/denmark-vs-ukraine/qwj",
-      "status": "upcoming",
-      "channel": "Qazsport"
+      "status": "upcoming"
     },
     {
       "categories": "World - Maurice Revello Tournament",
@@ -81,8 +76,7 @@
       "playerId": "2526",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/china-pr-u20-vs-tunisia-u20/g74l5x",
-      "status": "upcoming",
-      "channel": "Sport TV2"
+      "status": "upcoming"
     },
     {
       "categories": "World - Maurice Revello Tournament",
@@ -97,8 +91,7 @@
       "playerId": "2527",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/china-pr-u20-vs-tunisia-u23/g76hgu",
-      "status": "upcoming",
-      "channel": "Sport TV3"
+      "status": "upcoming"
     },
     {
       "categories": "World - Friendly",
@@ -113,8 +106,7 @@
       "playerId": "14032",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/croatia-vs-slovenia/paq",
-      "status": "upcoming",
-      "channel": "Qazsport"
+      "status": "upcoming"
     },
     {
       "categories": "World - Friendly",
@@ -129,8 +121,7 @@
       "playerId": "31483",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/greece-vs-italy/nqa",
-      "status": "upcoming",
-      "channel": "MEGOGO Football 1"
+      "status": "upcoming"
     },
     {
       "categories": "World - Friendly",
@@ -145,8 +136,7 @@
       "playerId": "2525",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/jordan-vs-colombia/t0k",
-      "status": "upcoming",
-      "channel": "Sport TV1"
+      "status": "upcoming"
     }
   ]
 }
