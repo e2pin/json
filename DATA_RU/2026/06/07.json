@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "generatedAt": "2026-06-07T13:00:04.747Z",
+  "generatedAt": "2026-06-07T13:05:04.800Z",
   "totalEvents": 9,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Liechtenstein vs Cyprus",
       "path": "liechtenstein-vs-cyprus-07-06-26",
       "dateTime": "2026-06-07T13:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
