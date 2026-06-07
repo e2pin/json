@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "generatedAt": "2026-06-07T23:00:03.620Z",
+  "generatedAt": "2026-06-07T23:10:03.397Z",
   "totalEvents": 9,
   "events": [
     {
@@ -128,7 +128,7 @@
       "title": "Colombia vs Jordan",
       "path": "colombia-vs-jordan-07-06-26",
       "dateTime": "2026-06-07T23:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
