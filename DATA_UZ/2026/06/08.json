@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generatedAt": "2026-06-08T18:45:04.729Z",
+  "generatedAt": "2026-06-08T18:55:04.559Z",
   "totalEvents": 5,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Netherlands - Uzbekistan",
       "path": "netherlands-vs-uzbekistan-08-06-26",
       "dateTime": "2026-06-08T18:45:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
