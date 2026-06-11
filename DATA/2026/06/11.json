@@ -1,0 +1,40 @@
+{
+  "date": "2026-06-11",
+  "generatedAt": "2026-06-11T05:47:11.260Z",
+  "totalEvents": 2,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "World - Maurice Revello Tournament",
+      "title": "Portugal U20 vs Canada U20",
+      "path": "portugal-u20-vs-canada-u20-11-06-26",
+      "dateTime": "2026-06-11T17:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2526",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/canada-u20-vs-portugal-u20/fx1w5u",
+      "status": "upcoming",
+      "channel": "Sport TV2"
+    },
+    {
+      "categories": "World - FIFA World Cup",
+      "title": "Mexico vs South Africa",
+      "path": "mexico-vs-south-africa-11-06-26",
+      "dateTime": "2026-06-11T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "531",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/south-africa-vs-mexico/iq0",
+      "status": "upcoming",
+      "channel": "Match Premier"
+    }
+  ]
+}
