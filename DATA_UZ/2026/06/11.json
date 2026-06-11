@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-06-11T05:47:13.221Z",
+  "language": "UZ",
+  "totalEvents": 2,
+  "events": [
+    {
+      "categories": "Dunyo - Moris Revelo Turniri",
+      "title": "Portugaliya U20 - Kanadа U20",
+      "path": "portugal-u20-vs-canada-u20-11-06-26",
+      "dateTime": "2026-06-11T17:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "2526",
+      "linkToEvent": "https://www.livesoccertv.com/match/canada-u20-vs-portugal-u20/fx1w5u",
+      "status": "upcoming",
+      "channel": "Sport TV2",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Dunyo - FIFA Jahon Kubogi",
+      "title": "Meksika - Janubiy Afrika",
+      "path": "mexico-vs-south-africa-11-06-26",
+      "dateTime": "2026-06-11T19:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "531",
+      "linkToEvent": "https://www.livesoccertv.com/match/south-africa-vs-mexico/iq0",
+      "status": "upcoming",
+      "channel": "Match Premier",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
