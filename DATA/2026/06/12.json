@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generatedAt": "2026-06-12T02:00:04.746Z",
+  "generatedAt": "2026-06-12T02:10:03.702Z",
   "totalEvents": 2,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Korea Republic vs Czech Republic",
       "path": "korea-republic-vs-czech-republic-12-06-26",
       "dateTime": "2026-06-12T02:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
