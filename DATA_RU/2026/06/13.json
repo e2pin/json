@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generatedAt": "2026-06-13T01:00:06.941Z",
+  "generatedAt": "2026-06-13T01:05:04.885Z",
   "totalEvents": 7,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "США - Парагвай",
       "path": "usa-vs-paraguay-13-06-26",
       "dateTime": "2026-06-13T01:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
