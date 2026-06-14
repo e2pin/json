@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generatedAt": "2026-06-14T17:00:06.700Z",
+  "generatedAt": "2026-06-14T17:05:06.224Z",
   "totalEvents": 8,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Germany vs Curaçao",
       "path": "germany-vs-curaao-14-06-26",
       "dateTime": "2026-06-14T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -83,7 +83,7 @@
       "title": "Torpedo BelAZ vs Slavia",
       "path": "torpedo-belaz-vs-slavia-14-06-26",
       "dateTime": "2026-06-14T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "belarus-belarus-premier-league.webp",
