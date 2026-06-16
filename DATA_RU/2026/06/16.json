@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generatedAt": "2026-06-16T19:00:03.846Z",
+  "generatedAt": "2026-06-16T19:05:04.222Z",
   "totalEvents": 3,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Франция - Сенегал",
       "path": "france-vs-senegal-16-06-26",
       "dateTime": "2026-06-16T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
