@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generatedAt": "2026-06-17T16:00:06.013Z",
+  "generatedAt": "2026-06-17T16:05:06.689Z",
   "totalEvents": 9,
   "events": [
     {
@@ -83,7 +83,7 @@
       "title": "Рига - Рига ФС",
       "path": "riga-vs-rgas-fs-17-06-26",
       "dateTime": "2026-06-17T16:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
