@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generatedAt": "2026-06-17T23:00:05.112Z",
+  "generatedAt": "2026-06-17T23:05:05.231Z",
   "totalEvents": 9,
   "events": [
     {
@@ -128,7 +128,7 @@
       "title": "Gana - Panama",
       "path": "ghana-vs-panama-17-06-26",
       "dateTime": "2026-06-17T23:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
