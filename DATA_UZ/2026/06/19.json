@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generatedAt": "2026-06-19T19:00:07.692Z",
+  "generatedAt": "2026-06-19T19:05:04.377Z",
   "totalEvents": 3,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "USA - Avstraliya",
       "path": "usa-vs-australia-19-06-26",
       "dateTime": "2026-06-19T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
