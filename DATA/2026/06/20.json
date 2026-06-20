@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generatedAt": "2026-06-20T17:30:03.285Z",
+  "generatedAt": "2026-06-20T17:35:04.592Z",
   "totalEvents": 8,
   "events": [
     {
@@ -98,7 +98,7 @@
       "title": "Gomel vs Dnepr Mogilev",
       "path": "gomel-vs-dnepr-mogilev-20-06-26",
       "dateTime": "2026-06-20T17:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "belarus-belarus-premier-league.webp",
