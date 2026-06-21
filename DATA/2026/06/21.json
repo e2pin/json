@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "generatedAt": "2026-06-21T22:00:05.023Z",
+  "generatedAt": "2026-06-21T22:05:05.361Z",
   "totalEvents": 7,
   "events": [
     {
@@ -98,7 +98,7 @@
       "title": "Uruguay vs Cape Verde Islands",
       "path": "uruguay-vs-cape-verde-islands-21-06-26",
       "dateTime": "2026-06-21T22:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
