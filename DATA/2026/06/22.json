@@ -1,6 +1,6 @@
 {
   "date": "2026-06-22",
-  "generatedAt": "2026-06-22T21:00:06.286Z",
+  "generatedAt": "2026-06-22T21:05:04.112Z",
   "totalEvents": 3,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "France vs Iraq",
       "path": "france-vs-iraq-22-06-26",
       "dateTime": "2026-06-22T21:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
