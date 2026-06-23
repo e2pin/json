@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-22T19:25:08.345Z",
-  "language": "ID",
+  "date": "2026-06-23",
+  "generatedAt": "2026-06-23T00:00:03.267Z",
   "totalEvents": 5,
   "events": [
     {
@@ -9,15 +9,14 @@
       "path": "norway-vs-senegal-23-06-26",
       "dateTime": "2026-06-23T00:00:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "124",
-      "linkToEvent": "https://www.livesoccertv.com/match/senegal-vs-norway/cec",
-      "status": "upcoming",
-      "channel": "Match! Football 1",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
       "events": null,
-      "dataContent": ""
+      "playerId": "124",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/senegal-vs-norway/cec",
+      "status": "live"
     },
     {
       "categories": "Dunia - Piala Dunia FIFA",
@@ -25,15 +24,14 @@
       "path": "jordan-vs-algeria-23-06-26",
       "dateTime": "2026-06-23T03:00:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "124",
-      "linkToEvent": "https://www.livesoccertv.com/match/algeria-vs-jordan/20y",
-      "status": "upcoming",
-      "channel": "Match! Football 1",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
       "events": null,
-      "dataContent": ""
+      "playerId": "124",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/algeria-vs-jordan/20y",
+      "status": "upcoming"
     },
     {
       "categories": "Dunia - Piala Dunia FIFA",
@@ -41,15 +39,14 @@
       "path": "portugal-vs-uzbekistan-23-06-26",
       "dateTime": "2026-06-23T17:00:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "535",
-      "linkToEvent": "https://www.livesoccertv.com/match/uzbekistan-vs-portugal/lop",
-      "status": "upcoming",
-      "channel": "Match! Football 1",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
       "events": null,
-      "dataContent": ""
+      "playerId": "535",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/uzbekistan-vs-portugal/lop",
+      "status": "upcoming"
     },
     {
       "categories": "Dunia - Piala Dunia FIFA",
@@ -57,15 +54,14 @@
       "path": "england-vs-ghana-23-06-26",
       "dateTime": "2026-06-23T20:00:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "535",
-      "linkToEvent": "https://www.livesoccertv.com/match/ghana-vs-england/765",
-      "status": "upcoming",
-      "channel": "Match! Football 1",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
       "events": null,
-      "dataContent": ""
+      "playerId": "535",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/ghana-vs-england/765",
+      "status": "upcoming"
     },
     {
       "categories": "Dunia - Piala Dunia FIFA",
@@ -73,15 +69,14 @@
       "path": "panama-vs-croatia-23-06-26",
       "dateTime": "2026-06-23T23:00:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "535",
-      "linkToEvent": "https://www.livesoccertv.com/match/croatia-vs-panama/w0y",
-      "status": "upcoming",
-      "channel": "Match! Football 1",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
       "events": null,
-      "dataContent": ""
+      "playerId": "535",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/croatia-vs-panama/w0y",
+      "status": "upcoming"
     }
   ]
 }
