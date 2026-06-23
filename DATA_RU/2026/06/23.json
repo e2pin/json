@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generatedAt": "2026-06-23T23:00:03.905Z",
+  "generatedAt": "2026-06-23T23:05:04.328Z",
   "totalEvents": 5,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Панама - Хорватия",
       "path": "panama-vs-croatia-23-06-26",
       "dateTime": "2026-06-23T23:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
