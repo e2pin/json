@@ -1,7 +1,8 @@
 {
   "date": "2026-06-23",
-  "generatedAt": "2026-06-23T05:05:03.953Z",
+  "generatedAt": "2026-06-23T08:24:57.107Z",
   "totalEvents": 5,
+  "problematicEventsCount": 0,
   "events": [
     {
       "categories": "World - FIFA World Cup",
@@ -16,7 +17,8 @@
       "playerId": "124",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/senegal-vs-norway/cec",
-      "status": "finished"
+      "status": "finished",
+      "channel": "Match! Football 1"
     },
     {
       "categories": "World - FIFA World Cup",
@@ -31,7 +33,8 @@
       "playerId": "124",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/algeria-vs-jordan/20y",
-      "status": "finished"
+      "status": "finished",
+      "channel": "Match! Football 1"
     },
     {
       "categories": "World - FIFA World Cup",
@@ -46,7 +49,8 @@
       "playerId": "535",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/uzbekistan-vs-portugal/lop",
-      "status": "upcoming"
+      "status": "upcoming",
+      "channel": "Match! Football 1"
     },
     {
       "categories": "World - FIFA World Cup",
@@ -61,7 +65,8 @@
       "playerId": "535",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/ghana-vs-england/765",
-      "status": "upcoming"
+      "status": "upcoming",
+      "channel": "Match! Football 1"
     },
     {
       "categories": "World - FIFA World Cup",
@@ -73,10 +78,11 @@
       "team2_img_url": null,
       "cat_img_url": null,
       "events": null,
-      "playerId": "535",
+      "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/croatia-vs-panama/w0y",
-      "status": "upcoming"
+      "status": "upcoming",
+      "channel": "Match! Football 1"
     }
   ]
 }
