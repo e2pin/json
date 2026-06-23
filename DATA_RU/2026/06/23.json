@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generatedAt": "2026-06-23T00:00:03.043Z",
+  "generatedAt": "2026-06-23T00:05:03.583Z",
   "totalEvents": 5,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Норвегия - Сенегал",
       "path": "norway-vs-senegal-23-06-26",
       "dateTime": "2026-06-23T00:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
