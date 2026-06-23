@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generatedAt": "2026-06-23T05:00:04.682Z",
+  "generatedAt": "2026-06-23T05:05:04.381Z",
   "totalEvents": 5,
   "events": [
     {
@@ -31,7 +31,7 @@
       "playerId": "124",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/algeria-vs-jordan/20y",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Dunyo - FIFA Jahon Kubogi",
