@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generatedAt": "2026-06-23T17:00:04.697Z",
+  "generatedAt": "2026-06-23T17:05:03.977Z",
   "totalEvents": 5,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Portugal vs Uzbekistan",
       "path": "portugal-vs-uzbekistan-23-06-26",
       "dateTime": "2026-06-23T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
