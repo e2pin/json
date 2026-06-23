@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generatedAt": "2026-06-23T02:10:02.353Z",
+  "generatedAt": "2026-06-23T03:00:06.825Z",
   "totalEvents": 5,
   "events": [
     {
@@ -31,7 +31,7 @@
       "playerId": "124",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/algeria-vs-jordan/20y",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "World - FIFA World Cup",
