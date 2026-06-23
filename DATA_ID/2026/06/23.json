@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generatedAt": "2026-06-23T03:40:06.858Z",
+  "generatedAt": "2026-06-23T03:45:05.877Z",
   "totalEvents": 5,
   "events": [
     {
@@ -27,7 +27,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >N. Al Rashdan (1 - 0)<div class='assist'>Assist: M. Tamari</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>36'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >N. Al Rashdan (1 - 0)<div class='assist'>Assist: M. Tamari</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>36'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>44'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >R. Zerrouki</td></tr></table>",
       "playerId": "124",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/algeria-vs-jordan/20y",
