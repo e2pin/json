@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generatedAt": "2026-06-24T19:00:05.542Z",
+  "generatedAt": "2026-06-24T19:05:05.142Z",
   "totalEvents": 5,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Swiss - Kanada",
       "path": "switzerland-vs-canada-24-06-26",
       "dateTime": "2026-06-24T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -38,7 +38,7 @@
       "title": "Bosnia and Herzegovina - Qatar",
       "path": "bosnia-and-herzegovina-vs-qatar-24-06-26",
       "dateTime": "2026-06-24T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
