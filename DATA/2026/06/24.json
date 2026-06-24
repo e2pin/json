@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generatedAt": "2026-06-24T22:00:11.165Z",
+  "generatedAt": "2026-06-24T22:05:06.485Z",
   "totalEvents": 5,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Scotland vs Brazil",
       "path": "scotland-vs-brazil-24-06-26",
       "dateTime": "2026-06-24T22:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -68,7 +68,7 @@
       "title": "Morocco vs Haiti",
       "path": "morocco-vs-haiti-24-06-26",
       "dateTime": "2026-06-24T22:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
