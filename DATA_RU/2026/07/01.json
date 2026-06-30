@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-06-30T07:06:27.706Z",
+  "language": "RU",
+  "totalEvents": 3,
+  "events": [
+    {
+      "categories": "Мир - Чемпионат мира ФИФА",
+      "title": "Мексика - Эквадор",
+      "path": "mexico-vs-ecuador-01-07-26",
+      "dateTime": "2026-07-01T01:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "535",
+      "linkToEvent": "https://www.livesoccertv.com/match/mexico-vs-ecuador/1jff",
+      "status": "upcoming",
+      "channel": "Матч!",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Мир - Чемпионат мира ФИФА",
+      "title": "Англия - Конго ДР",
+      "path": "england-vs-congo-dr-01-07-26",
+      "dateTime": "2026-07-01T16:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "535",
+      "linkToEvent": "https://www.livesoccertv.com/match/congo-dr-vs-england/69e",
+      "status": "upcoming",
+      "channel": "Матч!",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Мир - Чемпионат мира ФИФА",
+      "title": "Бельгия - Сенегал",
+      "path": "belgium-vs-senegal-01-07-26",
+      "dateTime": "2026-07-01T20:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "535",
+      "linkToEvent": "https://www.livesoccertv.com/match/senegal-vs-belgium/8h4",
+      "status": "upcoming",
+      "channel": "Матч!",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
