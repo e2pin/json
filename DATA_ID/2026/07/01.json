@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generatedAt": "2026-07-01T04:05:04.226Z",
+  "generatedAt": "2026-07-01T04:25:04.496Z",
   "totalEvents": 3,
   "events": [
     {
@@ -16,7 +16,7 @@
       "playerId": "535",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/mexico-vs-ecuador/1jff",
-      "status": "finished"
+      "status": "live"
     },
     {
       "categories": "Dunia - Piala Dunia FIFA",
