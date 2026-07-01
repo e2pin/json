@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generatedAt": "2026-07-01T04:05:04.041Z",
+  "generatedAt": "2026-07-01T04:25:04.284Z",
   "totalEvents": 3,
   "events": [
     {
@@ -16,7 +16,7 @@
       "playerId": "535",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/mexico-vs-ecuador/1jff",
-      "status": "finished"
+      "status": "live"
     },
     {
       "categories": "Мир - Чемпионат мира ФИФА",
