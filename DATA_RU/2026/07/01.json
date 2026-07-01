@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generatedAt": "2026-07-01T01:00:04.255Z",
+  "generatedAt": "2026-07-01T02:25:04.110Z",
   "totalEvents": 3,
   "events": [
     {
@@ -8,11 +8,11 @@
       "title": "Мексика - Эквадор",
       "path": "mexico-vs-ecuador-01-07-26",
       "dateTime": "2026-07-01T01:00:00+00:00",
-      "score": "0 - 0",
+      "score": "1 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": null,
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >J. Quinones (1 - 0)<div class='assist'>Assist: R. Alvarado</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>22'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "535",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/mexico-vs-ecuador/1jff",
