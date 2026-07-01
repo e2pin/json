@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-07-01T07:08:58.828Z",
+  "language": "UZ",
+  "totalEvents": 3,
+  "events": [
+    {
+      "categories": "Dunyo - FIFA Jahon Chempionati",
+      "title": "AQSH - Bosniya va Gersegovina",
+      "path": "usa-vs-bosnia-and-herzegovina-02-07-26",
+      "dateTime": "2026-07-02T00:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "535",
+      "linkToEvent": "https://www.livesoccertv.com/match/bosnia-and-herzegovina-vs-usa/xls",
+      "status": "upcoming",
+      "channel": "Матч!",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Dunyo - FIFA Jahon Kubogi",
+      "title": "Ispaniya - Avstriya",
+      "path": "spain-vs-austria-02-07-26",
+      "dateTime": "2026-07-02T19:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "535",
+      "linkToEvent": "https://www.livesoccertv.com/match/austria-vs-spain/obm",
+      "status": "upcoming",
+      "channel": "Матч!",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Dunyo - FIFA Jahon Kubogi",
+      "title": "Portugal - Croatia",
+      "path": "portugal-vs-croatia-02-07-26",
+      "dateTime": "2026-07-02T23:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "535",
+      "linkToEvent": "https://www.livesoccertv.com/match/croatia-vs-portugal/nxj",
+      "status": "upcoming",
+      "channel": "Матч!",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
