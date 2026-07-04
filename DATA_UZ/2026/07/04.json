@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "generatedAt": "2026-07-04T13:00:07.772Z",
+  "generatedAt": "2026-07-04T13:05:06.589Z",
   "totalEvents": 7,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Kyzyl-Zhar - Yelimay Semey",
       "path": "kyzylzhar-vs-yelimay-semey-04-07-26",
       "dateTime": "2026-07-04T13:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
