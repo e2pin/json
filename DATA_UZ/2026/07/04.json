@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "generatedAt": "2026-07-04T15:00:07.430Z",
+  "generatedAt": "2026-07-04T15:05:06.310Z",
   "totalEvents": 7,
   "events": [
     {
@@ -68,7 +68,7 @@
       "title": "Neman Grodno - Arsenal",
       "path": "neman-grodno-vs-arsenal-04-07-26",
       "dateTime": "2026-07-04T15:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "belarus-belarus-premier-league.webp",
