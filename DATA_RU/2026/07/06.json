@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generatedAt": "2026-07-06T19:00:07.499Z",
+  "generatedAt": "2026-07-06T19:05:04.168Z",
   "totalEvents": 2,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Португалия - Испания",
       "path": "portugal-vs-spain-06-07-26",
       "dateTime": "2026-07-06T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
