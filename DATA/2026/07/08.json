@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "generatedAt": "2026-07-08T15:00:03.686Z",
+  "generatedAt": "2026-07-08T15:05:05.001Z",
   "totalEvents": 1,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Kairat vs Sutjeska",
       "path": "kairat-vs-sutjeska-08-07-26",
       "dateTime": "2026-07-08T15:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
