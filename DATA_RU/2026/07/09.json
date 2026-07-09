@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T19:08:42.482Z",
-  "language": "RU",
+  "date": "2026-07-09",
+  "generatedAt": "2026-07-09T19:10:06.655Z",
   "totalEvents": 5,
   "events": [
     {
@@ -9,15 +9,14 @@
       "path": "qaraba-vs-vestri-09-07-26",
       "dateTime": "2026-07-09T16:00:00+00:00",
       "score": "3 - 0",
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "2193",
-      "linkToEvent": "https://www.livesoccertv.com/match/qarabag-vs-vestri/3fr7xq#5658901",
-      "status": "finished",
-      "channel": "Unknown",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
       "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>2'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >S. Fall<div class='assist'>Tripping</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>26'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >J. Stensson / I. Balde</td></tr><tr><td align='right' width='42%' >Z. Sawo (1 - 0)<div class='assist'>Assist: O. Kashchuk</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>30'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >A. Zoubir (2 - 0)</td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>45+2'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>58'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >C. Morfelt / T. G. Hafthorsson</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>58'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >G. Einarsson / G. Svavarsson</td></tr><tr><td align='right' width='42%' >E. Cafarquliyev / B. Langa</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>65'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >J. Mouaddib / O. Kashchuk</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>65'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >S. Lobato / M. Jankovic</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>65'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>78'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >B. Eydal / G. Hauksson</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>79'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >J. Selven / B. Hermannsson</td></tr><tr><td align='right' width='42%' >R. Cephas / A. Zoubir</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>79'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >R. Cephas (3 - 0)<div class='assist'>Assist: Z. Sawo</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>86'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >Dani Bolt / B. Huseynov</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>88'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
-      "dataContent": ""
+      "playerId": "2193",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/qarabag-vs-vestri/3fr7xq#5658901",
+      "status": "finished"
     },
     {
       "categories": "Европа - Лига конференций УЕФА",
@@ -25,15 +24,14 @@
       "path": "alashkert-vs-yelimay-semey-09-07-26",
       "dateTime": "2026-07-09T16:00:00+00:00",
       "score": "1 - 1",
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "2224",
-      "linkToEvent": "https://www.livesoccertv.com/match/alashkert-vs-yelimay-semey/7ecqe1",
-      "status": "finished",
-      "channel": "Qazsport",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
       "events": "<table width='100%' class='eventlist'><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>17'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >D. Palacio / R. Orazov</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>45+4'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >S. Tanasijevic</td></tr><tr><td align='right' width='42%' >E. Piloyan</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>45+4'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >K. Nalbandyan</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td align='center' width='6%'>45+4'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >J. Sabobo / D. J. Massoumou</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>46'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >D. Terteryan / R. Hakobyan</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>50'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>55'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >A. Bakhtiyarov</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>60'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >A. Ashirbek (0 - 1)<div class='assist'>Assist: I. Sviridov</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>72'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >H. Ilic</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>77'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >R. Murtazaev / F. Placca</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>77'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >Z. Payruz / D. Palacio</td></tr><tr><td align='right' width='42%' >P. Ejike / M. Toure</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>78'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' ><span class='suboon'>D. Togola</span> / E. Piloyan</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>78'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >H. Hakobyan / A. Sadoyan</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>84'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >D. Terteryan (1 - 1)<div class='assist'>Assist: K. Nalbandyan</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>86'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>90+4'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >M. Mittendorfer / A. Bakhtiyarov</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>90+11'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >Z. Payruz</td></tr></table>",
-      "dataContent": ""
+      "playerId": "2224",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/alashkert-vs-yelimay-semey/7ecqe1",
+      "status": "finished"
     },
     {
       "categories": "Европа - Лига Европы УЕФА",
@@ -41,15 +39,14 @@
       "path": "dynamo-kyiv-vs-universitatea-cluj-09-07-26",
       "dateTime": "2026-07-09T17:00:00+00:00",
       "score": "0 - 0",
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >V. Buyalskyy / O. Pikhalyonok</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>61'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>65'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >A. Friday / O. Mendy</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>71'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Drammeh<div class='assist'>Tripping</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>73'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >A. Aliev / I. Macalou</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>84'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >P. Pinho / M. Drammeh</td></tr><tr><td align='right' width='42%' >S. Ogundana / N. Voloshyn</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>90+1'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "2523",
+      "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/dynamo-kyiv-vs-universitatea-cluj/3wwsd",
-      "status": "finished",
-      "channel": "Unknown",
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >V. Buyalskyy / O. Pikhalyonok</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>61'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>65'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >A. Friday / O. Mendy</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>71'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >M. Drammeh<div class='assist'>Tripping</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>73'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >A. Aliev / I. Macalou</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>84'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >P. Pinho / M. Drammeh</td></tr><tr><td align='right' width='42%' >S. Ogundana / N. Voloshyn</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>90+2'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
-      "dataContent": ""
+      "status": "finished"
     },
     {
       "categories": "Европа - Лига конференций УЕФА",
@@ -57,15 +54,14 @@
       "path": "dinamo-city-vs-astana-09-07-26",
       "dateTime": "2026-07-09T19:00:00+00:00",
       "score": "0 - 0",
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "2210",
-      "linkToEvent": "https://www.livesoccertv.com/match/dinamo-city-vs-astana/tpka7",
-      "status": "live",
-      "channel": "Kazakhstan TV",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
       "events": null,
-      "dataContent": ""
+      "playerId": "2210",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/dinamo-city-vs-astana/tpka7",
+      "status": "live"
     },
     {
       "categories": "Мир - Чемпионат мира ФИФА",
@@ -73,15 +69,14 @@
       "path": "france-vs-morocco-09-07-26",
       "dateTime": "2026-07-09T20:00:00+00:00",
       "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "2224",
-      "linkToEvent": "https://www.livesoccertv.com/match/morocco-vs-france/8y1",
-      "status": "upcoming",
-      "channel": "Матч!",
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
       "events": null,
-      "dataContent": ""
+      "playerId": "2224",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/morocco-vs-france/8y1",
+      "status": "upcoming"
     }
   ]
 }
