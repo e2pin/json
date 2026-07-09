@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generatedAt": "2026-07-09T19:00:05.027Z",
+  "generatedAt": "2026-07-09T19:05:06.110Z",
   "totalEvents": 5,
   "events": [
     {
@@ -46,14 +46,14 @@
       "playerId": "2523",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/dynamo-kyiv-vs-universitatea-cluj/3wwsd",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Европа - Лига конференций УЕФА",
       "title": "Динамо Сити - Астана",
       "path": "dinamo-city-vs-astana-09-07-26",
       "dateTime": "2026-07-09T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
