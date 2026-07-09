@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-09T07:20:09.154Z",
+  "generatedAt": "2026-07-09T07:23:41.651Z",
   "language": "UZ",
-  "totalEvents": 4,
+  "totalEvents": 5,
   "events": [
     {
       "categories": "Yevropa - UEFA Yevropa Ligasi",
@@ -32,6 +32,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/alashkert-vs-yelimay-semey/7ecqe1",
       "status": "upcoming",
       "channel": "Qazsport",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Evropa - UEFA Yevropa Ligasi",
+      "title": "Dynamo Kyiv - Universitatea Cluj",
+      "path": "dynamo-kyiv-vs-universitatea-cluj-09-07-26",
+      "dateTime": "2026-07-09T17:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "2523",
+      "linkToEvent": "https://www.livesoccertv.com/match/dynamo-kyiv-vs-universitatea-cluj/3wwsd",
+      "status": "upcoming",
+      "channel": "Unknown",
       "events": null,
       "dataContent": ""
     },
