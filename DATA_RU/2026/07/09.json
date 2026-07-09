@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generatedAt": "2026-07-09T19:10:06.655Z",
+  "generatedAt": "2026-07-09T20:00:05.199Z",
   "totalEvents": 5,
   "events": [
     {
@@ -76,7 +76,7 @@
       "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/morocco-vs-france/8y1",
-      "status": "upcoming"
+      "status": "live"
     }
   ]
 }
