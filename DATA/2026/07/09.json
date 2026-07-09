@@ -1,8 +1,7 @@
 {
   "date": "2026-07-09",
-  "generatedAt": "2026-07-09T07:23:39.990Z",
+  "generatedAt": "2026-07-09T16:00:07.510Z",
   "totalEvents": 5,
-  "problematicEventsCount": 0,
   "events": [
     {
       "categories": "Europe - UEFA Europa League",
@@ -17,8 +16,7 @@
       "playerId": "2193",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/qarabag-vs-vestri/3fr7xq#5658901",
-      "status": "upcoming",
-      "channel": "Unknown"
+      "status": "live"
     },
     {
       "categories": "Europe - UEFA Conference League",
@@ -33,8 +31,7 @@
       "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/alashkert-vs-yelimay-semey/7ecqe1",
-      "status": "upcoming",
-      "channel": "Qazsport"
+      "status": "live"
     },
     {
       "categories": "Europe - UEFA Europa League",
@@ -49,8 +46,7 @@
       "playerId": "2523",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/dynamo-kyiv-vs-universitatea-cluj/3wwsd",
-      "status": "upcoming",
-      "channel": "Unknown"
+      "status": "upcoming"
     },
     {
       "categories": "Europe - UEFA Conference League",
@@ -65,8 +61,7 @@
       "playerId": "2210",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/dinamo-city-vs-astana/tpka7",
-      "status": "upcoming",
-      "channel": "Kazakhstan TV"
+      "status": "upcoming"
     },
     {
       "categories": "World - FIFA World Cup",
@@ -81,8 +76,7 @@
       "playerId": "535",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/morocco-vs-france/8y1",
-      "status": "upcoming",
-      "channel": "Матч!"
+      "status": "upcoming"
     }
   ]
 }
