@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-07-09T07:00:52.829Z",
+  "language": "RU",
+  "totalEvents": 3,
+  "events": [
+    {
+      "categories": "Европа - Лига конференций УЕФА",
+      "title": "Алашкерт - Елимай Семей",
+      "path": "alashkert-vs-yelimay-semey-09-07-26",
+      "dateTime": "2026-07-09T16:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "2224",
+      "linkToEvent": "https://www.livesoccertv.com/match/alashkert-vs-yelimay-semey/7ecqe1",
+      "status": "upcoming",
+      "channel": "Qazsport",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Европа - Лига конференций УЕФА",
+      "title": "Динамо Сити - Астана",
+      "path": "dinamo-city-vs-astana-09-07-26",
+      "dateTime": "2026-07-09T19:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "2210",
+      "linkToEvent": "https://www.livesoccertv.com/match/dinamo-city-vs-astana/tpka7",
+      "status": "upcoming",
+      "channel": "Kazakhstan TV",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Мир - Чемпионат мира ФИФА",
+      "title": "Франция - Марокко",
+      "path": "france-vs-morocco-09-07-26",
+      "dateTime": "2026-07-09T20:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "535",
+      "linkToEvent": "https://www.livesoccertv.com/match/morocco-vs-france/8y1",
+      "status": "upcoming",
+      "channel": "Матч!",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
