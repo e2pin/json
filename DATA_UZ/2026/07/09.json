@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generatedAt": "2026-07-09T18:05:05.477Z",
+  "generatedAt": "2026-07-09T18:10:05.657Z",
   "totalEvents": 5,
   "events": [
     {
@@ -31,7 +31,7 @@
       "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/alashkert-vs-yelimay-semey/7ecqe1",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Evropa - UEFA Yevropa Ligasi",
