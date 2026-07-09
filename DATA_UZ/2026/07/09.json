@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generatedAt": "2026-07-09T21:30:07.507Z",
+  "generatedAt": "2026-07-09T21:35:04.917Z",
   "totalEvents": 5,
   "events": [
     {
@@ -68,11 +68,11 @@
       "title": "Fransiya - Marokash",
       "path": "france-vs-morocco-09-07-26",
       "dateTime": "2026-07-09T20:00:00+00:00",
-      "score": "1 - 0",
+      "score": "2 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >K. Mbappe<div class='assist'>K. Mbappe</div></td><td width='5%' align='center'><span class='flag misspen'></span></td><td align='center' width='6%'>28'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >K. Mbappe (1 - 0)<div class='assist'>Assist: D. Doue</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>60'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>62'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >S. Amrabat / A. Bouaddi</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>62'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >S. Rahimi / B. El Khannouss</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>63'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >I. Diop</td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >K. Mbappe<div class='assist'>K. Mbappe</div></td><td width='5%' align='center'><span class='flag misspen'></span></td><td align='center' width='6%'>28'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td align='right' width='42%' >K. Mbappe (1 - 0)<div class='assist'>Assist: D. Doue</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>60'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>62'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >S. Amrabat / A. Bouaddi</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>62'</td><td width='5%' align='center'><span class='flag substitution'></span></td><td width='42%' >S. Rahimi / B. El Khannouss</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>63'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >I. Diop</td></tr><tr><td align='right' width='42%' >O. Dembele (2 - 0)<div class='assist'>Assist: K. Mbappe</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>66'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/morocco-vs-france/8y1",
