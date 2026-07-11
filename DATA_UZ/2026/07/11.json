@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "generatedAt": "2026-07-11T21:00:05.384Z",
+  "generatedAt": "2026-07-11T21:05:08.155Z",
   "totalEvents": 4,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Norvegiya - Angliya",
       "path": "norway-vs-england-11-07-26",
       "dateTime": "2026-07-11T21:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
