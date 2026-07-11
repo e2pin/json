@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-12",
+  "generatedAt": "2026-07-11T06:51:14.296Z",
+  "totalEvents": 4,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "World - FIFA World Cup",
+      "title": "Argentina vs Switzerland",
+      "path": "argentina-vs-switzerland-12-07-26",
+      "dateTime": "2026-07-12T01:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2224",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/switzerland-vs-argentina/1b0d",
+      "status": "upcoming",
+      "channel": "Матч!"
+    },
+    {
+      "categories": "Kazakhstan - Kazakhstan Premier League",
+      "title": "Tobol vs Okzhetpes",
+      "path": "tobol-vs-okzhetpes-12-07-26",
+      "dateTime": "2026-07-12T12:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2224",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/tobol-vs-okzhetpes/2l31so",
+      "status": "upcoming",
+      "channel": "Qazsport"
+    },
+    {
+      "categories": "Belarus - Belarus Premier League",
+      "title": "Arsenal vs Vitebsk",
+      "path": "arsenal-vs-vitebsk-12-07-26",
+      "dateTime": "2026-07-12T13:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "belarus-belarus-premier-league.webp",
+      "events": null,
+      "playerId": "5060",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/vitebsk-vs-arsenal/32it35",
+      "status": "upcoming",
+      "channel": "Belarus 5"
+    },
+    {
+      "categories": "Kazakhstan - Kazakhstan Premier League",
+      "title": "Astana vs Aktobe",
+      "path": "astana-vs-aktobe-12-07-26",
+      "dateTime": "2026-07-12T14:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2224",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/aktobe-vs-astana/1e8we8",
+      "status": "upcoming",
+      "channel": "Qazsport"
+    }
+  ]
+}
