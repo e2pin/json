@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "generatedAt": "2026-07-11T21:05:08.155Z",
+  "generatedAt": "2026-07-11T21:40:04.701Z",
   "totalEvents": 4,
   "events": [
     {
@@ -53,11 +53,11 @@
       "title": "Norvegiya - Angliya",
       "path": "norway-vs-england-11-07-26",
       "dateTime": "2026-07-11T21:00:00+00:00",
-      "score": "0 - 0",
+      "score": "1 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": null,
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >A. Schjelderup (1 - 0)<div class='assist'>Assist: M. Odegaard</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>36'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "531",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/england-vs-norway/obc",
