@@ -1,8 +1,7 @@
 {
   "date": "2026-07-11",
-  "generatedAt": "2026-07-11T06:50:25.927Z",
+  "generatedAt": "2026-07-11T13:00:06.648Z",
   "totalEvents": 4,
-  "problematicEventsCount": 0,
   "events": [
     {
       "categories": "Belarus - Belarus Premier League",
@@ -17,8 +16,7 @@
       "playerId": "5060",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/torpedo-belaz-vs-baranovichi/17iix1",
-      "status": "upcoming",
-      "channel": "Belarus 5"
+      "status": "live"
     },
     {
       "categories": "Belarus - Belarus Premier League",
@@ -33,8 +31,7 @@
       "playerId": "5060",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/dinamo-brest-vs-slavia/gb1cm",
-      "status": "upcoming",
-      "channel": "Belarus 5"
+      "status": "upcoming"
     },
     {
       "categories": "Belarus - Belarus Premier League",
@@ -49,8 +46,7 @@
       "playerId": "5060",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/neman-grodno-vs-gomel/gbihf",
-      "status": "upcoming",
-      "channel": "Belarus 5"
+      "status": "upcoming"
     },
     {
       "categories": "World - World Cup",
@@ -65,8 +61,7 @@
       "playerId": "531",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/england-vs-norway/obc",
-      "status": "upcoming",
-      "channel": "Match Premier"
+      "status": "upcoming"
     }
   ]
 }
