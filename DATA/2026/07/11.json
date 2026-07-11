@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-11",
+  "generatedAt": "2026-07-11T06:50:25.927Z",
+  "totalEvents": 4,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "Belarus - Belarus Premier League",
+      "title": "Baranovichi vs Torpedo BelAZ",
+      "path": "baranovichi-vs-torpedo-belaz-11-07-26",
+      "dateTime": "2026-07-11T13:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "belarus-belarus-premier-league.webp",
+      "events": null,
+      "playerId": "5060",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/torpedo-belaz-vs-baranovichi/17iix1",
+      "status": "upcoming",
+      "channel": "Belarus 5"
+    },
+    {
+      "categories": "Belarus - Belarus Premier League",
+      "title": "Dinamo Brest vs Slavia",
+      "path": "dinamo-brest-vs-slavia-11-07-26",
+      "dateTime": "2026-07-11T15:45:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "belarus-belarus-premier-league.webp",
+      "events": null,
+      "playerId": "5060",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/dinamo-brest-vs-slavia/gb1cm",
+      "status": "upcoming",
+      "channel": "Belarus 5"
+    },
+    {
+      "categories": "Belarus - Belarus Premier League",
+      "title": "Gomel vs Neman Grodno",
+      "path": "gomel-vs-neman-grodno-11-07-26",
+      "dateTime": "2026-07-11T17:45:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": "belarus-belarus-premier-league.webp",
+      "events": null,
+      "playerId": "5060",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/neman-grodno-vs-gomel/gbihf",
+      "status": "upcoming",
+      "channel": "Belarus 5"
+    },
+    {
+      "categories": "World - World Cup",
+      "title": "Norway vs England",
+      "path": "norway-vs-england-11-07-26",
+      "dateTime": "2026-07-11T21:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "531",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/england-vs-norway/obc",
+      "status": "upcoming",
+      "channel": "Match Premier"
+    }
+  ]
+}
