@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generatedAt": "2026-07-12T14:45:04.692Z",
+  "generatedAt": "2026-07-12T14:50:04.306Z",
   "totalEvents": 5,
   "events": [
     {
@@ -31,7 +31,7 @@
       "playerId": "5060",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/vitebsk-vs-arsenal/32it35",
-      "status": "live"
+      "status": "finished"
     },
     {
       "categories": "Kazakhstan - Kazakhstan Premier League",
