@@ -1,8 +1,7 @@
 {
   "date": "2026-07-12",
-  "generatedAt": "2026-07-12T06:32:57.631Z",
+  "generatedAt": "2026-07-12T13:00:03.885Z",
   "totalEvents": 5,
-  "problematicEventsCount": 0,
   "events": [
     {
       "categories": "World - World Cup",
@@ -17,8 +16,7 @@
       "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/switzerland-vs-argentina/1b0d",
-      "status": "finished",
-      "channel": "Матч!"
+      "status": "finished"
     },
     {
       "categories": "Belarus - Belarus Premier League",
@@ -33,8 +31,7 @@
       "playerId": "5060",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/vitebsk-vs-arsenal/32it35",
-      "status": "upcoming",
-      "channel": "Belarus 5"
+      "status": "live"
     },
     {
       "categories": "Kazakhstan - Kazakhstan Premier League",
@@ -49,8 +46,7 @@
       "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/aktobe-vs-astana/1e8we8",
-      "status": "upcoming",
-      "channel": "Qazsport"
+      "status": "upcoming"
     },
     {
       "categories": "Kazakhstan - Kazakhstan Premier League",
@@ -65,8 +61,7 @@
       "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/tobol-vs-okzhetpes/2l31so",
-      "status": "upcoming",
-      "channel": "Qazsport"
+      "status": "upcoming"
     },
     {
       "categories": "World - Club Friendly",
@@ -81,8 +76,7 @@
       "playerId": "531",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/zenit-vs-crvena-zvezda/3p0nb",
-      "status": "upcoming",
-      "channel": "Match Premier"
+      "status": "upcoming"
     }
   ]
 }
