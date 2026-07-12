@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generatedAt": "2026-07-12T02:35:04.331Z",
+  "generatedAt": "2026-07-12T02:45:04.278Z",
   "totalEvents": 4,
   "events": [
     {
@@ -12,7 +12,7 @@
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
-      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >A. Mac Allister (1 - 0)<div class='assist'>Assist: L. Messi</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>10'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>44'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >B. Embolo<div class='assist'>Roughing</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>67'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >D. Ndoye (1 - 1)<div class='assist'>Assist: R. Rodriguez</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>72'</td><td width='5%' align='center'><span class='flag yellowred'></span></td><td width='42%' >B. Embolo<div class='assist'>Diving</div></td></tr></table>",
+      "events": "<table width='100%' class='eventlist'><tr><td align='right' width='42%' >A. Mac Allister (1 - 0)<div class='assist'>Assist: L. Messi</div></td><td width='5%' align='center'><span class='flag goal'></span></td><td align='center' width='6%'>10'</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>44'</td><td width='5%' align='center'><span class='flag yellowcard'></span></td><td width='42%' >B. Embolo<div class='assist'>Roughing</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>67'</td><td width='5%' align='center'><span class='flag goal'></span></td><td width='42%' >D. Ndoye (1 - 1)<div class='assist'>Assist: R. Rodriguez</div></td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td align='center' width='6%'>72'</td><td width='5%' align='center'><span class='flag yellowred'></span></td><td width='42%' >B. Embolo<div class='assist'>Diving</div></td></tr><tr><td align='right' width='42%' >N. Gonzalez / N. Tagliafico</td><td width='5%' align='center'><span class='flag substitution'></span></td><td align='center' width='6%'>78'</td><td>&nbsp;</td><td>&nbsp;</td></tr></table>",
       "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/switzerland-vs-argentina/1b0d",
