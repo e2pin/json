@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generatedAt": "2026-07-12T18:00:05.755Z",
+  "generatedAt": "2026-07-12T18:05:04.159Z",
   "totalEvents": 5,
   "events": [
     {
@@ -76,7 +76,7 @@
       "playerId": "531",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/zenit-vs-crvena-zvezda/3p0nb",
-      "status": "live"
+      "status": "finished"
     }
   ]
 }
