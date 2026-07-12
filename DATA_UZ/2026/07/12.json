@@ -1,11 +1,11 @@
 {
   "date": "2026-07-12",
-  "generatedAt": "2026-07-12T03:45:03.872Z",
-  "totalEvents": 4,
+  "generatedAt": "2026-07-12T13:00:04.225Z",
+  "totalEvents": 5,
   "events": [
     {
-      "categories": "Jahon - FIFA Jahon Kubogi",
-      "title": "Argentina - Shveytsariya",
+      "categories": "Jahon - Jahon Kubogi",
+      "title": "Argentina - Shveysariya",
       "path": "argentina-vs-switzerland-12-07-26",
       "dateTime": "2026-07-12T01:00:00+00:00",
       "score": "3 - 1",
@@ -16,25 +16,10 @@
       "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/switzerland-vs-argentina/1b0d",
-      "status": "live"
+      "status": "finished"
     },
     {
-      "categories": "Qozog'iston - Qozog'iston Premer Ligasi",
-      "title": "Tobol - Okzhetpes",
-      "path": "tobol-vs-okzhetpes-12-07-26",
-      "dateTime": "2026-07-12T12:00:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "2224",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/tobol-vs-okzhetpes/2l31so",
-      "status": "upcoming"
-    },
-    {
-      "categories": "Belarus - O'zbekiston Premer Ligas",
+      "categories": "Belarus - O'zbekiston Premer Ligasi",
       "title": "Arsenal - Vitebsk",
       "path": "arsenal-vs-vitebsk-12-07-26",
       "dateTime": "2026-07-12T13:00:00+00:00",
@@ -46,7 +31,7 @@
       "playerId": "5060",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/vitebsk-vs-arsenal/32it35",
-      "status": "upcoming"
+      "status": "live"
     },
     {
       "categories": "Qozog'iston - Premer Liga",
@@ -61,6 +46,36 @@
       "playerId": "2224",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/aktobe-vs-astana/1e8we8",
+      "status": "upcoming"
+    },
+    {
+      "categories": "Qozog'iston - Qozog'iston Premer Liga",
+      "title": "Tobol - Okzhetpes",
+      "path": "tobol-vs-okzhetpes-12-07-26",
+      "dateTime": "2026-07-12T15:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2224",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/tobol-vs-okzhetpes/2l31so",
+      "status": "upcoming"
+    },
+    {
+      "categories": "Jahon - Klub Do'stlik O'yini",
+      "title": "Zenit - Crvena Zvezda",
+      "path": "zenit-vs-crvena-zvezda-12-07-26",
+      "dateTime": "2026-07-12T16:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "531",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/zenit-vs-crvena-zvezda/3p0nb",
       "status": "upcoming"
     }
   ]
