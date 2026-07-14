@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-07-14T07:39:47.481Z",
+  "language": "ID",
+  "totalEvents": 1,
+  "events": [
+    {
+      "categories": "Dunia - Piala Dunia",
+      "title": "Inggris - Argentina",
+      "path": "england-vs-argentina-15-07-26",
+      "dateTime": "2026-07-15T19:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "531",
+      "linkToEvent": "https://www.livesoccertv.com/match/england-vs-argentina/11tv",
+      "status": "upcoming",
+      "channel": "Match Premier",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
