@@ -1,0 +1,24 @@
+{
+  "date": "2026-07-15",
+  "generatedAt": "2026-07-14T07:39:36.614Z",
+  "totalEvents": 1,
+  "problematicEventsCount": 0,
+  "events": [
+    {
+      "categories": "World - World Cup",
+      "title": "England vs Argentina",
+      "path": "england-vs-argentina-15-07-26",
+      "dateTime": "2026-07-15T19:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "531",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/england-vs-argentina/11tv",
+      "status": "upcoming",
+      "channel": "Match Premier"
+    }
+  ]
+}
