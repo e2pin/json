@@ -1,9 +1,9 @@
 {
   "mainSettings": [
     {
-		"actualHomeURL": "https://x.tutbet.net/",
+		"actualHomeURL": "https://tutbet.net/en/",
 		"actualAppURL": "https://app.tutbet.net/",
-		"actualRefURL": "https://x.tutbet.net/",
+		"actualRefURL": "https://tutbet.net/en/",
 		"playerURL": "https://pl.wcp.su/c/",
 		"playerURL2": "https://p.afu.su/?id=",
 		"dataURL": "https://e2pin.github.io/json/DATA/",
