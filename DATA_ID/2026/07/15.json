@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generatedAt": "2026-07-15T19:00:05.371Z",
+  "generatedAt": "2026-07-15T19:05:05.728Z",
   "totalEvents": 3,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Inggris - Argentina",
       "path": "england-vs-argentina-15-07-26",
       "dateTime": "2026-07-15T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -38,7 +38,7 @@
       "title": "Sutjeska - Kairat",
       "path": "sutjeska-vs-kairat-15-07-26",
       "dateTime": "2026-07-15T19:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
