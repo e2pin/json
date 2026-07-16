@@ -1,6 +1,6 @@
 {
   "date": "2026-07-16",
-  "generatedAt": "2026-07-16T20:00:08.273Z",
+  "generatedAt": "2026-07-16T20:05:05.868Z",
   "totalEvents": 10,
   "events": [
     {
@@ -143,7 +143,7 @@
       "title": "Vestri - Qarabağ",
       "path": "vestri-vs-qaraba-16-07-26",
       "dateTime": "2026-07-16T20:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
