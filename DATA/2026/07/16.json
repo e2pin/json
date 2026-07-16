@@ -1,7 +1,7 @@
 {
   "date": "2026-07-16",
-  "generatedAt": "2026-07-15T23:11:31.491Z",
-  "totalEvents": 7,
+  "generatedAt": "2026-07-16T07:31:58.337Z",
+  "totalEvents": 10,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -22,22 +22,6 @@
     },
     {
       "categories": "Uzbekistan - Uzbekistan Super League",
-      "title": "Neftchi vs Buxoro",
-      "path": "neftchi-vs-buxoro-16-07-26",
-      "dateTime": "2026-07-16T15:00:00+00:00",
-      "score": null,
-      "team1_img_url": null,
-      "team2_img_url": null,
-      "cat_img_url": null,
-      "events": null,
-      "playerId": "20187",
-      "dataContent": "",
-      "linkToEvent": "https://www.livesoccertv.com/match/neftchi-vs-buxoro/ba4i3",
-      "status": "upcoming",
-      "channel": "Futbol TV UZ"
-    },
-    {
-      "categories": "Uzbekistan - Uzbekistan Super League",
       "title": "Bunyodkor vs Nasaf",
       "path": "bunyodkor-vs-nasaf-16-07-26",
       "dateTime": "2026-07-16T15:00:00+00:00",
@@ -51,6 +35,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/bunyodkor-vs-nasaf/b8jk0",
       "status": "upcoming",
       "channel": "Sport UZ"
+    },
+    {
+      "categories": "Uzbekistan - Uzbekistan Super League",
+      "title": "Neftchi vs Buxoro",
+      "path": "neftchi-vs-buxoro-16-07-26",
+      "dateTime": "2026-07-16T15:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "20187",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/neftchi-vs-buxoro/ba4i3",
+      "status": "upcoming",
+      "channel": "Futbol TV UZ"
     },
     {
       "categories": "Europe - UEFA Conference League",
@@ -86,6 +86,22 @@
     },
     {
       "categories": "Europe - UEFA Conference League",
+      "title": "Torpedo Kutaisi vs Zira",
+      "path": "torpedo-kutaisi-vs-zira-16-07-26",
+      "dateTime": "2026-07-16T16:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2198",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/torpedo-kutaisi-vs-zira/1hvmjo",
+      "status": "upcoming",
+      "channel": "Unknown"
+    },
+    {
+      "categories": "Europe - UEFA Conference League",
       "title": "BATE vs AF Elbasani",
       "path": "bate-vs-af-elbasani-16-07-26",
       "dateTime": "2026-07-16T17:00:00+00:00",
@@ -102,6 +118,22 @@
     },
     {
       "categories": "Europe - UEFA Europa League",
+      "title": "Universitatea Cluj vs Dynamo Kyiv",
+      "path": "universitatea-cluj-vs-dynamo-kyiv-16-07-26",
+      "dateTime": "2026-07-16T17:30:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "995",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/dynamo-kyiv-vs-universitatea-cluj/3wwsd",
+      "status": "upcoming",
+      "channel": "Unknown"
+    },
+    {
+      "categories": "Europe - UEFA Europa League",
       "title": "Aluminij vs Sheriff",
       "path": "aluminij-vs-sheriff-16-07-26",
       "dateTime": "2026-07-16T18:00:00+00:00",
@@ -115,6 +147,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/sheriff-vs-aluminij/etvu2",
       "status": "upcoming",
       "channel": "Sportklub 6 Croatia"
+    },
+    {
+      "categories": "Europe - UEFA Europa League",
+      "title": "Vestri vs Qarabağ",
+      "path": "vestri-vs-qaraba-16-07-26",
+      "dateTime": "2026-07-16T20:00:00+00:00",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "2193",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/qarabag-vs-vestri/3fr7xq",
+      "status": "upcoming",
+      "channel": "Unknown"
     }
   ]
 }
