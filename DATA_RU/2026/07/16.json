@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-07-15T23:11:38.774Z",
+  "generatedAt": "2026-07-16T07:32:17.375Z",
   "language": "RU",
-  "totalEvents": 7,
+  "totalEvents": 10,
   "events": [
     {
       "categories": "Европа - Лига конференций УЕФА",
@@ -16,6 +16,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/alashkert-vs-yelimay-semey/7ecqe1",
       "status": "upcoming",
       "channel": "Qazsport",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Узбекистан - Суперлига Узбекистана",
+      "title": "Бунёдкор - Насаф",
+      "path": "bunyodkor-vs-nasaf-16-07-26",
+      "dateTime": "2026-07-16T15:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "20203",
+      "linkToEvent": "https://www.livesoccertv.com/match/bunyodkor-vs-nasaf/b8jk0",
+      "status": "upcoming",
+      "channel": "Sport UZ",
       "events": null,
       "dataContent": ""
     },
@@ -36,22 +52,6 @@
       "dataContent": ""
     },
     {
-      "categories": "Узбекистан - Узбекистанская Суперлига",
-      "title": "Бунёдкор - Насаф",
-      "path": "bunyodkor-vs-nasaf-16-07-26",
-      "dateTime": "2026-07-16T15:00:00+00:00",
-      "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "20203",
-      "linkToEvent": "https://www.livesoccertv.com/match/bunyodkor-vs-nasaf/b8jk0",
-      "status": "upcoming",
-      "channel": "Sport UZ",
-      "events": null,
-      "dataContent": ""
-    },
-    {
       "categories": "Европа - Лига конференций УЕФА",
       "title": "Астана - Динамо Сити",
       "path": "astana-vs-dinamo-city-16-07-26",
@@ -68,8 +68,8 @@
       "dataContent": ""
     },
     {
-      "categories": "Мир - Клубный товарищеский матч",
-      "title": "Металлист 1925 Харьков - Градец-Кралове",
+      "categories": "Мир - Дружеские матчи клубов",
+      "title": "Металлист 1925 Харьков - Градец Кралове",
       "path": "metalist-1925-kharkiv-vs-hradec-krlov-16-07-26",
       "dateTime": "2026-07-16T15:30:00+00:00",
       "score": null,
@@ -85,7 +85,23 @@
     },
     {
       "categories": "Европа - Лига Конференций УЕФА",
-      "title": "БАТЭ - АФ Элбасани",
+      "title": "Торпедо Кутаиси - Зира",
+      "path": "torpedo-kutaisi-vs-zira-16-07-26",
+      "dateTime": "2026-07-16T16:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "2198",
+      "linkToEvent": "https://www.livesoccertv.com/match/torpedo-kutaisi-vs-zira/1hvmjo",
+      "status": "upcoming",
+      "channel": "Unknown",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Европа - Лига конференций УЕФА",
+      "title": "БАТЭ - АФ Эльбассани",
       "path": "bate-vs-af-elbasani-16-07-26",
       "dateTime": "2026-07-16T17:00:00+00:00",
       "score": null,
@@ -101,7 +117,23 @@
     },
     {
       "categories": "Европа - Лига Европы УЕФА",
-      "title": "Алюминиј - Шериф",
+      "title": "Университатя Клуж - Динамо Киев",
+      "path": "universitatea-cluj-vs-dynamo-kyiv-16-07-26",
+      "dateTime": "2026-07-16T17:30:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "995",
+      "linkToEvent": "https://www.livesoccertv.com/match/dynamo-kyiv-vs-universitatea-cluj/3wwsd",
+      "status": "upcoming",
+      "channel": "Unknown",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Европа - Лига Европы УЕФА",
+      "title": "Алюминий - Шериф",
       "path": "aluminij-vs-sheriff-16-07-26",
       "dateTime": "2026-07-16T18:00:00+00:00",
       "score": null,
@@ -112,6 +144,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/sheriff-vs-aluminij/etvu2",
       "status": "upcoming",
       "channel": "Sportklub 6 Croatia",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Европа - Лига Европы УЕФА",
+      "title": "Вестри - Карабах",
+      "path": "vestri-vs-qaraba-16-07-26",
+      "dateTime": "2026-07-16T20:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "2193",
+      "linkToEvent": "https://www.livesoccertv.com/match/qarabag-vs-vestri/3fr7xq",
+      "status": "upcoming",
+      "channel": "Unknown",
       "events": null,
       "dataContent": ""
     }
