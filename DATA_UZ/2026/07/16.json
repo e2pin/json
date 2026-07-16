@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-15T23:11:39.658Z",
+  "generatedAt": "2026-07-16T07:32:18.962Z",
   "language": "UZ",
-  "totalEvents": 7,
+  "totalEvents": 10,
   "events": [
     {
-      "categories": "Evropa - UEFA Konferensiya Ligasi",
+      "categories": "Evropa - UEFA Konferensiya Ligalari",
       "title": "Yelimay Semey - Alashkert",
       "path": "yelimay-semey-vs-alashkert-16-07-26",
       "dateTime": "2026-07-16T15:00:00+00:00",
@@ -16,22 +16,6 @@
       "linkToEvent": "https://www.livesoccertv.com/match/alashkert-vs-yelimay-semey/7ecqe1",
       "status": "upcoming",
       "channel": "Qazsport",
-      "events": null,
-      "dataContent": ""
-    },
-    {
-      "categories": "O‘zbekiston - O‘zbekiston Super Liga",
-      "title": "Neftchi - Buxoro",
-      "path": "neftchi-vs-buxoro-16-07-26",
-      "dateTime": "2026-07-16T15:00:00+00:00",
-      "score": null,
-      "team1ImgUrl": null,
-      "team2ImgUrl": null,
-      "catImgUrl": null,
-      "playerId": "20187",
-      "linkToEvent": "https://www.livesoccertv.com/match/neftchi-vs-buxoro/ba4i3",
-      "status": "upcoming",
-      "channel": "Futbol TV UZ",
       "events": null,
       "dataContent": ""
     },
@@ -52,6 +36,22 @@
       "dataContent": ""
     },
     {
+      "categories": "O'zbekiston - O'zbekiston Super Ligasi",
+      "title": "Neftchi - Buxoro",
+      "path": "neftchi-vs-buxoro-16-07-26",
+      "dateTime": "2026-07-16T15:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "20187",
+      "linkToEvent": "https://www.livesoccertv.com/match/neftchi-vs-buxoro/ba4i3",
+      "status": "upcoming",
+      "channel": "Futbol TV UZ",
+      "events": null,
+      "dataContent": ""
+    },
+    {
       "categories": "Evropa - UEFA Konferensiya Ligasi",
       "title": "Astana - Dinamo City",
       "path": "astana-vs-dinamo-city-16-07-26",
@@ -68,7 +68,7 @@
       "dataContent": ""
     },
     {
-      "categories": "Dunyo - Klub Do'stona o'yinlari",
+      "categories": "Dunyo - Klub do'stlik o'yini",
       "title": "Metalist 1925 Kharkiv - Hradec Králové",
       "path": "metalist-1925-kharkiv-vs-hradec-krlov-16-07-26",
       "dateTime": "2026-07-16T15:30:00+00:00",
@@ -80,6 +80,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/hradec-kralove-vs-metalist-1925-kharkiv/1oh6ub",
       "status": "upcoming",
       "channel": "UPL.TV",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Evropa - UEFA Konferentsiya Ligasi",
+      "title": "Torpedo Kutaisi - Zira",
+      "path": "torpedo-kutaisi-vs-zira-16-07-26",
+      "dateTime": "2026-07-16T16:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "2198",
+      "linkToEvent": "https://www.livesoccertv.com/match/torpedo-kutaisi-vs-zira/1hvmjo",
+      "status": "upcoming",
+      "channel": "Unknown",
       "events": null,
       "dataContent": ""
     },
@@ -100,7 +116,23 @@
       "dataContent": ""
     },
     {
-      "categories": "Evropa - UEFA Yevropa Ligasida",
+      "categories": "Evropa - UEFA Yevropa Ligasi",
+      "title": "Universitatea Cluj - Dynamo Kyiv",
+      "path": "universitatea-cluj-vs-dynamo-kyiv-16-07-26",
+      "dateTime": "2026-07-16T17:30:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "995",
+      "linkToEvent": "https://www.livesoccertv.com/match/dynamo-kyiv-vs-universitatea-cluj/3wwsd",
+      "status": "upcoming",
+      "channel": "Unknown",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Yevropa - UEFA Evro Liga",
       "title": "Aluminij - Sheriff",
       "path": "aluminij-vs-sheriff-16-07-26",
       "dateTime": "2026-07-16T18:00:00+00:00",
@@ -112,6 +144,22 @@
       "linkToEvent": "https://www.livesoccertv.com/match/sheriff-vs-aluminij/etvu2",
       "status": "upcoming",
       "channel": "Sportklub 6 Croatia",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Yevropa - UEFA Yevropa Ligasi",
+      "title": "Vestri - Qarabağ",
+      "path": "vestri-vs-qaraba-16-07-26",
+      "dateTime": "2026-07-16T20:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "2193",
+      "linkToEvent": "https://www.livesoccertv.com/match/qarabag-vs-vestri/3fr7xq",
+      "status": "upcoming",
+      "channel": "Unknown",
       "events": null,
       "dataContent": ""
     }
