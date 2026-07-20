@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generatedAt": "2026-07-20T18:30:05.679Z",
+  "generatedAt": "2026-07-20T18:40:06.241Z",
   "totalEvents": 3,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Botev Plovdiv - Lokomotiv Sofia 1929",
       "path": "botev-plovdiv-vs-lokomotiv-sofia-1929-20-07-26",
       "dateTime": "2026-07-20T18:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
