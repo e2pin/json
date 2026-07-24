@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generatedAt": "2026-07-24T17:00:08.191Z",
+  "generatedAt": "2026-07-24T17:05:05.917Z",
   "totalEvents": 7,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "CSKA Moskva vs Baltika",
       "path": "cska-moskva-vs-baltika-24-07-26",
       "dateTime": "2026-07-24T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -68,7 +68,7 @@
       "title": "Viborg vs OB",
       "path": "viborg-vs-ob-24-07-26",
       "dateTime": "2026-07-24T17:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
