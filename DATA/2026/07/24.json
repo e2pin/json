@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generatedAt": "2026-07-24T11:00:03.959Z",
+  "generatedAt": "2026-07-24T11:05:04.724Z",
   "totalEvents": 7,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Swansea City vs Udinese",
       "path": "swansea-city-vs-udinese-24-07-26",
       "dateTime": "2026-07-24T11:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
