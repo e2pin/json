@@ -1,6 +1,6 @@
 {
   "date": "2026-07-25",
-  "generatedAt": "2026-07-25T11:05:05.492Z",
+  "generatedAt": "2026-07-25T11:15:06.754Z",
   "totalEvents": 17,
   "events": [
     {
@@ -8,7 +8,7 @@
       "title": "Dinamo Moskva - Krylya Sovetov",
       "path": "dinamo-moskva-vs-krylya-sovetov-25-07-26",
       "dateTime": "2026-07-25T11:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
