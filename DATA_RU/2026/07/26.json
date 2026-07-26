@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generatedAt": "2026-07-26T14:00:05.595Z",
+  "generatedAt": "2026-07-26T14:05:07.235Z",
   "totalEvents": 12,
   "events": [
     {
@@ -53,7 +53,7 @@
       "title": "Кайрат - Ордабасы: прогноз на матч, прямая трансляция, где смотреть, составы команд",
       "path": "kairat-vs-ordabasy-26-07-26",
       "dateTime": "2026-07-26T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -68,7 +68,7 @@
       "title": "Локомотив Москва - Ахмат Грозный",
       "path": "lokomotiv-moskva-vs-akhmat-grozny-26-07-26",
       "dateTime": "2026-07-26T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
