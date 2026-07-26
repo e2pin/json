@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generatedAt": "2026-07-26T12:00:03.109Z",
+  "generatedAt": "2026-07-26T12:05:04.209Z",
   "totalEvents": 12,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Ajax vs Burnley",
       "path": "ajax-vs-burnley-26-07-26",
       "dateTime": "2026-07-26T12:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
