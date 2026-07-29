@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T08:47:11.712Z",
+  "generatedAt": "2026-07-29T09:30:27.994Z",
   "language": "ID",
   "totalEvents": 9,
   "events": [
@@ -92,7 +92,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": "europe-uefa-champions-league.webp",
-      "playerId": "2525",
+      "playerId": "2328",
       "linkToEvent": "https://www.livesoccertv.com/match/fenerbahce-vs-gornik-zabrze/3r55a",
       "status": "upcoming",
       "channel": "Sport TV1",
@@ -108,7 +108,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": null,
-      "playerId": "2526",
+      "playerId": "6554",
       "linkToEvent": "https://www.livesoccertv.com/match/olympique-lyonnais-vs-real-betis/2flrm",
       "status": "upcoming",
       "channel": "Sport TV2",
