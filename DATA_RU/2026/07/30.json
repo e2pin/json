@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generatedAt": "2026-07-30T14:00:03.864Z",
+  "generatedAt": "2026-07-30T14:05:05.039Z",
   "totalEvents": 12,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Тобол - Паневежис",
       "path": "tobol-vs-panevys-30-07-26",
       "dateTime": "2026-07-30T14:00:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
