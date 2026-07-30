@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generatedAt": "2026-07-30T23:30:04.378Z",
+  "generatedAt": "2026-07-30T23:40:03.620Z",
   "totalEvents": 12,
   "events": [
     {
@@ -173,7 +173,7 @@
       "title": "Sunderland - Leeds United",
       "path": "sunderland-vs-leeds-united-30-07-26",
       "dateTime": "2026-07-30T23:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
