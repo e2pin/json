@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generatedAt": "2026-07-31T12:30:05.898Z",
+  "generatedAt": "2026-07-31T12:35:05.181Z",
   "totalEvents": 10,
   "events": [
     {
@@ -38,7 +38,7 @@
       "title": "Persib - Tampines Rovers",
       "path": "persib-vs-tampines-rovers-31-07-26",
       "dateTime": "2026-07-31T12:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
