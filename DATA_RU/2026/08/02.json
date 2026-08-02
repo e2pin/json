@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "generatedAt": "2026-08-02T12:30:04.689Z",
+  "generatedAt": "2026-08-02T12:35:04.810Z",
   "totalEvents": 15,
   "events": [
     {
@@ -23,7 +23,7 @@
       "title": "Утрехт - Севилья",
       "path": "utrecht-vs-sevilla-02-08-26",
       "dateTime": "2026-08-02T12:30:00+00:00",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
