@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-08-02T07:39:02.979Z",
+  "language": "ID",
+  "totalEvents": 3,
+  "events": [
+    {
+      "categories": "Ukraina - Liga Premier Ukraina",
+      "title": "Bukovyna - LNZ Cherkasy",
+      "path": "bukovyna-vs-lnz-cherkasy-03-08-26",
+      "dateTime": "2026-08-03T12:30:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "31446",
+      "linkToEvent": "https://www.livesoccertv.com/match/bukovyna-vs-lnz-cherkasy/4kcgc6",
+      "status": "upcoming",
+      "channel": "UPL.TV",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Uzbekistan - Liga Super Uzbekistan",
+      "title": "AGMK - Nasaf",
+      "path": "agmk-vs-nasaf-03-08-26",
+      "dateTime": "2026-08-03T15:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "2239",
+      "linkToEvent": "https://www.livesoccertv.com/match/nasaf-vs-agmk/b9grf",
+      "status": "upcoming",
+      "channel": "Sport UZ",
+      "events": null,
+      "dataContent": ""
+    },
+    {
+      "categories": "Ukraina - Liga Premier Ukraina",
+      "title": "Shakhtar Donetsk - Kudrivka",
+      "path": "shakhtar-donetsk-vs-kudrivka-03-08-26",
+      "dateTime": "2026-08-03T15:00:00+00:00",
+      "score": null,
+      "team1ImgUrl": null,
+      "team2ImgUrl": null,
+      "catImgUrl": null,
+      "playerId": "31446",
+      "linkToEvent": "https://www.livesoccertv.com/match/shakhtar-donetsk-vs-kudrivka/6irh2o",
+      "status": "upcoming",
+      "channel": "UPL.TV",
+      "events": null,
+      "dataContent": ""
+    }
+  ]
+}
