@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T11:00:03.441Z",
+  "generatedAt": "2026-08-04T11:05:04.584Z",
   "totalEvents": 12,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "jeju-united-vs-bayern-mnchen-04-08-26",
       "dateTime": "2026-08-04T11:00:00+00:00",
       "location": "Jeju World Cup Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
