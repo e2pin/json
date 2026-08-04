@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T20:25:09.669Z",
+  "generatedAt": "2026-08-04T20:40:09.897Z",
   "totalEvents": 12,
   "events": [
     {
@@ -193,7 +193,7 @@
       "playerId": "2525",
       "dataContent": "",
       "linkToEvent": "https://www.livesoccertv.com/match/ipswich-town-vs-le-havre/3zq8b",
-      "status": "live"
+      "status": "finished"
     }
   ]
 }
