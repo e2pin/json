@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generatedAt": "2026-08-04T15:30:05.551Z",
+  "generatedAt": "2026-08-04T15:35:05.609Z",
   "totalEvents": 12,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "rodina-moskva-vs-rubin-kazan-04-08-26",
       "dateTime": "2026-08-04T15:30:00+00:00",
       "location": "Arena Khimki",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -57,7 +57,7 @@
       "path": "dynamo-makhachkala-vs-krylya-sovetov-04-08-26",
       "dateTime": "2026-08-04T15:30:00+00:00",
       "location": "Anzhi Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
