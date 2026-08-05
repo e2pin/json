@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generatedAt": "2026-08-05T11:30:07.090Z",
+  "generatedAt": "2026-08-05T11:35:05.833Z",
   "totalEvents": 12,
   "events": [
     {
@@ -57,7 +57,7 @@
       "path": "chelsea-vs-juventus-05-08-26",
       "dateTime": "2026-08-05T11:30:00+00:00",
       "location": "Kai Tak Sports Park",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
