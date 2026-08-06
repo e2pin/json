@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T10:18:15.251Z",
+  "generatedAt": "2026-08-06T10:34:37.250Z",
   "language": "RU",
   "totalEvents": 10,
   "events": [
@@ -18,7 +18,7 @@
       "status": "upcoming",
       "channel": "Unknown",
       "events": null,
-      "dataContent": "translated data content HTML if provided, otherwise empty string or null, e.g. '' or null, here we use empty string for simplicity as it was not provided in the prompt and is not required to be translated in this case, so we leave it empty as '' and do not touch the tag structure itself and translate only the text inside the tags, never the tag structure itself, and keep all the other parameters same as in source and do not change any numbers, dates, times, scores, and keep the same h1/h2/h3, tables, paragraphs, FAQ, lists, etc. as in source and preserve line breaks and whitespace, and do not add CSS, inline styles, or JavaScript, and do not add backslashes or escape quotes in HTML attributes — keep them as plain quotes, and preserve all HTML structure exactly as in source, so here we leave it empty as '' for simplicity and do not touch it as it was not provided in the prompt and is not required to be translated in this case and do not change any other parameters, and keep them same as in source, so we leave "
+      "dataContent": ""
     },
     {
       "categories": "Европа - Лига Европы УЕФА",
