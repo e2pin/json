@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generatedAt": "2026-08-07T13:00:07.019Z",
+  "generatedAt": "2026-08-07T13:05:04.863Z",
   "totalEvents": 8,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "singapore-vs-indonesia-07-08-26",
       "dateTime": "2026-08-07T13:00:00+00:00",
       "location": "Jalan Besar Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -41,7 +41,7 @@
       "path": "vietnam-vs-cambodia-07-08-26",
       "dateTime": "2026-08-07T13:00:00+00:00",
       "location": "My Dinh National Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
