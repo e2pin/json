@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generatedAt": "2026-08-08T12:05:06.185Z",
+  "generatedAt": "2026-08-08T12:10:08.136Z",
   "totalEvents": 17,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "chelsea-vs-milan-08-08-26",
       "dateTime": "2026-08-08T12:00:00+00:00",
       "location": "Gelora Bung Karno Madya Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
