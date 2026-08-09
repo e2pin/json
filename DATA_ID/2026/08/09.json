@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-09T19:30:07.319Z",
+  "generatedAt": "2026-08-09T19:35:07.867Z",
   "totalEvents": 16,
   "events": [
     {
@@ -233,7 +233,7 @@
       "path": "gil-vicente-vs-rio-ave-09-08-26",
       "dateTime": "2026-08-09T19:30:00+00:00",
       "location": "Estádio Cidade de Barcelos (Barcelos)",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -249,7 +249,7 @@
       "path": "benfica-vs-academico-viseu-09-08-26",
       "dateTime": "2026-08-09T19:30:00+00:00",
       "location": "Estádio do Sport Lisboa e Benfica (da Luz) (Lisboa)",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
