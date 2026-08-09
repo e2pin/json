@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-09T11:00:02.163Z",
+  "generatedAt": "2026-08-09T11:10:03.211Z",
   "totalEvents": 15,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "manchester-city-vs-atltico-madrid-09-08-26",
       "dateTime": "2026-08-09T11:00:00+00:00",
       "location": "Seoul World Cup Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
