@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generatedAt": "2026-08-09T15:00:13.055Z",
+  "generatedAt": "2026-08-09T15:05:10.343Z",
   "totalEvents": 16,
   "events": [
     {
@@ -137,7 +137,7 @@
       "path": "wolfsberger-ac-vs-salzburg-09-08-26",
       "dateTime": "2026-08-09T15:00:00+00:00",
       "location": "Lavanttal-Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
