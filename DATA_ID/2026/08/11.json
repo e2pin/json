@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generatedAt": "2026-08-11T16:00:08.017Z",
+  "generatedAt": "2026-08-11T16:05:06.155Z",
   "totalEvents": 12,
   "events": [
     {
@@ -57,7 +57,7 @@
       "path": "iberia-1999-vs-larne-11-08-26",
       "dateTime": "2026-08-11T16:00:00+00:00",
       "location": "Mikheil Meskhi Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -73,7 +73,7 @@
       "path": "bod-glimt-vs-union-saintgilloise-11-08-26",
       "dateTime": "2026-08-11T16:00:00+00:00",
       "location": "Aspmyra Stadion",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
