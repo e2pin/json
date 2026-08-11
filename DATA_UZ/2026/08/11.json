@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generatedAt": "2026-08-11T15:00:04.097Z",
+  "generatedAt": "2026-08-11T15:05:04.946Z",
   "totalEvents": 12,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "kairat-vs-levski-sofia-11-08-26",
       "dateTime": "2026-08-11T15:00:00+00:00",
       "location": "Turkestan Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -41,7 +41,7 @@
       "path": "pakhtakor-vs-al-hussein-11-08-26",
       "dateTime": "2026-08-11T15:00:00+00:00",
       "location": "Pakhtakor Central Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
