@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generatedAt": "2026-08-12T14:00:03.837Z",
+  "generatedAt": "2026-08-12T14:10:06.856Z",
   "totalEvents": 10,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "broke-boys-vs-dinamo-kirov-12-08-26",
       "dateTime": "2026-08-12T14:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -25,7 +25,7 @@
       "path": "fk-shumbrat-saransk-vs-2drots-12-08-26",
       "dateTime": "2026-08-12T14:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
