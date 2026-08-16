@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generatedAt": "2026-08-16T11:30:03.331Z",
+  "generatedAt": "2026-08-16T11:35:02.761Z",
   "totalEvents": 19,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "zenit-vs-dinamo-moskva-16-08-26",
       "dateTime": "2026-08-16T11:30:00+00:00",
       "location": "Gazprom Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
