@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generatedAt": "2026-08-16T12:30:05.958Z",
+  "generatedAt": "2026-08-16T12:35:05.772Z",
   "totalEvents": 19,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "metalist-1925-kharkiv-vs-shakhtar-donetsk-16-08-26",
       "dateTime": "2026-08-16T12:30:00+00:00",
       "location": "Arena Livyi Bereg",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
