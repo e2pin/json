@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generatedAt": "2026-08-17T18:45:05.368Z",
+  "generatedAt": "2026-08-17T18:50:05.824Z",
   "totalEvents": 7,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "cremonese-vs-sampdoria-17-08-26",
       "dateTime": "2026-08-17T18:45:00+00:00",
       "location": "Stadio Giovanni Zini",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-coppa-italia.webp",
