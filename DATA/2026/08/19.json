@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generatedAt": "2026-08-19T08:24:15.061Z",
+  "generatedAt": "2026-08-19T09:48:25.852Z",
   "totalEvents": 12,
   "problematicEventsCount": 0,
   "events": [
@@ -107,7 +107,7 @@
       "channel": "Match Premier"
     },
     {
-      "categories": "Club Friendly",
+      "categories": "World - Club Friendly",
       "title": "Barcelona vs Al Ahly",
       "path": "barcelona-vs-al-ahly-19-08-26",
       "dateTime": "2026-08-19T18:00:00+00:00",
