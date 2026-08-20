@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generatedAt": "2026-08-20T17:00:08.849Z",
+  "generatedAt": "2026-08-20T17:05:07.284Z",
   "totalEvents": 11,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "csu-craiova-vs-ararat-armenia-20-08-26",
       "dateTime": "2026-08-20T17:00:00+00:00",
       "location": "Stadionul Ion Oblemenco",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -57,7 +57,7 @@
       "path": "beikta-vs-kauno-algiris-20-08-26",
       "dateTime": "2026-08-20T17:00:00+00:00",
       "location": "Besiktas Park",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
