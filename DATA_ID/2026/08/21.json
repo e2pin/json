@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generatedAt": "2026-08-21T18:30:07.121Z",
+  "generatedAt": "2026-08-21T18:35:07.406Z",
   "totalEvents": 8,
   "events": [
     {
@@ -73,7 +73,7 @@
       "path": "bb-erzurumspor-vs-galatasaray-21-08-26",
       "dateTime": "2026-08-21T18:30:00+00:00",
       "location": "Kazım Karabekir Stadyumu (Erzurum)",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
