@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generatedAt": "2026-08-22T17:20:11.498Z",
+  "generatedAt": "2026-08-22T17:25:13.253Z",
   "totalEvents": 21,
   "events": [
     {
@@ -217,7 +217,7 @@
       "path": "cska-moskva-vs-lokomotiv-moskva-22-08-26",
       "dateTime": "2026-08-22T17:15:00+00:00",
       "location": "VEB Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
