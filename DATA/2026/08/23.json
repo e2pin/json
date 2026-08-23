@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generatedAt": "2026-08-23T11:00:04.653Z",
+  "generatedAt": "2026-08-23T11:05:04.448Z",
   "totalEvents": 20,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "west-bromwich-albion-vs-burnley-23-08-26",
       "dateTime": "2026-08-23T11:00:00+00:00",
       "location": "The Hawthorns",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
