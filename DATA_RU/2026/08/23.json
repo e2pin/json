@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generatedAt": "2026-08-23T13:00:12.960Z",
+  "generatedAt": "2026-08-23T13:05:08.925Z",
   "totalEvents": 20,
   "events": [
     {
@@ -57,7 +57,7 @@
       "path": "manchester-city-vs-afc-bournemouth-23-08-26",
       "dateTime": "2026-08-23T13:00:00+00:00",
       "location": "Etihad Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
@@ -73,7 +73,7 @@
       "path": "angers-sco-vs-lille-23-08-26",
       "dateTime": "2026-08-23T13:00:00+00:00",
       "location": "Stade Raymond-Kopa",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -89,7 +89,7 @@
       "path": "brighton-hove-albion-vs-aston-villa-23-08-26",
       "dateTime": "2026-08-23T13:00:00+00:00",
       "location": "Amex Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
