@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generatedAt": "2026-08-23T10:00:04.682Z",
+  "generatedAt": "2026-08-23T10:05:10.427Z",
   "totalEvents": 20,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "akron-vs-krylya-sovetov-23-08-26",
       "dateTime": "2026-08-23T10:00:00+00:00",
       "location": "Samara Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
