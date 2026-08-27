@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generatedAt": "2026-08-27T17:00:06.200Z",
+  "generatedAt": "2026-08-27T17:05:06.676Z",
   "totalEvents": 14,
   "events": [
     {
@@ -89,7 +89,7 @@
       "path": "kauno-algiris-vs-beikta-27-08-26",
       "dateTime": "2026-08-27T17:00:00+00:00",
       "location": "SM Tauras Stadionas (Kaunas)",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
