@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generatedAt": "2026-08-28T19:00:14.172Z",
+  "generatedAt": "2026-08-28T19:05:09.878Z",
   "totalEvents": 13,
   "events": [
     {
@@ -169,7 +169,7 @@
       "path": "crystal-palace-vs-manchester-city-28-08-26",
       "dateTime": "2026-08-28T19:00:00+00:00",
       "location": "Selhurst Park",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
