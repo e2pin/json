@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generatedAt": "2026-08-28T17:00:07.021Z",
+  "generatedAt": "2026-08-28T17:05:06.688Z",
   "totalEvents": 13,
   "events": [
     {
@@ -89,7 +89,7 @@
       "path": "racing-santander-vs-elche-28-08-26",
       "dateTime": "2026-08-28T17:00:00+00:00",
       "location": "Estadio El Sardinero",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
