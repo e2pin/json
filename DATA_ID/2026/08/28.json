@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generatedAt": "2026-08-28T18:00:08.652Z",
+  "generatedAt": "2026-08-28T18:05:07.459Z",
   "totalEvents": 13,
   "events": [
     {
@@ -105,7 +105,7 @@
       "path": "al-nassr-vs-al-taawon-28-08-26",
       "dateTime": "2026-08-28T18:00:00+00:00",
       "location": "King Saud University Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "saudi-arabia-pro-league.webp",
