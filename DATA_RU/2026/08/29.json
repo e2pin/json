@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T11:30:05.723Z",
+  "generatedAt": "2026-08-29T11:35:04.269Z",
   "totalEvents": 24,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "liverpool-vs-nottingham-forest-29-08-26",
       "dateTime": "2026-08-29T11:30:00+00:00",
       "location": "Anfield",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
@@ -25,7 +25,7 @@
       "path": "middlesbrough-vs-west-bromwich-albion-29-08-26",
       "dateTime": "2026-08-29T11:30:00+00:00",
       "location": "Riverside Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
