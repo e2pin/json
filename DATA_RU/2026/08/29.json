@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generatedAt": "2026-08-29T14:30:14.092Z",
+  "generatedAt": "2026-08-29T14:35:10.116Z",
   "totalEvents": 24,
   "events": [
     {
@@ -105,7 +105,7 @@
       "path": "krasnodar-vs-rostov-29-08-26",
       "dateTime": "2026-08-29T14:30:00+00:00",
       "location": "Ozon Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -121,7 +121,7 @@
       "path": "dinamo-brest-vs-ml-rogachev-29-08-26",
       "dateTime": "2026-08-29T14:30:00+00:00",
       "location": "Regional Sport Complex Brestskiy",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "belarus-belarus-premier-league.webp",
