@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "generatedAt": "2026-08-30T17:30:10.794Z",
+  "generatedAt": "2026-08-30T17:35:10.814Z",
   "totalEvents": 21,
   "events": [
     {
@@ -249,7 +249,7 @@
       "path": "deportivo-la-corua-vs-valencia-30-08-26",
       "dateTime": "2026-08-30T17:30:00+00:00",
       "location": "Estadio Municipal de Riazor",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
