@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generatedAt": "2026-08-31T16:30:04.763Z",
+  "generatedAt": "2026-08-31T16:40:04.893Z",
   "totalEvents": 9,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "lecce-vs-roma-31-08-26",
       "dateTime": "2026-08-31T16:30:00+00:00",
       "location": "Stadio Via del Mare",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
