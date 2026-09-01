@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T17:45:04.717Z",
+  "generatedAt": "2026-09-01T17:50:09.883Z",
   "totalEvents": 7,
   "events": [
     {
@@ -57,7 +57,7 @@
       "path": "rostov-vs-cska-moskva-01-09-26",
       "dateTime": "2026-09-01T17:45:00+00:00",
       "location": "Rostov Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
