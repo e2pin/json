@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generatedAt": "2026-09-01T18:00:07.198Z",
+  "generatedAt": "2026-09-01T18:05:06.218Z",
   "totalEvents": 7,
   "events": [
     {
@@ -73,7 +73,7 @@
       "path": "al-hilal-vs-alahli-01-09-26",
       "dateTime": "2026-09-01T18:00:00+00:00",
       "location": "Kingdom Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "saudi-arabia-pro-league.webp",
