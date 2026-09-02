@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "generatedAt": "2026-09-02T13:00:03.406Z",
+  "generatedAt": "2026-09-02T13:05:04.459Z",
   "totalEvents": 7,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "sassuolo-vs-frosinone-02-09-26",
       "dateTime": "2026-09-02T13:00:00+00:00",
       "location": "MAPEI Stadium - Città del Tricolore (Reggio nell'Emilia)",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-coppa-italia.webp",
