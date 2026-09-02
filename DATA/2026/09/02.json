@@ -1,7 +1,7 @@
 {
   "date": "2026-09-02",
-  "generatedAt": "2026-09-01T16:22:42.338Z",
-  "totalEvents": 8,
+  "generatedAt": "2026-09-02T07:17:32.105Z",
+  "totalEvents": 10,
   "problematicEventsCount": 0,
   "events": [
     {
@@ -73,6 +73,23 @@
       "channel": "Match! Football 1"
     },
     {
+      "categories": "Austria - Bundesliga",
+      "title": "Austria Wien vs WSG Tirol",
+      "path": "austria-wien-vs-wsg-tirol-02-09-26",
+      "dateTime": "2026-09-02T16:30:00+00:00",
+      "location": "Generali Arena",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "7271",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/austria-wien-vs-wsg-tirol/bph5c",
+      "status": "upcoming",
+      "channel": "Sportklub 3 Croatia"
+    },
+    {
       "categories": "Russia - Russian Cup",
       "title": "Spartak Moskva vs Rodina Moskva",
       "path": "spartak-moskva-vs-rodina-moskva-02-09-26",
@@ -122,6 +139,23 @@
       "linkToEvent": "https://www.livesoccertv.com/match/thun-vs-lausanne-sport/61ouk",
       "status": "upcoming",
       "channel": "Sport 1 Ukraine"
+    },
+    {
+      "categories": "Austria - Bundesliga",
+      "title": "Salzburg vs Rapid Wien",
+      "path": "salzburg-vs-rapid-wien-02-09-26",
+      "dateTime": "2026-09-02T18:30:00+00:00",
+      "location": "Red Bull Arena",
+      "score": null,
+      "team1_img_url": null,
+      "team2_img_url": null,
+      "cat_img_url": null,
+      "events": null,
+      "playerId": "7269",
+      "dataContent": "",
+      "linkToEvent": "https://www.livesoccertv.com/match/salzburg-vs-rapid-wien/2ifsp",
+      "status": "upcoming",
+      "channel": "Sportklub 1 Croatia"
     },
     {
       "categories": "England - Championship",
