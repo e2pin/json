@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generatedAt": "2026-09-03T19:00:08.452Z",
+  "generatedAt": "2026-09-03T19:05:07.961Z",
   "totalEvents": 6,
   "events": [
     {
@@ -73,7 +73,7 @@
       "path": "cagliari-vs-verona-03-09-26",
       "dateTime": "2026-09-03T19:00:00+00:00",
       "location": "Unipol Domus",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-coppa-italia.webp",
@@ -89,7 +89,7 @@
       "path": "real-sociedad-vs-celta-de-vigo-03-09-26",
       "dateTime": "2026-09-03T19:00:00+00:00",
       "location": "Anoeta",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
