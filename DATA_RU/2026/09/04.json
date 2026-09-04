@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T17:00:07.692Z",
+  "generatedAt": "2026-09-04T17:05:06.706Z",
   "totalEvents": 12,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "slavia-vs-vitebsk-04-09-26",
       "dateTime": "2026-09-04T17:00:00+00:00",
       "location": "Stadion Junost",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "belarus-belarus-premier-league.webp",
@@ -57,7 +57,7 @@
       "path": "istanbul-baakehir-vs-galatasaray-04-09-26",
       "dateTime": "2026-09-04T17:00:00+00:00",
       "location": "Basaksehir Fatih Terim Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -73,7 +73,7 @@
       "path": "olympique-lyonnais-vs-auxerre-04-09-26",
       "dateTime": "2026-09-04T17:00:00+00:00",
       "location": "Parc Olympique Lyonnais",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
