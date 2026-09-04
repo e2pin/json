@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T12:00:04.548Z",
+  "generatedAt": "2026-09-04T12:10:04.563Z",
   "totalEvents": 12,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "bali-united-vs-pss-sleman-04-09-26",
       "dateTime": "2026-09-04T12:00:00+00:00",
       "location": "Kapten I Wayan Dipta Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
