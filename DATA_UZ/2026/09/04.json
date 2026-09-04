@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generatedAt": "2026-09-04T08:30:03.346Z",
+  "generatedAt": "2026-09-04T08:35:03.778Z",
   "totalEvents": 12,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "arema-vs-adhyaksa-04-09-26",
       "dateTime": "2026-09-04T08:30:00+00:00",
       "location": "Kanjuruhan Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
