@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "generatedAt": "2026-09-06T12:00:06.799Z",
+  "generatedAt": "2026-09-06T12:05:07.479Z",
   "totalEvents": 24,
   "events": [
     {
@@ -73,7 +73,7 @@
       "path": "persib-vs-psm-06-09-26",
       "dateTime": "2026-09-06T12:00:00+00:00",
       "location": "Gelora Bandung Lautan Api Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
