@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generatedAt": "2026-09-07T19:15:08.468Z",
+  "generatedAt": "2026-09-07T19:20:10.009Z",
   "totalEvents": 7,
   "events": [
     {
@@ -89,7 +89,7 @@
       "path": "estoril-vs-arouca-07-09-26",
       "dateTime": "2026-09-07T19:15:00+00:00",
       "location": "Estadio Antonio Coimbra da Mota",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
