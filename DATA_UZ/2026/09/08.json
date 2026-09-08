@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-08T19:00:23.377Z",
+  "generatedAt": "2026-09-08T19:05:13.908Z",
   "totalEvents": 13,
   "events": [
     {
@@ -137,7 +137,7 @@
       "path": "borussia-dortmund-vs-villarreal-08-09-26",
       "dateTime": "2026-09-08T19:00:00+00:00",
       "location": "Signal Iduna Park",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -169,7 +169,7 @@
       "path": "bolton-wanderers-vs-west-ham-united-08-09-26",
       "dateTime": "2026-09-08T19:00:00+00:00",
       "location": "Toughsheet Community Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -185,7 +185,7 @@
       "path": "lille-vs-real-betis-08-09-26",
       "dateTime": "2026-09-08T19:00:00+00:00",
       "location": "Stade Pierre-Mauroy",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -201,7 +201,7 @@
       "path": "porto-vs-manchester-city-08-09-26",
       "dateTime": "2026-09-08T19:00:00+00:00",
       "location": "Estádio Do Dragão (Porto)",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
