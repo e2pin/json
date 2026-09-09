@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generatedAt": "2026-09-09T16:45:06.439Z",
+  "generatedAt": "2026-09-09T16:50:06.736Z",
   "totalEvents": 11,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "barcelona-vs-feyenoord-09-09-26",
       "dateTime": "2026-09-09T16:45:00+00:00",
       "location": "Camp Nou",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -57,7 +57,7 @@
       "path": "stuttgart-vs-viking-09-09-26",
       "dateTime": "2026-09-09T16:45:00+00:00",
       "location": "MHPArena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
