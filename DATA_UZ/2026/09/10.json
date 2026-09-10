@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T16:30:09.031Z",
+  "generatedAt": "2026-09-10T16:40:05.675Z",
   "totalEvents": 9,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "shinnik-vs-torpedo-moskva-10-09-26",
       "dateTime": "2026-09-10T16:30:00+00:00",
       "location": "Stadion Shinnik",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
