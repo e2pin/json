@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T19:00:11.894Z",
+  "generatedAt": "2026-09-10T19:05:10.384Z",
   "totalEvents": 9,
   "events": [
     {
@@ -73,7 +73,7 @@
       "path": "slavia-praha-vs-lens-10-09-26",
       "dateTime": "2026-09-10T19:00:00+00:00",
       "location": "Fortuna Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -89,7 +89,7 @@
       "path": "bayern-mnchen-vs-bod-glimt-10-09-26",
       "dateTime": "2026-09-10T19:00:00+00:00",
       "location": "Allianz Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -105,7 +105,7 @@
       "path": "manchester-united-vs-sabah-10-09-26",
       "dateTime": "2026-09-10T19:00:00+00:00",
       "location": "Old Trafford",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -121,7 +121,7 @@
       "path": "como-vs-rb-leipzig-10-09-26",
       "dateTime": "2026-09-10T19:00:00+00:00",
       "location": "Stadio Giuseppe Sinigaglia",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
