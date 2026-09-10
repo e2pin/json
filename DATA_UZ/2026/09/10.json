@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T07:25:57.771Z",
+  "generatedAt": "2026-09-10T08:20:48.275Z",
   "language": "UZ",
   "totalEvents": 9,
   "events": [
@@ -64,7 +64,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": "europe-uefa-champions-league.webp",
-      "playerId": "32004",
+      "playerId": "20135",
       "linkToEvent": "https://www.livesoccertv.com/match/roma-vs-fenerbahce/20w4p",
       "status": "upcoming",
       "channel": "Sport TV Belarus",
@@ -81,7 +81,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": "europe-uefa-champions-league.webp",
-      "playerId": "6554",
+      "playerId": "32008",
       "linkToEvent": "https://www.livesoccertv.com/match/lens-vs-slavia-praha/1tlhq",
       "status": "upcoming",
       "channel": "Okko Sport",
@@ -98,7 +98,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": "europe-uefa-champions-league.webp",
-      "playerId": "20062",
+      "playerId": "20135",
       "linkToEvent": "https://www.livesoccertv.com/match/bayern-munchen-vs-bodo-glimt/a3sgx",
       "status": "upcoming",
       "channel": "Q League",
