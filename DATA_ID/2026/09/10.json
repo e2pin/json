@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generatedAt": "2026-09-10T10:00:05.776Z",
+  "generatedAt": "2026-09-10T10:10:03.639Z",
   "totalEvents": 9,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "dinamo-barnaul-vs-chelyabinsk-10-09-26",
       "dateTime": "2026-09-10T10:00:00+00:00",
       "location": "Stadion Dynamo",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
