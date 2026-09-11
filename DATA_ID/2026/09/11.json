@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "generatedAt": "2026-09-11T12:00:07.885Z",
+  "generatedAt": "2026-09-11T12:05:05.896Z",
   "totalEvents": 12,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "dewa-united-vs-bhayangkara-11-09-26",
       "dateTime": "2026-09-11T12:00:00+00:00",
       "location": "Indomilk Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
