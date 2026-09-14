@@ -1,6 +1,6 @@
 {
   "date": "2026-09-14",
-  "generatedAt": "2026-09-14T16:00:11.023Z",
+  "generatedAt": "2026-09-14T16:05:07.801Z",
   "totalEvents": 15,
   "events": [
     {
@@ -57,7 +57,7 @@
       "path": "al-shamal-vs-al-ittihad-14-09-26",
       "dateTime": "2026-09-14T16:00:00+00:00",
       "location": "Al Bayt Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -73,7 +73,7 @@
       "path": "shabab-al-ahli-vs-tractor-sazi-14-09-26",
       "dateTime": "2026-09-14T16:00:00+00:00",
       "location": "Al Rashid Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
