@@ -1,6 +1,6 @@
 {
   "date": "2026-09-15",
-  "generatedAt": "2026-09-15T16:00:07.544Z",
+  "generatedAt": "2026-09-15T16:05:07.296Z",
   "totalEvents": 14,
   "events": [
     {
@@ -73,7 +73,7 @@
       "path": "al-ain-vs-al-nassr-15-09-26",
       "dateTime": "2026-09-15T16:00:00+00:00",
       "location": "Tahnoun Bin Mohamed Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -89,7 +89,7 @@
       "path": "genoa-vs-sdtirol-15-09-26",
       "dateTime": "2026-09-15T16:00:00+00:00",
       "location": "Stadio Luigi Ferraris",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-coppa-italia.webp",
