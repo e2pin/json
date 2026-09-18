@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generatedAt": "2026-09-18T19:00:08.236Z",
+  "generatedAt": "2026-09-18T19:05:08.742Z",
   "totalEvents": 9,
   "events": [
     {
@@ -121,7 +121,7 @@
       "path": "brentford-vs-chelsea-18-09-26",
       "dateTime": "2026-09-18T19:00:00+00:00",
       "location": "Brentford Community Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
@@ -137,7 +137,7 @@
       "path": "bristol-city-vs-watford-18-09-26",
       "dateTime": "2026-09-18T19:00:00+00:00",
       "location": "Ashton Gate Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
