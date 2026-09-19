@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T11:30:06.810Z",
+  "generatedAt": "2026-09-19T11:35:08.654Z",
   "totalEvents": 26,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "tottenham-hotspur-vs-aston-villa-19-09-26",
       "dateTime": "2026-09-19T11:30:00+00:00",
       "location": "Tottenham Hotspur Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
@@ -57,7 +57,7 @@
       "path": "millwall-vs-west-ham-united-19-09-26",
       "dateTime": "2026-09-19T11:30:00+00:00",
       "location": "The Den",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
