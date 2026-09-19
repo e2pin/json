@@ -1,6 +1,6 @@
 {
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T10:05:05.457Z",
+  "generatedAt": "2026-09-19T10:10:04.157Z",
   "totalEvents": 33,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "metalist-1925-kharkiv-vs-bukovyna-19-09-26",
       "dateTime": "2026-09-19T10:00:00+00:00",
       "location": "Arena Livyi Bereg",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
