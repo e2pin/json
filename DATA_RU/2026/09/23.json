@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generatedAt": "2026-09-23T16:00:06.808Z",
+  "generatedAt": "2026-09-23T16:05:11.716Z",
   "totalEvents": 2,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "gibraltar-vs-sao-tome-e-principe-23-09-26",
       "dateTime": "2026-09-23T16:00:00+00:00",
       "location": "Europa Point Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -25,7 +25,7 @@
       "path": "azerbaijan-vs-tajikistan-23-09-26",
       "dateTime": "2026-09-23T16:00:00+00:00",
       "location": "Palms Sports Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
