@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generatedAt": "2026-09-25T18:50:10.559Z",
+  "generatedAt": "2026-09-25T18:55:11.465Z",
   "totalEvents": 10,
   "events": [
     {
@@ -57,7 +57,7 @@
       "path": "hungary-vs-ukraine-25-09-26",
       "dateTime": "2026-09-25T18:45:00+00:00",
       "location": "Puskas Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -73,7 +73,7 @@
       "path": "turkey-vs-france-25-09-26",
       "dateTime": "2026-09-25T18:45:00+00:00",
       "location": "Kocaeli Stadyumu",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
