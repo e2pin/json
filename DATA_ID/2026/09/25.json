@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generatedAt": "2026-09-25T19:00:12.219Z",
+  "generatedAt": "2026-09-25T19:05:11.676Z",
   "totalEvents": 10,
   "events": [
     {
@@ -153,7 +153,7 @@
       "path": "mali-vs-cape-verde-islands-25-09-26",
       "dateTime": "2026-09-25T19:00:00+00:00",
       "location": "Stade du 26 Mars",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
