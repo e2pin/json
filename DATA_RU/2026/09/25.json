@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generatedAt": "2026-09-25T16:00:04.765Z",
+  "generatedAt": "2026-09-25T16:05:05.271Z",
   "totalEvents": 10,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "armenia-vs-latvia-25-09-26",
       "dateTime": "2026-09-25T16:00:00+00:00",
       "location": "Vazgen Sargsyan Republican Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -41,7 +41,7 @@
       "path": "georgia-vs-northern-ireland-25-09-26",
       "dateTime": "2026-09-25T16:00:00+00:00",
       "location": "Boris Paichadze Dinamo Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
