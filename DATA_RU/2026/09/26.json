@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "generatedAt": "2026-09-26T16:00:10.461Z",
+  "generatedAt": "2026-09-26T16:05:08.377Z",
   "totalEvents": 10,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "faroe-islands-vs-kazakhstan-26-09-26",
       "dateTime": "2026-09-26T16:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -41,7 +41,7 @@
       "path": "bulgaria-vs-luxembourg-26-09-26",
       "dateTime": "2026-09-26T16:00:00+00:00",
       "location": "Stadion Hristo Botev",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -57,7 +57,7 @@
       "path": "iceland-vs-estonia-26-09-26",
       "dateTime": "2026-09-26T16:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -73,7 +73,7 @@
       "path": "san-marino-vs-finland-26-09-26",
       "dateTime": "2026-09-26T16:00:00+00:00",
       "location": "San Marino Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
