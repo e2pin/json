@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "generatedAt": "2026-09-26T18:45:22.454Z",
+  "generatedAt": "2026-09-26T18:50:12.188Z",
   "totalEvents": 10,
   "events": [
     {
@@ -89,7 +89,7 @@
       "path": "czech-republic-vs-croatia-26-09-26",
       "dateTime": "2026-09-26T18:45:00+00:00",
       "location": "Fortuna Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -105,7 +105,7 @@
       "path": "north-macedonia-vs-switzerland-26-09-26",
       "dateTime": "2026-09-26T18:45:00+00:00",
       "location": "National Arena Toshe Proeski",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -137,7 +137,7 @@
       "path": "slovakia-vs-moldova-26-09-26",
       "dateTime": "2026-09-26T18:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
