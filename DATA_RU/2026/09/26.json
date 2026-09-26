@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T08:45:34.746Z",
+  "generatedAt": "2026-09-26T08:54:50.524Z",
   "language": "RU",
   "totalEvents": 10,
   "events": [
@@ -13,7 +13,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": null,
-      "playerId": "2525",
+      "playerId": "6554",
       "linkToEvent": "https://www.livesoccertv.com/match/scotland-vs-slovenia/wg3",
       "status": "upcoming",
       "channel": "Sport TV1",
@@ -30,7 +30,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": null,
-      "playerId": "2224",
+      "playerId": "20135",
       "linkToEvent": "https://www.livesoccertv.com/match/faroe-islands-vs-kazakhstan/msa",
       "status": "upcoming",
       "channel": "Qazsport",
@@ -166,7 +166,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": null,
-      "playerId": "2525",
+      "playerId": "6554",
       "linkToEvent": "https://www.livesoccertv.com/match/england-vs-spain/qal",
       "status": "upcoming",
       "channel": "Sport TV1",
