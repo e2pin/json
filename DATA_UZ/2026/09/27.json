@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "generatedAt": "2026-09-27T18:45:11.513Z",
+  "generatedAt": "2026-09-27T18:50:09.937Z",
   "totalEvents": 9,
   "events": [
     {
@@ -105,7 +105,7 @@
       "path": "norway-vs-portugal-27-09-26",
       "dateTime": "2026-09-27T18:45:00+00:00",
       "location": "Ullevaal Stadion",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -121,7 +121,7 @@
       "path": "germany-vs-greece-27-09-26",
       "dateTime": "2026-09-27T18:45:00+00:00",
       "location": "WWK Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -137,7 +137,7 @@
       "path": "israel-vs-ireland-republic-27-09-26",
       "dateTime": "2026-09-27T18:45:00+00:00",
       "location": "Nagyerdei Stadion",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
