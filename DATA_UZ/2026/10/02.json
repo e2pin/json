@@ -1,6 +1,6 @@
 {
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T14:00:04.171Z",
+  "generatedAt": "2026-10-02T14:05:03.586Z",
   "totalEvents": 11,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "kazakhstan-vs-moldova-02-10-26",
       "dateTime": "2026-10-02T14:00:00+00:00",
       "location": "Astana Arena",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
