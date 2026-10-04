@@ -1,6 +1,6 @@
 {
   "date": "2026-10-04",
-  "generatedAt": "2026-10-04T16:00:07.178Z",
+  "generatedAt": "2026-10-04T16:05:06.067Z",
   "totalEvents": 9,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "kosovo-vs-austria-04-10-26",
       "dateTime": "2026-10-04T16:00:00+00:00",
       "location": "Stadiumi Fadil Vokrri",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -57,7 +57,7 @@
       "path": "malta-vs-andorra-04-10-26",
       "dateTime": "2026-10-04T16:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
