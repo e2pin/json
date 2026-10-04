@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T07:52:19.735Z",
+  "generatedAt": "2026-10-04T08:29:32.813Z",
   "language": "RU",
   "totalEvents": 9,
   "events": [
@@ -30,7 +30,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": null,
-      "playerId": "2525",
+      "playerId": "6554",
       "linkToEvent": "https://www.livesoccertv.com/match/azerbaijan-vs-lithuania/lbd",
       "status": "upcoming",
       "channel": "Sport TV1",
@@ -81,7 +81,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": null,
-      "playerId": "32004",
+      "playerId": "6554",
       "linkToEvent": "https://www.livesoccertv.com/match/austria-vs-kosovo/13js",
       "status": "upcoming",
       "channel": "Sport TV Belarus",
@@ -149,7 +149,7 @@
       "team1ImgUrl": null,
       "team2ImgUrl": null,
       "catImgUrl": null,
-      "playerId": "32004",
+      "playerId": "6554",
       "linkToEvent": "https://www.livesoccertv.com/match/norway-vs-portugal/tlp",
       "status": "upcoming",
       "channel": "Sport TV Belarus",
