@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generatedAt": "2026-10-07T14:00:04.182Z",
+  "generatedAt": "2026-10-07T14:05:03.844Z",
   "totalEvents": 2,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "neftchi-vs-xorazm-07-10-26",
       "dateTime": "2026-10-07T14:00:00+00:00",
       "location": "Istiqlol Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
