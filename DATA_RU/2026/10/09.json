@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T17:00:07.596Z",
+  "generatedAt": "2026-10-09T17:05:05.401Z",
   "totalEvents": 12,
   "events": [
     {
@@ -89,7 +89,7 @@
       "path": "galatasaray-vs-kasmpaa-09-10-26",
       "dateTime": "2026-10-09T17:00:00+00:00",
       "location": "Rams Park",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
