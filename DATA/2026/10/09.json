@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generatedAt": "2026-10-09T08:30:03.010Z",
+  "generatedAt": "2026-10-09T08:35:03.362Z",
   "totalEvents": 12,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "persik-kediri-vs-madura-united-09-10-26",
       "dateTime": "2026-10-09T08:30:00+00:00",
       "location": "Brawijaya Stadium",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "indonesia-super-league.webp",
