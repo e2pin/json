@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T16:00:23.052Z",
+  "generatedAt": "2026-10-10T16:05:21.790Z",
   "totalEvents": 24,
   "events": [
     {
@@ -217,7 +217,7 @@
       "path": "internazionale-vs-parma-10-10-26",
       "dateTime": "2026-10-10T16:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
@@ -233,7 +233,7 @@
       "path": "rizespor-vs-fenerbahe-10-10-26",
       "dateTime": "2026-10-10T16:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
