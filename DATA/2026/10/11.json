@@ -1,6 +1,6 @@
 {
   "date": "2026-10-11",
-  "generatedAt": "2026-10-11T18:45:37.087Z",
+  "generatedAt": "2026-10-11T18:50:21.932Z",
   "totalEvents": 25,
   "events": [
     {
@@ -361,7 +361,7 @@
       "path": "troyes-vs-olympique-marseille-11-10-26",
       "dateTime": "2026-10-11T18:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -377,7 +377,7 @@
       "path": "cagliari-vs-juventus-11-10-26",
       "dateTime": "2026-10-11T18:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
