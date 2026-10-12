@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "generatedAt": "2026-10-12T18:20:11.305Z",
+  "generatedAt": "2026-10-12T18:30:12.842Z",
   "totalEvents": 10,
   "events": [
     {
@@ -89,7 +89,7 @@
       "path": "al-nassr-vs-neftchi-12-10-26",
       "dateTime": "2026-10-12T18:15:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
