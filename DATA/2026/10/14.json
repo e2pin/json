@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T16:45:17.629Z",
+  "generatedAt": "2026-10-14T16:50:17.251Z",
   "totalEvents": 19,
   "events": [
     {
@@ -169,7 +169,7 @@
       "path": "feyenoord-vs-como-14-10-26",
       "dateTime": "2026-10-14T16:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -185,7 +185,7 @@
       "path": "lask-linz-vs-liverpool-14-10-26",
       "dateTime": "2026-10-14T16:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
