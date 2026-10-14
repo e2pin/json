@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "generatedAt": "2026-10-14T13:45:16.452Z",
+  "generatedAt": "2026-10-14T13:50:14.686Z",
   "totalEvents": 19,
   "events": [
     {
@@ -89,7 +89,7 @@
       "path": "nasaf-vs-al-wahda-14-10-26",
       "dateTime": "2026-10-14T13:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "asia-afc-champions-league-two.webp",
