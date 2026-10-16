@@ -1,6 +1,6 @@
 {
   "date": "2026-10-16",
-  "generatedAt": "2026-10-16T18:45:07.092Z",
+  "generatedAt": "2026-10-16T18:50:06.605Z",
   "totalEvents": 5,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "frosinone-vs-sassuolo-16-10-26",
       "dateTime": "2026-10-16T18:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
@@ -41,7 +41,7 @@
       "path": "le-mans-vs-toulouse-16-10-26",
       "dateTime": "2026-10-16T18:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
