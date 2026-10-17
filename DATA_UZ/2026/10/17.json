@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T13:00:18.197Z",
+  "generatedAt": "2026-10-17T13:05:20.814Z",
   "totalEvents": 22,
   "events": [
     {
@@ -73,7 +73,7 @@
       "path": "venezia-vs-napoli-17-10-26",
       "dateTime": "2026-10-17T13:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
@@ -89,7 +89,7 @@
       "path": "genlerbirlii-vs-galatasaray-17-10-26",
       "dateTime": "2026-10-17T13:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
