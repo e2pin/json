@@ -1,6 +1,6 @@
 {
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T11:00:13.613Z",
+  "generatedAt": "2026-10-17T11:05:12.505Z",
   "totalEvents": 22,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "krylya-sovetov-vs-fakel-17-10-26",
       "dateTime": "2026-10-17T11:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
