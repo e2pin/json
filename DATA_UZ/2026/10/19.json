@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generatedAt": "2026-10-19T16:30:11.116Z",
+  "generatedAt": "2026-10-19T16:35:10.289Z",
   "totalEvents": 10,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "monza-vs-cagliari-19-10-26",
       "dateTime": "2026-10-19T16:30:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
@@ -57,7 +57,7 @@
       "path": "rodina-moskva-vs-orenburg-19-10-26",
       "dateTime": "2026-10-19T16:30:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
