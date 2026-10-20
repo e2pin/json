@@ -1,6 +1,6 @@
 {
   "date": "2026-10-20",
-  "generatedAt": "2026-10-20T16:45:09.616Z",
+  "generatedAt": "2026-10-20T16:50:09.791Z",
   "totalEvents": 9,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "fenerbahe-vs-slavia-praha-20-10-26",
       "dateTime": "2026-10-20T16:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -25,7 +25,7 @@
       "path": "sabah-vs-borussia-dortmund-20-10-26",
       "dateTime": "2026-10-20T16:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
