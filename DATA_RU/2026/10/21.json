@@ -1,6 +1,6 @@
 {
   "date": "2026-10-21",
-  "generatedAt": "2026-10-21T19:00:11.062Z",
+  "generatedAt": "2026-10-21T19:05:09.663Z",
   "totalEvents": 7,
   "events": [
     {
@@ -57,7 +57,7 @@
       "path": "bayern-mnchen-vs-arsenal-21-10-26",
       "dateTime": "2026-10-21T19:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -73,7 +73,7 @@
       "path": "sporting-cp-vs-lask-linz-21-10-26",
       "dateTime": "2026-10-21T19:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -89,7 +89,7 @@
       "path": "internazionale-vs-shakhtar-donetsk-21-10-26",
       "dateTime": "2026-10-21T19:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
@@ -105,7 +105,7 @@
       "path": "real-madrid-vs-rb-leipzig-21-10-26",
       "dateTime": "2026-10-21T19:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "europe-uefa-champions-league.webp",
