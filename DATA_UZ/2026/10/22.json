@@ -1,6 +1,6 @@
 {
   "date": "2026-10-22",
-  "generatedAt": "2026-10-22T19:00:16.350Z",
+  "generatedAt": "2026-10-22T19:05:15.461Z",
   "totalEvents": 14,
   "events": [
     {
@@ -169,7 +169,7 @@
       "path": "afc-bournemouth-vs-milan-22-10-26",
       "dateTime": "2026-10-22T19:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -185,7 +185,7 @@
       "path": "ajax-vs-atalanta-22-10-26",
       "dateTime": "2026-10-22T19:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -201,7 +201,7 @@
       "path": "monaco-vs-freiburg-22-10-26",
       "dateTime": "2026-10-22T19:00:00+00:00",
       "location": "Stade Louis II",
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -217,7 +217,7 @@
       "path": "beikta-vs-crystal-palace-22-10-26",
       "dateTime": "2026-10-22T19:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
