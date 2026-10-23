@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T18:45:13.151Z",
+  "generatedAt": "2026-10-23T18:50:13.768Z",
   "totalEvents": 12,
   "events": [
     {
@@ -121,7 +121,7 @@
       "path": "torino-vs-monza-23-10-26",
       "dateTime": "2026-10-23T18:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
@@ -137,7 +137,7 @@
       "path": "brest-vs-nice-23-10-26",
       "dateTime": "2026-10-23T18:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
