@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generatedAt": "2026-10-23T10:00:09.139Z",
+  "generatedAt": "2026-10-23T10:05:11.830Z",
   "totalEvents": 12,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "dynamo-kyiv-vs-kudrivka-23-10-26",
       "dateTime": "2026-10-23T10:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
