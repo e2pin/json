@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T12:00:18.176Z",
+  "generatedAt": "2026-10-24T12:05:15.690Z",
   "totalEvents": 23,
   "events": [
     {
@@ -73,7 +73,7 @@
       "path": "rayo-vallecano-vs-elche-24-10-26",
       "dateTime": "2026-10-24T12:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
