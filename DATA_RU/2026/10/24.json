@@ -1,6 +1,6 @@
 {
   "date": "2026-10-24",
-  "generatedAt": "2026-10-24T18:45:19.745Z",
+  "generatedAt": "2026-10-24T18:50:21.331Z",
   "totalEvents": 23,
   "events": [
     {
@@ -313,7 +313,7 @@
       "path": "lens-vs-paris-24-10-26",
       "dateTime": "2026-10-24T18:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
@@ -329,7 +329,7 @@
       "path": "lazio-vs-parma-24-10-26",
       "dateTime": "2026-10-24T18:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
