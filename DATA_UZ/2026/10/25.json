@@ -1,6 +1,6 @@
 {
   "date": "2026-10-25",
-  "generatedAt": "2026-10-25T10:45:15.134Z",
+  "generatedAt": "2026-10-25T10:50:13.968Z",
   "totalEvents": 23,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "rostov-vs-lokomotiv-moskva-25-10-26",
       "dateTime": "2026-10-25T10:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
