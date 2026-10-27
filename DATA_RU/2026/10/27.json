@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T15:00:16.062Z",
+  "generatedAt": "2026-10-27T15:05:14.866Z",
   "totalEvents": 17,
   "events": [
     {
@@ -105,7 +105,7 @@
       "path": "fakel-vs-akhmat-grozny-27-10-26",
       "dateTime": "2026-10-27T15:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
