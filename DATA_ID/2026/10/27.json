@@ -1,6 +1,6 @@
 {
   "date": "2026-10-27",
-  "generatedAt": "2026-10-27T16:00:15.959Z",
+  "generatedAt": "2026-10-27T16:05:16.671Z",
   "totalEvents": 17,
   "events": [
     {
@@ -121,7 +121,7 @@
       "path": "shabab-al-ahli-vs-esteghlal-27-10-26",
       "dateTime": "2026-10-27T16:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
