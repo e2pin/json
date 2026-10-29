@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T12:15:15.868Z",
+  "generatedAt": "2026-10-29T12:20:15.366Z",
   "totalEvents": 17,
   "events": [
     {
@@ -57,7 +57,7 @@
       "path": "wofoo-tai-po-vs-bangkok-glass-29-10-26",
       "dateTime": "2026-10-29T12:15:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "asia-afc-champions-league-two.webp",
@@ -73,7 +73,7 @@
       "path": "shanghai-shenhua-vs-machida-zelvia-29-10-26",
       "dateTime": "2026-10-29T12:15:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "asia-afc-champions-league-two.webp",
@@ -89,7 +89,7 @@
       "path": "phnom-penh-crown-vs-kitchee-29-10-26",
       "dateTime": "2026-10-29T12:15:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "asia-afc-champions-league-two.webp",
