@@ -1,6 +1,6 @@
 {
   "date": "2026-10-29",
-  "generatedAt": "2026-10-29T10:00:18.637Z",
+  "generatedAt": "2026-10-29T10:05:13.249Z",
   "totalEvents": 17,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "tampines-rovers-vs-svay-rieng-29-10-26",
       "dateTime": "2026-10-29T10:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "asia-afc-champions-league-two.webp",
@@ -41,7 +41,7 @@
       "path": "gangwon-vs-kuching-city-29-10-26",
       "dateTime": "2026-10-29T10:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "asia-afc-champions-league-two.webp",
