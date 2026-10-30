@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generatedAt": "2026-10-30T20:05:11.544Z",
+  "generatedAt": "2026-10-30T20:10:11.959Z",
   "totalEvents": 10,
   "events": [
     {
@@ -137,7 +137,7 @@
       "path": "lille-vs-lens-30-10-26",
       "dateTime": "2026-10-30T20:05:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
