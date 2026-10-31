@@ -1,6 +1,6 @@
 {
   "date": "2026-10-31",
-  "generatedAt": "2026-10-31T19:45:18.731Z",
+  "generatedAt": "2026-10-31T19:55:19.687Z",
   "totalEvents": 21,
   "events": [
     {
@@ -281,7 +281,7 @@
       "path": "milan-vs-internazionale-31-10-26",
       "dateTime": "2026-10-31T19:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "italy-serie-a.webp",
