@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "generatedAt": "2026-11-01T13:00:21.533Z",
+  "generatedAt": "2026-11-01T13:05:22.126Z",
   "totalEvents": 24,
   "events": [
     {
@@ -89,7 +89,7 @@
       "path": "trabzonspor-vs-gaziantep-fk-01-11-26",
       "dateTime": "2026-11-01T13:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
