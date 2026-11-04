@@ -1,6 +1,6 @@
 {
   "date": "2026-11-04",
-  "generatedAt": "2026-11-04T15:30:16.674Z",
+  "generatedAt": "2026-11-04T15:35:15.778Z",
   "totalEvents": 20,
   "events": [
     {
@@ -121,7 +121,7 @@
       "path": "rennes-vs-olympiakos-piraeus-04-11-26",
       "dateTime": "2026-11-04T15:30:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
