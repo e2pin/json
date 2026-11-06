@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T19:30:09.203Z",
+  "generatedAt": "2026-11-06T19:35:09.808Z",
   "totalEvents": 8,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "hamburger-sv-vs-borussia-mgladbach-06-11-26",
       "dateTime": "2026-11-06T19:30:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
