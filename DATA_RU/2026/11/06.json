@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "generatedAt": "2026-11-06T20:00:09.969Z",
+  "generatedAt": "2026-11-06T20:05:10.315Z",
   "totalEvents": 8,
   "events": [
     {
@@ -89,7 +89,7 @@
       "path": "everton-vs-coventry-city-06-11-26",
       "dateTime": "2026-11-06T20:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "england-premier-league.webp",
@@ -105,7 +105,7 @@
       "path": "sevilla-vs-deportivo-alavs-06-11-26",
       "dateTime": "2026-11-06T20:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "spain-la-liga.webp",
