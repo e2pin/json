@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "generatedAt": "2026-11-16T12:00:21.315Z",
+  "generatedAt": "2026-11-16T12:15:12.733Z",
   "totalEvents": 11,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "russia-u21-vs-kyrgyz-republic-u23-16-11-26",
       "dateTime": "2026-11-16T12:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
