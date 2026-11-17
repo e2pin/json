@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "generatedAt": "2026-11-17T15:30:13.831Z",
+  "generatedAt": "2026-11-17T15:35:14.226Z",
   "totalEvents": 14,
   "events": [
     {
@@ -57,7 +57,7 @@
       "path": "saudi-arabia-vs-uzbekistan-17-11-26",
       "dateTime": "2026-11-17T15:30:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
