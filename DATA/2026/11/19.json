@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "generatedAt": "2026-11-19T13:00:05.168Z",
+  "generatedAt": "2026-11-19T13:05:04.900Z",
   "totalEvents": 2,
   "events": [
     {
@@ -9,7 +9,7 @@
       "path": "surkhon-vs-andijan-19-11-26",
       "dateTime": "2026-11-19T13:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
