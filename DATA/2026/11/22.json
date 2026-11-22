@@ -1,6 +1,6 @@
 {
   "date": "2026-11-22",
-  "generatedAt": "2026-11-22T20:45:20.879Z",
+  "generatedAt": "2026-11-22T20:50:18.494Z",
   "totalEvents": 24,
   "events": [
     {
@@ -377,7 +377,7 @@
       "path": "torreense-vs-benfica-22-11-26",
       "dateTime": "2026-11-22T20:45:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
