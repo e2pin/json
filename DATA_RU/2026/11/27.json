@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "generatedAt": "2026-11-27T17:00:10.478Z",
+  "generatedAt": "2026-11-27T17:05:11.501Z",
   "totalEvents": 11,
   "events": [
     {
@@ -41,7 +41,7 @@
       "path": "alanyaspor-vs-konyaspor-27-11-26",
       "dateTime": "2026-11-27T17:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
