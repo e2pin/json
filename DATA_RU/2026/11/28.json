@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "generatedAt": "2026-11-28T11:05:15.441Z",
+  "generatedAt": "2026-11-28T11:10:14.068Z",
   "totalEvents": 24,
   "events": [
     {
@@ -25,7 +25,7 @@
       "path": "dynamo-kyiv-vs-chornomorets-28-11-26",
       "dateTime": "2026-11-28T11:00:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": null,
