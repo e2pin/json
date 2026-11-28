@@ -1,6 +1,6 @@
 {
   "date": "2026-11-28",
-  "generatedAt": "2026-11-28T14:20:21.226Z",
+  "generatedAt": "2026-11-28T14:25:24.894Z",
   "totalEvents": 24,
   "events": [
     {
@@ -121,7 +121,7 @@
       "path": "al-ittifaq-vs-al-hilal-28-11-26",
       "dateTime": "2026-11-28T14:20:00+00:00",
       "location": null,
-      "score": null,
+      "score": "0 - 0",
       "team1_img_url": null,
       "team2_img_url": null,
       "cat_img_url": "saudi-arabia-pro-league.webp",
